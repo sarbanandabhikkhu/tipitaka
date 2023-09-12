@@ -1,0 +1,188 @@
+[
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "chapter"
+    },
+    "innerText": "(18) 8. Rāgapeyyālaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "184"
+      },
+      ". ‘‘Rāgassa ",
+      ", bhikkhave, abhiññāya tayo dhammā bhāvetabbā. Katame tayo? Suññato samādhi, animitto samādhi, appaṇihito samādhi – rāgassa, bhikkhave, abhiññāya ime tayo dhammā bhāvetabbā. ( ) ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[(rāgassa bhikkhave abhiññāya tayo dhammā bhāvetabbā. katame tayo? savitakkasavicāro samādhi, avitakkavicāramatto samādhi, avitakkaavicāro samādhi. rāgassa bhikkhave abhiññāya ime tayo dhammā bhāvetabbā.) etthantare pāṭho katthaci dissati, aṭṭhakathāyaṃ passitabbo]"
+      }
+    ],
+    "innerText": "184. ‘‘Rāgassa , bhikkhave, abhiññāya tayo dhammā bhāvetabbā. Katame tayo? Suññato samādhi, animitto samādhi, appaṇihito samādhi – rāgassa, bhikkhave, abhiññāya ime tayo dhammā bhāvetabbā. ( ) [(rāgassa bhikkhave abhiññāya tayo dhammā bhāvetabbā. katame tayo? savitakkasavicāro samādhi, avitakkavicāramatto samādhi, avitakkaavicāro samādhi. rāgassa bhikkhave abhiññāya ime tayo dhammā bhāvetabbā.) etthantare pāṭho katthaci dissati, aṭṭhakathāyaṃ passitabbo]"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "‘‘Rāgassa ",
+      ", bhikkhave, pariññāya…pe… parikkhayāya… pahānāya… khayāya… vayāya… virāgāya… nirodhāya… cāgāya… paṭinissaggāya ime tayo dhammā bhāvetabbā."
+    ],
+    "innerText": "‘‘Rāgassa , bhikkhave, pariññāya…pe… parikkhayāya… pahānāya… khayāya… vayāya… virāgāya… nirodhāya… cāgāya… paṭinissaggāya ime tayo dhammā bhāvetabbā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "‘‘Dosassa… mohassa… kodhassa… upanāhassa… makkhassa… palāsassa… issāya… macchariyassa… māyāya… sāṭheyyassa… thambhassa… sārambhassa… mānassa… atimānassa… madassa… pamādassa abhiññāya… pariññāya… parikkhayāya… pahānāya… khayāya… vayāya… virāgāya… nirodhāya… cāgāya… paṭinissaggāya ime tayo dhammā bhāvetabbā’’ti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "(Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti.) ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[( ) etthantare pāṭho syā. kaṃ. ka. potthakesu na dissati]"
+      }
+    ],
+    "innerText": "(Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti.) [( ) etthantare pāṭho syā. kaṃ. ka. potthakesu na dissati]"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Rāgapeyyālaṃ niṭṭhitaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Tassuddānaṃ –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[imā uddānagāthāyo sī. syā. kaṃ. pī. potthakesu na dissanti]"
+      },
+      " Rāgaṃ dosañca mohañca, kodhūpanāhapañcamaṃ;"
+    ],
+    "innerText": "[imā uddānagāthāyo sī. syā. kaṃ. pī. potthakesu na dissanti] Rāgaṃ dosañca mohañca, kodhūpanāhapañcamaṃ;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Makkhapaḷāsaissā ca, maccharimāyāsāṭheyyā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Thambhasārambhamānañca, atimānamadassa ca;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Pamādā sattarasa vuttā, rāgapeyyālanissitā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      "Ete ",
+      " opammayuttena, āpādena abhiññāya;"
+    ],
+    "innerText": "Ete opammayuttena, āpādena abhiññāya;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha2"
+    },
+    "innerText": "Pariññāya parikkhayā, pahānakkhayabbayena;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Virāganirodhacāgaṃ, paṭinissagge ime dasa."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Suññato animitto ca, appaṇihito ca tayo;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Samādhimūlakā peyyālesupi vavatthitā cāti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Tikanipātapāḷi niṭṭhitā."
+  }
+]

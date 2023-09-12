@@ -1,0 +1,4016 @@
+[
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "chapter"
+    },
+    "innerText": "11. Sekkhattikaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "1. Paṭiccavāro"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "1. Paccayānulomaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "1. Vibhaṅgavāro"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Hetupaccayo"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "1"
+      },
+      ". Sekkhaṃ ",
+      " dhammaṃ paṭicca sekkho dhammo uppajjati hetupaccayā – sekkhaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe… dve khandhe…pe…. (1)"
+    ],
+    "innerText": "1. Sekkhaṃ dhammaṃ paṭicca sekkho dhammo uppajjati hetupaccayā – sekkhaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe… dve khandhe…pe…. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Sekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[nevasekhānāsekho (sī.), nevasekkhānāsekkho (syā. ka.)]"
+      },
+      " dhammo uppajjati hetupaccayā – sekkhe khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)"
+    ],
+    "innerText": "Sekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho [nevasekhānāsekho (sī.), nevasekkhānāsekkho (syā. ka.)] dhammo uppajjati hetupaccayā – sekkhe khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Sekkhaṃ dhammaṃ paṭicca sekkho ca nevasekkhanāsekkho ca dhammā uppajjanti hetupaccayā – sekkhaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe… dve khandhe…pe…. (3)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "2"
+      },
+      ". Asekkhaṃ dhammaṃ paṭicca asekkho dhammo uppajjati hetupaccayā – asekkhaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…. (1)"
+    ],
+    "innerText": "2. Asekkhaṃ dhammaṃ paṭicca asekkho dhammo uppajjati hetupaccayā – asekkhaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Asekkhaṃ ",
+      " dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati hetupaccayā – asekkhe khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)"
+    ],
+    "innerText": "Asekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati hetupaccayā – asekkhe khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Asekkhaṃ dhammaṃ paṭicca asekkho ca nevasekkhanāsekkho ca dhammā…pe… asekkhaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe… dve khandhe…pe…. (3)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "3"
+      },
+      ". Nevasekkhanāsekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati hetupaccayā – nevasekkhanāsekkhaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe… dve khandhe…pe… paṭisandhikkhaṇe …pe… khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā, ekaṃ mahābhūtaṃ paṭicca ",
+      " tayo mahābhūtā…pe… dve mahābhūte paṭicca dve mahābhūtā, mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ. (1)"
+    ],
+    "innerText": "3. Nevasekkhanāsekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati hetupaccayā – nevasekkhanāsekkhaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe… dve khandhe…pe… paṭisandhikkhaṇe …pe… khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā, ekaṃ mahābhūtaṃ paṭicca tayo mahābhūtā…pe… dve mahābhūte paṭicca dve mahābhūtā, mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Sekkhañca ",
+      " nevasekkhanāsekkhañca dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati hetupaccayā – sekkhe khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)"
+    ],
+    "innerText": "Sekkhañca nevasekkhanāsekkhañca dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati hetupaccayā – sekkhe khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Asekkhañca nevasekkhanāsekkhañca dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati hetupaccayā – asekkhe khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Ārammaṇapaccayādi"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "4"
+      },
+      ". Sekkhaṃ dhammaṃ paṭicca sekkho dhammo uppajjati ārammaṇapaccayā… adhipatipaccayā (paṭisandhi natthi)… anantarapaccayā… samanantarapaccayā… sahajātapaccayā (sabbe mahābhūtā kātabbā)… aññamaññapaccayā… nissayapaccayā… upanissayapaccayā… purejātapaccayā… āsevanapaccayā – sekkhaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe… dve khandhe…pe…."
+    ],
+    "innerText": "4. Sekkhaṃ dhammaṃ paṭicca sekkho dhammo uppajjati ārammaṇapaccayā… adhipatipaccayā (paṭisandhi natthi)… anantarapaccayā… samanantarapaccayā… sahajātapaccayā (sabbe mahābhūtā kātabbā)… aññamaññapaccayā… nissayapaccayā… upanissayapaccayā… purejātapaccayā… āsevanapaccayā – sekkhaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe… dve khandhe…pe…."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Nevasekkhanāsekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati āsevanapaccayā – nevasekkhanāsekkhaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe… dve khandhe ",
+      " …pe… kammapaccayā, vipākapaccayā – vipākaṃ sekkhaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe… dve khandhe…pe… (tīṇi, paripuṇṇaṃ)."
+    ],
+    "innerText": "Nevasekkhanāsekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati āsevanapaccayā – nevasekkhanāsekkhaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe… dve khandhe …pe… kammapaccayā, vipākapaccayā – vipākaṃ sekkhaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe… dve khandhe…pe… (tīṇi, paripuṇṇaṃ)."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Asekkhaṃ dhammaṃ paṭicca asekkho dhammo uppajjati vipākapaccayā ",
+      " – asekkhaṃ ekaṃ khandhaṃ paṭicca… tīṇi."
+    ],
+    "innerText": "Asekkhaṃ dhammaṃ paṭicca asekkho dhammo uppajjati vipākapaccayā – asekkhaṃ ekaṃ khandhaṃ paṭicca… tīṇi."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Nevasekkhanāsekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati vipākapaccayā – vipākaṃ nevasekkhanāsekkhaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā, ekaṃ mahābhūtaṃ…pe…. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Sekkhañca nevasekkhanāsekkhañca dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati vipākapaccayā – vipāke sekkhe khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Asekkhañca nevasekkhanāsekkhañca dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati vipākapaccayā – asekkhe khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Āhārapaccayādi"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "5"
+      },
+      ". Sekkhaṃ ",
+      " dhammaṃ paṭicca sekkho dhammo uppajjati āhārapaccayā… indriyapaccayā… jhānapaccayā… maggapaccaya… sampayuttapaccayā… vippayuttapaccayā… atthipaccayā… natthipaccayā… vigatapaccayā… avigatapaccayā."
+    ],
+    "innerText": "5. Sekkhaṃ dhammaṃ paṭicca sekkho dhammo uppajjati āhārapaccayā… indriyapaccayā… jhānapaccayā… maggapaccaya… sampayuttapaccayā… vippayuttapaccayā… atthipaccayā… natthipaccayā… vigatapaccayā… avigatapaccayā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "1. Paccayānulomaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "2. Saṅkhyāvāro"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Suddhaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "6"
+      },
+      ". Hetuyā ",
+      " nava, ārammaṇe tīṇi, adhipatiyā nava, anantare tīṇi, samanantare tīṇi, sahajāte nava, aññamaññe tīṇi, nissaye nava, upanissaye tīṇi, purejāte tīṇi, āsevane dve, kamme nava, vipāke āhāre indriye jhāne magge nava, sampayutte tīṇi, vippayutte nava, atthiyā nava, natthiyā ",
+      " tīṇi, vigate tīṇi, avigate nava (evaṃ gaṇetabbaṃ)."
+    ],
+    "innerText": "6. Hetuyā nava, ārammaṇe tīṇi, adhipatiyā nava, anantare tīṇi, samanantare tīṇi, sahajāte nava, aññamaññe tīṇi, nissaye nava, upanissaye tīṇi, purejāte tīṇi, āsevane dve, kamme nava, vipāke āhāre indriye jhāne magge nava, sampayutte tīṇi, vippayutte nava, atthiyā nava, natthiyā tīṇi, vigate tīṇi, avigate nava (evaṃ gaṇetabbaṃ)."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Anulomaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "2. Paccayapaccanīyaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "1. Vibhaṅgavāro"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Nahetupaccayo"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "7"
+      },
+      ". Nevasekkhanāsekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati nahetupaccayā – ahetukaṃ nevasekkhanāsekkhaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe… dve khandhe…pe… ahetukapaṭisandhikkhaṇe…pe… khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā, ekaṃ mahābhūtaṃ…pe… bāhiraṃ… āhārasamuṭṭhānaṃ… utusamuṭṭhānaṃ… asaññasattānaṃ ekaṃ mahābhūtaṃ…pe… vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)"
+    ],
+    "innerText": "7. Nevasekkhanāsekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati nahetupaccayā – ahetukaṃ nevasekkhanāsekkhaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe… dve khandhe…pe… ahetukapaṭisandhikkhaṇe…pe… khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā, ekaṃ mahābhūtaṃ…pe… bāhiraṃ… āhārasamuṭṭhānaṃ… utusamuṭṭhānaṃ… asaññasattānaṃ ekaṃ mahābhūtaṃ…pe… vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Naārammaṇapaccayo"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "8"
+      },
+      ". Sekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati naārammaṇapaccayā – sekkhe khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)"
+    ],
+    "innerText": "8. Sekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati naārammaṇapaccayā – sekkhe khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Asekkhaṃ ",
+      " dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati naārammaṇapaccayā – asekkhe khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)"
+    ],
+    "innerText": "Asekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati naārammaṇapaccayā – asekkhe khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Nevasekkhanāsekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati naārammaṇapaccayā – nevasekkhanāsekkhe khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ…pe… paṭisandhikkhaṇe…pe… khandhe paṭicca vatthu…pe… ekaṃ mahābhūtaṃ…pe… asaññasattānaṃ…pe…. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Sekkhañca nevasekkhanāsekkhañca dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati naārammaṇapaccayā – sekkhe khandhe ca mahābhūte ",
+      " ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)"
+    ],
+    "innerText": "Sekkhañca nevasekkhanāsekkhañca dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati naārammaṇapaccayā – sekkhe khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Asekkhañca nevasekkhanāsekkhañca dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati naārammaṇapaccayā – asekkhe khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Naadhipatipaccayādi"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "9"
+      },
+      ". Sekkhaṃ dhammaṃ paṭicca sekkho dhammo uppajjati naadhipatipaccayā – sekkhe khandhe paṭicca sekkho adhipati. (1)"
+    ],
+    "innerText": "9. Sekkhaṃ dhammaṃ paṭicca sekkho dhammo uppajjati naadhipatipaccayā – sekkhe khandhe paṭicca sekkho adhipati. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Asekkhaṃ dhammaṃ paṭicca asekkho dhammo uppajjati naadhipatipaccayā – asekkhe khandhe paṭicca asekkho adhipati. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Nevasekkhanāsekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati naadhipatipaccayā… (paripuṇṇaṃ, paṭisandhipi mahābhūtāpi sabbe) naanantarapaccayā… nasamanantarapaccayā… naaññamaññapaccayā… naupanissayapaccayā… napurejātapaccayā… satta (kusalattikasadisā)… napacchājātapaccayā…pe… naāsevanapaccayā. Vipākaṃ sekkhaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe… dve khandhe…pe…. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "10"
+      },
+      ". Sekkhaṃ ",
+      " dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati naāsevanapaccayā – sekkhe khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)"
+    ],
+    "innerText": "10. Sekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati naāsevanapaccayā – sekkhe khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Sekkhaṃ dhammaṃ paṭicca sekkho ca nevasekkhanāsekkho ca dhammā uppajjanti naāsevanapaccayā – vipākaṃ sekkhaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe… dve khandhe…pe…. (3)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Asekkhaṃ ",
+      " dhammaṃ paṭicca asekkho dhammo… tīṇi."
+    ],
+    "innerText": "Asekkhaṃ dhammaṃ paṭicca asekkho dhammo… tīṇi."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Nevasekkhanāsekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati naāsevanapaccayā… nevasekkhanāsekkhaṃ ",
+      " (ekaṃ, paripuṇṇaṃ, sekkhañca, nevasekkhanāsekkhañca, ghaṭanā paripuṇṇā, dvepi kātabbā. Nava) nakammapaccayā – sekkhe khandhe paṭicca sekkhā cetanā."
+    ],
+    "innerText": "Nevasekkhanāsekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati naāsevanapaccayā… nevasekkhanāsekkhaṃ (ekaṃ, paripuṇṇaṃ, sekkhañca, nevasekkhanāsekkhañca, ghaṭanā paripuṇṇā, dvepi kātabbā. Nava) nakammapaccayā – sekkhe khandhe paṭicca sekkhā cetanā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Nevasekkhanāsekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati nakammapaccayā – nevasekkhanāsekkhe khandhe paṭicca nevasekkhanāsekkhā cetanā; bāhiraṃ… āhārasamuṭṭhānaṃ… utusamuṭṭhānaṃ… ekaṃ mahābhūtaṃ…pe…."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Navipākapaccayo"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "11"
+      },
+      ". Sekkhaṃ dhammaṃ paṭicca sekkho dhammo uppajjati navipākapaccayā – sekkhaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…. (1)"
+    ],
+    "innerText": "11. Sekkhaṃ dhammaṃ paṭicca sekkho dhammo uppajjati navipākapaccayā – sekkhaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Sekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati navipākapaccayā – sekkhe khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ.(2)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Sekkhaṃ dhammaṃ paṭicca sekkho ca nevasekkhanāsekkho ca dhammā uppajjanti navipākapaccayā – sekkhaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…. (3)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "12"
+      },
+      ". Nevasekkhanāsekkhaṃ ",
+      " dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati navipākapaccayā (paripuṇṇaṃ, paṭisandhi natthi )."
+    ],
+    "innerText": "12. Nevasekkhanāsekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati navipākapaccayā (paripuṇṇaṃ, paṭisandhi natthi )."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Sekkhañca nevasekkhanāsekkhañca dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati navipākapaccayā – sekkhe khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Naāhārapaccayādi"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "13"
+      },
+      ". Nevasekkhanāsekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati naāhārapaccayā… naindriyapaccayā… najhānapaccayā… namaggapaccayā ",
+      "."
+    ],
+    "innerText": "13. Nevasekkhanāsekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati naāhārapaccayā… naindriyapaccayā… najhānapaccayā… namaggapaccayā ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Nasampayuttapaccayo"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "14"
+      },
+      ". Sekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati nasampayuttapaccayā…pe… (naārammaṇapaccayasadisaṃ)."
+    ],
+    "innerText": "14. Sekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati nasampayuttapaccayā…pe… (naārammaṇapaccayasadisaṃ)."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Navippayuttapaccayādi"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Sekkhaṃ ",
+      " dhammaṃ paṭicca sekkho dhammo uppajjati navippayuttapaccayā. Arūpe sekkhaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…. (1)"
+    ],
+    "innerText": "Sekkhaṃ dhammaṃ paṭicca sekkho dhammo uppajjati navippayuttapaccayā. Arūpe sekkhaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Asekkhaṃ dhammaṃ paṭicca asekkho dhammo uppajjati navippayuttapaccayā – arūpe asekkhaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Nevasekkhanāsekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati navippayuttapaccayā – arūpe nevasekkhanāsekkhaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe… bāhiraṃ… āhārasamuṭṭhānaṃ… utusamuṭṭhānaṃ… asaññasattānaṃ…pe… nonatthipaccayā… novigatapaccayā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "2. Paccayapaccanīyaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "2. Saṅkhyāvāro"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Suddhaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "15"
+      },
+      ". Nahetuyā ",
+      " ekaṃ, naārammaṇe pañca, naadhipatiyā tīṇi, naanantare nasamanantare naaññamaññe naupanissaye pañca, napurejāte satta, napacchājāte nava, naāsevane nava, nakamme dve, navipāke pañca, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca (evaṃ gaṇetabbaṃ)."
+    ],
+    "innerText": "15. Nahetuyā ekaṃ, naārammaṇe pañca, naadhipatiyā tīṇi, naanantare nasamanantare naaññamaññe naupanissaye pañca, napurejāte satta, napacchājāte nava, naāsevane nava, nakamme dve, navipāke pañca, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca (evaṃ gaṇetabbaṃ)."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Paccanīyaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "3. Paccayānulomapaccanīyaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Hetudukaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "16"
+      },
+      ". Hetupaccayā naārammaṇe pañca, naadhipatiyā tīṇi, naanantare nasamanantare naaññamaññe naupanissaye pañca, napurejāte satta, napacchājāte naāsevane nava, nakamme dve, navipāke pañca, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate ",
+      " pañca (evaṃ gaṇetabbaṃ)."
+    ],
+    "innerText": "16. Hetupaccayā naārammaṇe pañca, naadhipatiyā tīṇi, naanantare nasamanantare naaññamaññe naupanissaye pañca, napurejāte satta, napacchājāte naāsevane nava, nakamme dve, navipāke pañca, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca (evaṃ gaṇetabbaṃ)."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Anulomapaccanīyaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "4. Paccayapaccanīyānulomaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Nahetudukaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "17"
+      },
+      ". Nahetupaccayā ",
+      " ārammaṇe ekaṃ, anantare samanantare sahajāte aññamaññe nissaye upanissaye purejāte āsevane kamme vipāke āhāre indriye jhāne magge sampayutte vippayutte atthiyā natthiyā vigate avigate ekaṃ (evaṃ gaṇetabbaṃ)."
+    ],
+    "innerText": "17. Nahetupaccayā ārammaṇe ekaṃ, anantare samanantare sahajāte aññamaññe nissaye upanissaye purejāte āsevane kamme vipāke āhāre indriye jhāne magge sampayutte vippayutte atthiyā natthiyā vigate avigate ekaṃ (evaṃ gaṇetabbaṃ)."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Paccanīyānulomaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Paṭiccavāro."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "2. Sahajātavāro"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "(Sahajātavāro paṭiccavārasadiso.)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "3. Paccayavāro"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "1. Paccayānulomaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "1. Vibhaṅgavāro"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Hetupaccayo"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "18"
+      },
+      ". Sekkhaṃ dhammaṃ paccayā sekkho dhammo uppajjati hetupaccayā… tīṇi (paṭiccavārasadisaṃ)."
+    ],
+    "innerText": "18. Sekkhaṃ dhammaṃ paccayā sekkho dhammo uppajjati hetupaccayā… tīṇi (paṭiccavārasadisaṃ)."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Asekkhaṃ ",
+      " dhammaṃ paccayā asekkho dhammo uppajjati hetupaccayā… tīṇi (paṭiccavārasadisaṃ)."
+    ],
+    "innerText": "Asekkhaṃ dhammaṃ paccayā asekkho dhammo uppajjati hetupaccayā… tīṇi (paṭiccavārasadisaṃ)."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "19"
+      },
+      ". Nevasekkhanāsekkhaṃ dhammaṃ paccayā nevasekkhanāsekkho dhammo uppajjati hetupaccayā (paripuṇṇaṃ), mahābhūte paccayā cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ, vatthuṃ paccayā nevasekkhanāsekkhā khandhā. (1)"
+    ],
+    "innerText": "19. Nevasekkhanāsekkhaṃ dhammaṃ paccayā nevasekkhanāsekkho dhammo uppajjati hetupaccayā (paripuṇṇaṃ), mahābhūte paccayā cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ, vatthuṃ paccayā nevasekkhanāsekkhā khandhā. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Nevasekkhanāsekkhaṃ dhammaṃ paccayā sekkho dhammo uppajjati hetupaccayā – vatthuṃ paccayā sekkhā khandhā. (2)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Nevasekkhanāsekkhaṃ dhammaṃ paccayā asekkho dhammo uppajjati hetupaccayā – vatthuṃ paccayā asekkhā khandhā. (3)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Nevasekkhanāsekkhaṃ ",
+      " dhammaṃ paccayā sekkho ca nevasekkhanāsekkho ",
+      " ca dhammā uppajjanti hetupaccayā – vatthuṃ paccayā sekkhā khandhā, mahābhūte paccayā cittasamuṭṭhānaṃ rūpaṃ. (4)"
+    ],
+    "innerText": "Nevasekkhanāsekkhaṃ dhammaṃ paccayā sekkho ca nevasekkhanāsekkho ca dhammā uppajjanti hetupaccayā – vatthuṃ paccayā sekkhā khandhā, mahābhūte paccayā cittasamuṭṭhānaṃ rūpaṃ. (4)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Nevasekkhanāsekkhaṃ dhammaṃ paccayā asekkho ca nevasekkhanāsekkho ca dhammā uppajjanti hetupaccayā – vatthuṃ paccayā asekkhā khandhā, mahābhūte paccayā cittasamuṭṭhānaṃ rūpaṃ. (5)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "20"
+      },
+      ". Sekkhañca nevasekkhanāsekkhañca dhammaṃ paccayā sekkho dhammo uppajjati hetupaccayā – sekkhaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe… dve khandhā. (1)"
+    ],
+    "innerText": "20. Sekkhañca nevasekkhanāsekkhañca dhammaṃ paccayā sekkho dhammo uppajjati hetupaccayā – sekkhaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe… dve khandhā. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Sekkhañca nevasekkhanāsekkhañca dhammaṃ paccayā nevasekkhanāsekkho dhammo uppajjati hetupaccayā – sekkhe khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (2)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Sekkhañca nevasekkhanāsekkhañca dhammaṃ paccayā sekkho ca nevasekkhanāsekkho ca dhammā uppajjanti hetupaccayā – sekkhaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe… dve khandhā. Sekkhe khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (3)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Asekkhañca ",
+      " nevasekkhanāsekkhañca dhammaṃ paccayā… tīṇi (sekkhasadisā)."
+    ],
+    "innerText": "Asekkhañca nevasekkhanāsekkhañca dhammaṃ paccayā… tīṇi (sekkhasadisā)."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Ārammaṇapaccayo"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "21"
+      },
+      ". Sekkhaṃ dhammaṃ paccayā sekkho dhammo uppajjati ārammaṇapaccayā… ekaṃ."
+    ],
+    "innerText": "21. Sekkhaṃ dhammaṃ paccayā sekkho dhammo uppajjati ārammaṇapaccayā… ekaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Asekkhaṃ dhammaṃ paccayā asekkho dhammo… ekaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Nevasekkhanāsekkhaṃ dhammaṃ paccayā nevasekkhanāsekkho dhammo uppajjati ārammaṇapaccayā… ekaṃ, vatthuṃ paccayā nevasekkhanāsekkhā khandhā, cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe… kāyāyatanaṃ paccayā kāyaviññāṇaṃ, vatthuṃ paccayā nevasekkhanāsekkhā khandhā. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Nevasekkhanāsekkhaṃ ",
+      " dhammaṃ paccayā sekkho dhammo uppajjati ārammaṇapaccayā – vatthuṃ paccayā sekkhā khandhā. (2)"
+    ],
+    "innerText": "Nevasekkhanāsekkhaṃ dhammaṃ paccayā sekkho dhammo uppajjati ārammaṇapaccayā – vatthuṃ paccayā sekkhā khandhā. (2)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Nevasekkhanāsekkhaṃ ",
+      " dhammaṃ paccayā asekkho dhammo uppajjati ārammaṇapaccayā – vatthuṃ paccayā asekkhā khandhā. (3)"
+    ],
+    "innerText": "Nevasekkhanāsekkhaṃ dhammaṃ paccayā asekkho dhammo uppajjati ārammaṇapaccayā – vatthuṃ paccayā asekkhā khandhā. (3)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Sekkhañca nevasekkhanāsekkhañca dhammaṃ paccayā sekkho dhammo uppajjati ārammaṇapaccayā – sekkhaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe… dve khandhā. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Asekkhañca nevasekkhanāsekkhañca dhammaṃ paccayā asekkho dhammo uppajjati ārammaṇapaccayā – asekkhaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe… dve khandhā. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Adhipatipaccayādi"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "22"
+      },
+      ". Sekkhaṃ dhammaṃ paccayā sekkho dhammo uppajjati adhipatipaccayā… anantarapaccayā… samanantarapaccayā… sahajātapaccayā… aññamaññapaccaya… nissayapaccayā ",
+      "… upanissayapaccayā… purejātapaccayā… āsevanapaccayā – sekkhaṃ ekaṃ khandhaṃ paccayā tayo khandhā…pe…"
+    ],
+    "innerText": "22. Sekkhaṃ dhammaṃ paccayā sekkho dhammo uppajjati adhipatipaccayā… anantarapaccayā… samanantarapaccayā… sahajātapaccayā… aññamaññapaccaya… nissayapaccayā … upanissayapaccayā… purejātapaccayā… āsevanapaccayā – sekkhaṃ ekaṃ khandhaṃ paccayā tayo khandhā…pe…"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Nevasekkhanāsekkhaṃ dhammaṃ paccayā nevasekkhanāsekkho dhammo uppajjati āsevanapaccayā – nevasekkhanāsekkhaṃ ekaṃ khandhaṃ paccayā…pe… vatthuṃ paccayā nevasekkhanāsekkhā khandhā. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Nevasekkhanāsekkhaṃ dhammaṃ paccayā sekkho dhammo uppajjati āsevanapaccayā – vatthuṃ paccayā sekkhā khandhā. (2)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Sekkhañca nevasekkhanāsekkhañca dhammaṃ paccayā sekkho dhammo uppajjati āsevanapaccayā ",
+      " – sekkhaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe… dve khandhā. (1)"
+    ],
+    "innerText": "Sekkhañca nevasekkhanāsekkhañca dhammaṃ paccayā sekkho dhammo uppajjati āsevanapaccayā – sekkhaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe… dve khandhā. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Kammapaccayādi"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "23"
+      },
+      ". Sekkhaṃ dhammaṃ paccayā sekkho dhammo uppajjati kammapaccayā… vipākapaccayā – vipākaṃ sekkhaṃ ekaṃ khandhaṃ…pe… āhārapaccayā… indriyapaccayā… jhānapaccayā… maggapaccayā… sampayuttapaccayā… vippayuttapaccayā… atthipaccayā… natthipaccayā… vigatapaccayā… avigatapaccayā."
+    ],
+    "innerText": "23. Sekkhaṃ dhammaṃ paccayā sekkho dhammo uppajjati kammapaccayā… vipākapaccayā – vipākaṃ sekkhaṃ ekaṃ khandhaṃ…pe… āhārapaccayā… indriyapaccayā… jhānapaccayā… maggapaccayā… sampayuttapaccayā… vippayuttapaccayā… atthipaccayā… natthipaccayā… vigatapaccayā… avigatapaccayā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "1. Paccayānulomaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "2. Saṅkhyāvāro"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Suddhaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "24"
+      },
+      ". Hetuyā ",
+      " sattarasa, ārammaṇe satta, adhipatiyā sattarasa, anantare satta, samanantare satta, sahajāte sattarasa, aññamaññe satta, nissaye sattarasa, upanissaye satta, purejāte satta, āsevane cattāri, kamme sattarasa, vipāke sattarasa, āhāre sattarasa, indriye jhāne ",
+      " magge sattarasa, sampayutte satta, vippayutte sattarasa, atthiyā sattarasa, natthiyā satta, vigate satta, avigate sattarasa (evaṃ gaṇetabbaṃ)."
+    ],
+    "innerText": "24. Hetuyā sattarasa, ārammaṇe satta, adhipatiyā sattarasa, anantare satta, samanantare satta, sahajāte sattarasa, aññamaññe satta, nissaye sattarasa, upanissaye satta, purejāte satta, āsevane cattāri, kamme sattarasa, vipāke sattarasa, āhāre sattarasa, indriye jhāne magge sattarasa, sampayutte satta, vippayutte sattarasa, atthiyā sattarasa, natthiyā satta, vigate satta, avigate sattarasa (evaṃ gaṇetabbaṃ)."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Anulomaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "2. Paccayapaccanīyaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "1. Vibhaṅgavāro"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Nahetupaccayo"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "25"
+      },
+      ". Nevasekkhanāsekkhaṃ dhammaṃ paccayā nevasekkhanāsekkho dhammo uppajjati nahetupaccayā – ahetukaṃ nevasekkhanāsekkhaṃ ekaṃ khandhaṃ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe… dve khandhā. Ahetukapaṭisandhikkhaṇe…pe… khandhe paccayā vatthu, vatthuṃ paccayā khandhā, ekaṃ mahābhūtaṃ paccayā…pe… bāhiraṃ… āhārasamuṭṭhānaṃ… utusamuṭṭhānaṃ… asaññasattānaṃ…pe… cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe… kāyāyatanaṃ paccayā kāyaviññāṇaṃ, vatthuṃ paccayā ahetukā nevasekkhanāsekkhā khandhā, vicikicchāsahagate uddhaccasahagate ",
+      " khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (1)"
+    ],
+    "innerText": "25. Nevasekkhanāsekkhaṃ dhammaṃ paccayā nevasekkhanāsekkho dhammo uppajjati nahetupaccayā – ahetukaṃ nevasekkhanāsekkhaṃ ekaṃ khandhaṃ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe… dve khandhā. Ahetukapaṭisandhikkhaṇe…pe… khandhe paccayā vatthu, vatthuṃ paccayā khandhā, ekaṃ mahābhūtaṃ paccayā…pe… bāhiraṃ… āhārasamuṭṭhānaṃ… utusamuṭṭhānaṃ… asaññasattānaṃ…pe… cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe… kāyāyatanaṃ paccayā kāyaviññāṇaṃ, vatthuṃ paccayā ahetukā nevasekkhanāsekkhā khandhā, vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Naārammaṇapaccayādi"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "26"
+      },
+      ". Sekkhaṃ dhammaṃ paccayā nevasekkhanāsekkho dhammo uppajjati naārammaṇapaccayā…pe…. (1)"
+    ],
+    "innerText": "26. Sekkhaṃ dhammaṃ paccayā nevasekkhanāsekkho dhammo uppajjati naārammaṇapaccayā…pe…. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Sekkhaṃ dhammaṃ paccayā sekkho dhammo uppajjati naadhipatipaccayā – sekkhe khandhe paccayā sekkho adhipati. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Asekkhaṃ ",
+      " dhammaṃ paccayā asekkho dhammo uppajjati naadhipatipaccayā – asekkhe khandhe paccayā asekkho adhipati. (1)"
+    ],
+    "innerText": "Asekkhaṃ dhammaṃ paccayā asekkho dhammo uppajjati naadhipatipaccayā – asekkhe khandhe paccayā asekkho adhipati. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Nevasekkhanāsekkhaṃ dhammaṃ paccayā nevasekkhanāsekkho dhammo uppajjati naadhipatipaccayā (paripuṇṇaṃ) asaññasattānaṃ…pe… cakkhāyatanaṃ…pe… vatthuṃ paccayā nevasekkhanāsekkhā khandhā. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Nevasekkhanāsekkhaṃ dhammaṃ paccayā sekkho dhammo uppajjati naadhipatipaccayā – vatthuṃ paccayā sekkho adhipati. (2)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Nevasekkhanāsekkhaṃ dhammaṃ paccayā asekkho dhammo uppajjati naadhipatipaccayā – vatthuṃ paccayā asekkho adhipati. (3)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Sekkhañca nevasekkhanāsekkhañca dhammaṃ paccayā sekkho dhammo uppajjati naadhipatipaccayā – sekkhe khandhe ca vatthuñca paccayā sekkho adhipati. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Asekkhañca nevasekkhanāsekkhañca dhammaṃ paccayā asekkho dhammo uppajjati naadhipatipaccayā – asekkhe khandhe ca vatthuñca paccayā asekkho adhipati. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Naanantarapaccayādi"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "27"
+      },
+      ". Sekkhaṃ dhammaṃ paccayā nevasekkhanāsekkho dhammo uppajjati naanantarapaccayā… nasamanantarapaccayā… naaññamaññapaccayā… naupanissayapaccayā… napurejātapaccayā… napacchājātapaccayā (satta)… naāsevanapaccayā… ",
+      " nakammapaccayā – sekkhe khandhe paccayā sekkhā cetanā."
+    ],
+    "innerText": "27. Sekkhaṃ dhammaṃ paccayā nevasekkhanāsekkho dhammo uppajjati naanantarapaccayā… nasamanantarapaccayā… naaññamaññapaccayā… naupanissayapaccayā… napurejātapaccayā… napacchājātapaccayā (satta)… naāsevanapaccayā… nakammapaccayā – sekkhe khandhe paccayā sekkhā cetanā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Nevasekkhanāsekkhaṃ dhammaṃ paccayā nevasekkhanāsekkho dhammo uppajjati nakammapaccayā – nevasekkhanāsekkhe ",
+      " khandhe paccayā nevasekkhanāsekkhā cetanā. Bāhiraṃ… āhārasamuṭṭhānaṃ… utusamuṭṭhānaṃ…pe… vatthuṃ paccayā nevasekkhanāsekkhā cetanā. (1)"
+    ],
+    "innerText": "Nevasekkhanāsekkhaṃ dhammaṃ paccayā nevasekkhanāsekkho dhammo uppajjati nakammapaccayā – nevasekkhanāsekkhe khandhe paccayā nevasekkhanāsekkhā cetanā. Bāhiraṃ… āhārasamuṭṭhānaṃ… utusamuṭṭhānaṃ…pe… vatthuṃ paccayā nevasekkhanāsekkhā cetanā. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Nevasekkhanāsekkhaṃ dhammaṃ paccayā sekkho dhammo uppajjati nakammapaccayā – vatthuṃ paccayā sekkhā cetanā. (2)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Sekkhañca nevasekkhanāsekkhañca dhammaṃ paccayā sekkho dhammo uppajjati nakammapaccayā – sekkhe khandhe ca vatthuñca paccayā sekkhā cetanā. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Navipākapaccayo"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "28"
+      },
+      ". Sekkhaṃ ",
+      " dhammaṃ paccayā sekkho dhammo uppajjati navipākapaccayā (sekkhamūlake tīṇi)."
+    ],
+    "innerText": "28. Sekkhaṃ dhammaṃ paccayā sekkho dhammo uppajjati navipākapaccayā (sekkhamūlake tīṇi)."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Nevasekkhanāsekkhaṃ dhammaṃ paccayā nevasekkhanāsekkho dhammo uppajjati navipākapaccayā (nevasekkhanāsekkhamūlake tīṇi)."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Sekkhañca nevasekkhanāsekkhañca dhammaṃ paccayā sekkho dhammo uppajjati navipākapaccayā (sekkhaghaṭanesu tīṇi)."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Naāhārapaccayādi"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "29"
+      },
+      ". Nevasekkhanāsekkhaṃ dhammaṃ paccayā nevasekkhanāsekkho dhammo uppajjati naāhārapaccayā… naindriyapaccayā… najhānapaccayā… namaggapaccayā… nasampayuttapaccayā… navippayuttapaccayā… nonatthipaccayā… novigatapaccayā…pe…."
+    ],
+    "innerText": "29. Nevasekkhanāsekkhaṃ dhammaṃ paccayā nevasekkhanāsekkho dhammo uppajjati naāhārapaccayā… naindriyapaccayā… najhānapaccayā… namaggapaccayā… nasampayuttapaccayā… navippayuttapaccayā… nonatthipaccayā… novigatapaccayā…pe…."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "2. Paccayapaccanīyaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "2. Saṅkhyāvāro"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Suddhaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "30"
+      },
+      ". Nahetuyā ",
+      " ekaṃ, naārammaṇe pañca, naadhipatiyā satta, naanantare pañca, nasamanantare pañca, naaññamaññe pañca, naupanissaye ",
+      " pañca, napurejāte satta, napacchājāte sattarasa, naāsevane sattarasa, nakamme cattāri, navipāke nava, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca (evaṃ gaṇetabbaṃ)."
+    ],
+    "innerText": "30. Nahetuyā ekaṃ, naārammaṇe pañca, naadhipatiyā satta, naanantare pañca, nasamanantare pañca, naaññamaññe pañca, naupanissaye pañca, napurejāte satta, napacchājāte sattarasa, naāsevane sattarasa, nakamme cattāri, navipāke nava, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca (evaṃ gaṇetabbaṃ)."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Paccanīyaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "3. Paccayānulomapaccanīyaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Hetudukaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "31"
+      },
+      ". Hetupaccayā naārammaṇe pañca, naadhipatiyā satta, naanantare nasamanantare naaññamaññe naupanissaye pañca, napurejāte satta, napacchājāte ",
+      " sattarasa, naāsevane sattarasa, nakamme cattāri, navipāke nava, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca (evaṃ gaṇetabbaṃ)."
+    ],
+    "innerText": "31. Hetupaccayā naārammaṇe pañca, naadhipatiyā satta, naanantare nasamanantare naaññamaññe naupanissaye pañca, napurejāte satta, napacchājāte sattarasa, naāsevane sattarasa, nakamme cattāri, navipāke nava, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca (evaṃ gaṇetabbaṃ)."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Anulomapaccanīyaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "4. Paccayapaccanīyānulomaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "32"
+      },
+      ". Nahetupaccayā ",
+      " ārammaṇe ekaṃ, anantare samanantare sahajāte aññamaññe ekaṃ…pe… avigate ekaṃ (evaṃ gaṇetabbaṃ)."
+    ],
+    "innerText": "32. Nahetupaccayā ārammaṇe ekaṃ, anantare samanantare sahajāte aññamaññe ekaṃ…pe… avigate ekaṃ (evaṃ gaṇetabbaṃ)."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Paccanīyānulomaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Paccayavāro."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "4. Nissayavāro"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "(Nissayavāro paccayavārasadiso.)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "5. Saṃsaṭṭhavāro"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "1. Paccayānulomaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "1. Vibhaṅgavāro"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Hetupaccayo"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "33"
+      },
+      ". Sekkhaṃ dhammaṃ saṃsaṭṭho sekkho dhammo uppajjati hetupaccayā ",
+      " – sekkhaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe… dve khandhe…pe…. (1)"
+    ],
+    "innerText": "33. Sekkhaṃ dhammaṃ saṃsaṭṭho sekkho dhammo uppajjati hetupaccayā – sekkhaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe… dve khandhe…pe…. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Asekkhaṃ dhammaṃ saṃsaṭṭho asekkho dhammo uppajjati hetupaccayā – asekkhaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe… dve khandhe…pe…. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Nevasekkhanāsekkhaṃ dhammaṃ saṃsaṭṭho nevasekkhanāsekkho dhammo uppajjati hetupaccayā – nevasekkhanāsekkhaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe…. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Ārammaṇapaccayādi"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "34"
+      },
+      ". Sekkhaṃ ",
+      " dhammaṃ saṃsaṭṭho sekkho dhammo uppajjati ārammaṇapaccayā… adhipatipaccayā…pe… purejātapaccayā… āsevanapaccayā (dve kātabbā)…pe… avigatapaccayā."
+    ],
+    "innerText": "34. Sekkhaṃ dhammaṃ saṃsaṭṭho sekkho dhammo uppajjati ārammaṇapaccayā… adhipatipaccayā…pe… purejātapaccayā… āsevanapaccayā (dve kātabbā)…pe… avigatapaccayā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "1. Paccayānulomaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "2. Saṅkhyāvāro"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "35"
+      },
+      ". Hetuyā tīṇi, ārammaṇe tīṇi, adhipatiyā tīṇi, anantare samanantare sahajāte aññamaññe nissaye upanissaye purejāte tīṇi, āsevane dve, kamme tīṇi…pe… avigate tīṇi (evaṃ gaṇetabbaṃ)."
+    ],
+    "innerText": "35. Hetuyā tīṇi, ārammaṇe tīṇi, adhipatiyā tīṇi, anantare samanantare sahajāte aññamaññe nissaye upanissaye purejāte tīṇi, āsevane dve, kamme tīṇi…pe… avigate tīṇi (evaṃ gaṇetabbaṃ)."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Anulomaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "2. Paccayapaccanīyaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "1. Vibhaṅgavāro"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Nahetupaccayo"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "36"
+      },
+      ". Nevasekkhanāsekkhaṃ dhammaṃ saṃsaṭṭho nevasekkhanāsekkho dhammo uppajjati nahetupaccayā – ahetukaṃ nevasekkhanāsekkhaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe… dve khandhe…pe… ahetukapaṭisandhikkhaṇe…pe… vicikicchāsahagate uddhaccasahagate khandhe saṃsaṭṭho vicikicchāsahagato uddhaccasahagato moho. (1)"
+    ],
+    "innerText": "36. Nevasekkhanāsekkhaṃ dhammaṃ saṃsaṭṭho nevasekkhanāsekkho dhammo uppajjati nahetupaccayā – ahetukaṃ nevasekkhanāsekkhaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe… dve khandhe…pe… ahetukapaṭisandhikkhaṇe…pe… vicikicchāsahagate uddhaccasahagate khandhe saṃsaṭṭho vicikicchāsahagato uddhaccasahagato moho. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Naadhipatipaccayo"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "37"
+      },
+      ". Sekkhaṃ ",
+      " dhammaṃ saṃsaṭṭho sekkho dhammo uppajjati naadhipatipaccayā ",
+      " – sekkhe khandhe saṃsaṭṭho sekkho adhipati. (1)"
+    ],
+    "innerText": "37. Sekkhaṃ dhammaṃ saṃsaṭṭho sekkho dhammo uppajjati naadhipatipaccayā – sekkhe khandhe saṃsaṭṭho sekkho adhipati. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Asekkhaṃ dhammaṃ saṃsaṭṭho asekkho dhammo uppajjati naadhipatipaccayā – asekkhe khandhe saṃsaṭṭho asekkho adhipati. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Nevasekkhanāsekkhaṃ dhammaṃ saṃsaṭṭho nevasekkhanāsekkho dhammo uppajjati naadhipatipaccayā (paripuṇṇaṃ, ekaṃ)."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Napurejātapaccayādi"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "38"
+      },
+      ". Sekkhaṃ ",
+      " dhammaṃ saṃsaṭṭho sekkho dhammo uppajjati napurejātapaccayā… napacchājātapaccayā… naāsevanapaccayā… nakammapaccayā (dve kātabbā)… navipākapaccayā (dve kātabbā)… najhānapaccayā… namaggapaccayā… navippayuttapaccayā…pe…."
+    ],
+    "innerText": "38. Sekkhaṃ dhammaṃ saṃsaṭṭho sekkho dhammo uppajjati napurejātapaccayā… napacchājātapaccayā… naāsevanapaccayā… nakammapaccayā (dve kātabbā)… navipākapaccayā (dve kātabbā)… najhānapaccayā… namaggapaccayā… navippayuttapaccayā…pe…."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "2. Paccayapaccanīyaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "2. Saṅkhyāvāro"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "39"
+      },
+      ". Nahetuyā ekaṃ, naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme dve, navipāke dve, najhāne ekaṃ, namagge ekaṃ, navippayutte tīṇi (evaṃ gaṇetabbaṃ)."
+    ],
+    "innerText": "39. Nahetuyā ekaṃ, naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme dve, navipāke dve, najhāne ekaṃ, namagge ekaṃ, navippayutte tīṇi (evaṃ gaṇetabbaṃ)."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Paccanīyaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "3. Paccayānulomapaccanīyaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "40"
+      },
+      ". Hetupaccayā naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte naāsevane tīṇi, nakamme dve, navipāke dve, navippayutte tīṇi (evaṃ gaṇetabbaṃ)."
+    ],
+    "innerText": "40. Hetupaccayā naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte naāsevane tīṇi, nakamme dve, navipāke dve, navippayutte tīṇi (evaṃ gaṇetabbaṃ)."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Anulomapaccanīyaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "4. Paccayapaccanīyānulomaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "41"
+      },
+      ". Nahetupaccayā ",
+      " ārammaṇe ekaṃ, anantare samanantare sahajāte aññamaññe nissaye upanissaye purejāte āsevane kamme vipāke āhāre indriye jhāne magge sampayutte vippayutte atthiyā ",
+      " natthiyā vigate avigate ekaṃ (evaṃ gaṇetabbaṃ)."
+    ],
+    "innerText": "41. Nahetupaccayā ārammaṇe ekaṃ, anantare samanantare sahajāte aññamaññe nissaye upanissaye purejāte āsevane kamme vipāke āhāre indriye jhāne magge sampayutte vippayutte atthiyā natthiyā vigate avigate ekaṃ (evaṃ gaṇetabbaṃ)."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Paccanīyānulomaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Saṃsaṭṭhavāro."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "6. Sampayuttavāro"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "(Sampayuttavāro saṃsaṭṭhavārasadiso.)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "7. Pañhāvāro"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "1. Paccayānulomaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "1. Vibhaṅgavāro"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Hetupaccayo"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "42"
+      },
+      ". Sekkho ",
+      " dhammo sekkhassa dhammassa hetupaccayena paccayo – sekkhā hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo. (1)"
+    ],
+    "innerText": "42. Sekkho dhammo sekkhassa dhammassa hetupaccayena paccayo – sekkhā hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Sekkho dhammo nevasekkhanāsekkhassa dhammassa hetupaccayena paccayo – sekkhā hetū cittasamuṭṭhānānaṃ rūpānaṃ hetupaccayena paccayo. (2)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Sekkho ",
+      " dhammo sekkhassa ca nevasekkhanāsekkhassa ca dhammassa hetupaccayena paccayo – sekkhā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. (3)"
+    ],
+    "innerText": "Sekkho dhammo sekkhassa ca nevasekkhanāsekkhassa ca dhammassa hetupaccayena paccayo – sekkhā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. (3)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Asekkho dhammo asekkhassa dhammassa (tīṇi)."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Nevasekkhanāsekkho dhammo nevasekkhanāsekkhassa dhammassa hetupaccayena paccayo – nevasekkhanāsekkhā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. Paṭisandhikkhaṇe…pe…. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Ārammaṇapaccayo"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "43"
+      },
+      ". Sekkho dhammo nevasekkhanāsekkhassa dhammassa ārammaṇapaccayena paccayo – ariyā maggā vuṭṭhahitvā maggaṃ paccavekkhanti, sekkhaṃ phalaṃ paccavekkhanti, cetopariyañāṇena sekkhacittasamaṅgissa ",
+      " cittaṃ jānanti, sekkhā khandhā cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)"
+    ],
+    "innerText": "43. Sekkho dhammo nevasekkhanāsekkhassa dhammassa ārammaṇapaccayena paccayo – ariyā maggā vuṭṭhahitvā maggaṃ paccavekkhanti, sekkhaṃ phalaṃ paccavekkhanti, cetopariyañāṇena sekkhacittasamaṅgissa cittaṃ jānanti, sekkhā khandhā cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Asekkho dhammo nevasekkhanāsekkhassa dhammassa ārammaṇapaccayena paccayo – arahā asekkhaṃ phalaṃ paccavekkhati, cetopariyañāṇena asekkhacittasamaṅgissa cittaṃ jānāti, asekkhā khandhā cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "44"
+      },
+      ". Nevasekkhanāsekkho ",
+      " dhammo nevasekkhanāsekkhassa dhammassa ārammaṇapaccayena paccayo – dānaṃ datvā sīlaṃ samādiyitvā uposathakammaṃ katvā taṃ paccavekkhati, pubbe suciṇṇāni…pe… jhānā vuṭṭhahitvā jhānaṃ paccavekkhati, ariyā nibbānaṃ paccavekkhanti. Nibbānaṃ gotrabhussa, vodānassa, āvajjanāya ārammaṇapaccayena paccayo. Ariyā pahīne kilese paccavekkhanti vikkhambhite kilese paccavekkhanti, pubbe samudāciṇṇe kilese jānanti, cakkhuṃ aniccato dukkhato anattato vipassanti, assādenti abhinandanti, taṃ ārabbha rāgo uppajjati…pe… domanassaṃ uppajjati, sotaṃ…pe… vatthuṃ nevasekkhanāsekkhe ",
+      " khandhe aniccato dukkhato anattato vipassanti, assādenti…pe… domanassaṃ uppajjati, dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti, cetopariyañāṇena nevasekkhanāsekkhacittasamaṅgissa cittaṃ jānāti, ākāsānañcāyatanaṃ ",
+      " viññāṇañcāyatanassa…pe… ākiñcaññāyatanaṃ nevasaññānāsaññāyatanassa ārammaṇapaccayena paccayo. Rūpāyatanaṃ cakkhuviññāṇassa…pe… phoṭṭhabbāyatanaṃ kāyaviññāṇassa…pe… nevasekkhanāsekkhā khandhā iddhividhañāṇassa, cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, yathākammūpagañāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)"
+    ],
+    "innerText": "44. Nevasekkhanāsekkho dhammo nevasekkhanāsekkhassa dhammassa ārammaṇapaccayena paccayo – dānaṃ datvā sīlaṃ samādiyitvā uposathakammaṃ katvā taṃ paccavekkhati, pubbe suciṇṇāni…pe… jhānā vuṭṭhahitvā jhānaṃ paccavekkhati, ariyā nibbānaṃ paccavekkhanti. Nibbānaṃ gotrabhussa, vodānassa, āvajjanāya ārammaṇapaccayena paccayo. Ariyā pahīne kilese paccavekkhanti vikkhambhite kilese paccavekkhanti, pubbe samudāciṇṇe kilese jānanti, cakkhuṃ aniccato dukkhato anattato vipassanti, assādenti abhinandanti, taṃ ārabbha rāgo uppajjati…pe… domanassaṃ uppajjati, sotaṃ…pe… vatthuṃ nevasekkhanāsekkhe khandhe aniccato dukkhato anattato vipassanti, assādenti…pe… domanassaṃ uppajjati, dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti, cetopariyañāṇena nevasekkhanāsekkhacittasamaṅgissa cittaṃ jānāti, ākāsānañcāyatanaṃ viññāṇañcāyatanassa…pe… ākiñcaññāyatanaṃ nevasaññānāsaññāyatanassa ārammaṇapaccayena paccayo. Rūpāyatanaṃ cakkhuviññāṇassa…pe… phoṭṭhabbāyatanaṃ kāyaviññāṇassa…pe… nevasekkhanāsekkhā khandhā iddhividhañāṇassa, cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, yathākammūpagañāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Nevasekkhanāsekkho dhammo sekkhassa dhammassa ārammaṇapaccayena paccayo – nibbānaṃ maggassa, sekkhassa phalassa ārammaṇapaccayena paccayo. (2)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Nevasekkhanāsekkho dhammo asekkhassa dhammassa ārammaṇapaccayena paccayo – nibbānaṃ asekkhassa phalassa ārammaṇapaccayena paccayo. (3)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Adhipatipaccayo"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "45"
+      },
+      ". Sekkho dhammo sekkhassa dhammassa adhipatipaccayena paccayo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Sahajātādhipati"
+      },
+      " – sekkhādhipati sampayuttakānaṃ khandhānaṃ adhipatipaccayena paccayo. (1)"
+    ],
+    "innerText": "45. Sekkho dhammo sekkhassa dhammassa adhipatipaccayena paccayo. Sahajātādhipati – sekkhādhipati sampayuttakānaṃ khandhānaṃ adhipatipaccayena paccayo. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Sekkho dhammo nevasekkhanāsekkhassa dhammassa adhipatipaccayena paccayo. Ārammaṇādhipati, sahajātādhipati. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Ārammaṇādhipati"
+      },
+      " – ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti, sekkhaṃ phalaṃ garuṃ katvā paccavekkhanti ",
+      ". ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Sahajātādhipati"
+      },
+      " – sekkhādhipati cittasamuṭṭhānānaṃ rūpānaṃ adhipatipaccayena paccayo. (2)"
+    ],
+    "innerText": "Sekkho dhammo nevasekkhanāsekkhassa dhammassa adhipatipaccayena paccayo. Ārammaṇādhipati, sahajātādhipati. Ārammaṇādhipati – ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti, sekkhaṃ phalaṃ garuṃ katvā paccavekkhanti . Sahajātādhipati – sekkhādhipati cittasamuṭṭhānānaṃ rūpānaṃ adhipatipaccayena paccayo. (2)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Sekkho ",
+      " dhammo sekkhassa ca nevasekkhanāsekkhassa ca dhammassa adhipatipaccayena paccayo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Sahajātādhipati"
+      },
+      " – sekkhādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (3)"
+    ],
+    "innerText": "Sekkho dhammo sekkhassa ca nevasekkhanāsekkhassa ca dhammassa adhipatipaccayena paccayo. Sahajātādhipati – sekkhādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (3)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "46"
+      },
+      ". Asekkho ",
+      " dhammo asekkhassa dhammassa adhipatipaccayena paccayo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Sahajātādhipati"
+      },
+      " – asekkhādhipati sampayuttakānaṃ khandhānaṃ adhipatipaccayena paccayo. (1)"
+    ],
+    "innerText": "46. Asekkho dhammo asekkhassa dhammassa adhipatipaccayena paccayo. Sahajātādhipati – asekkhādhipati sampayuttakānaṃ khandhānaṃ adhipatipaccayena paccayo. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Asekkho dhammo nevasekkhanāsekkhassa dhammassa adhipatipaccayena paccayo – ārammaṇādhipati, sahajātādhipati. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Ārammaṇādhipati"
+      },
+      " – arahā asekkhaṃ phalaṃ garuṃ katvā paccavekkhati. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Sahajātādhipati"
+      },
+      " – asekkhādhipati cittasamuṭṭhānānaṃ rūpānaṃ adhipatipaccayena paccayo. (2)"
+    ],
+    "innerText": "Asekkho dhammo nevasekkhanāsekkhassa dhammassa adhipatipaccayena paccayo – ārammaṇādhipati, sahajātādhipati. Ārammaṇādhipati – arahā asekkhaṃ phalaṃ garuṃ katvā paccavekkhati. Sahajātādhipati – asekkhādhipati cittasamuṭṭhānānaṃ rūpānaṃ adhipatipaccayena paccayo. (2)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Asekkho dhammo asekkhassa ca nevasekkhanāsekkhassa ca dhammassa adhipatipaccayena paccayo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Sahajātādhipati"
+      },
+      " – asekkhādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (3)"
+    ],
+    "innerText": "Asekkho dhammo asekkhassa ca nevasekkhanāsekkhassa ca dhammassa adhipatipaccayena paccayo. Sahajātādhipati – asekkhādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (3)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "47"
+      },
+      ". Nevasekkhanāsekkho dhammo nevasekkhanāsekkhassa dhammassa adhipatipaccayena paccayo – ārammaṇādhipati, sahajātādhipati. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Ārammaṇādhipati"
+      },
+      " – dānaṃ datvā sīlaṃ samādiyitvā uposathakammaṃ katvā taṃ garuṃ katvā paccavekkhati, pubbe suciṇṇāni garuṃ katvā paccavekkhati, jhānā vuṭṭhahitvā ",
+      " jhānaṃ garuṃ katvā paccavekkhati, ariyā nibbānaṃ garuṃ katvā paccavekkhanti, nibbānaṃ gotrabhussa, vodānassa adhipatipaccayena paccayo. Cakkhuṃ garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. Sotaṃ…pe… vatthuṃ nevasekkhanāsekkhe khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Sahajātādhipati"
+      },
+      " – nevasekkhanāsekkhādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (1)"
+    ],
+    "innerText": "47. Nevasekkhanāsekkho dhammo nevasekkhanāsekkhassa dhammassa adhipatipaccayena paccayo – ārammaṇādhipati, sahajātādhipati. Ārammaṇādhipati – dānaṃ datvā sīlaṃ samādiyitvā uposathakammaṃ katvā taṃ garuṃ katvā paccavekkhati, pubbe suciṇṇāni garuṃ katvā paccavekkhati, jhānā vuṭṭhahitvā jhānaṃ garuṃ katvā paccavekkhati, ariyā nibbānaṃ garuṃ katvā paccavekkhanti, nibbānaṃ gotrabhussa, vodānassa adhipatipaccayena paccayo. Cakkhuṃ garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. Sotaṃ…pe… vatthuṃ nevasekkhanāsekkhe khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. Sahajātādhipati – nevasekkhanāsekkhādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Nevasekkhanāsekkho dhammo sekkhassa dhammassa adhipatipaccayena paccayo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Ārammaṇādhipati"
+      },
+      " – nibbānaṃ maggassa, sekkhassa phalassa adhipatipaccayena paccayo. (2)"
+    ],
+    "innerText": "Nevasekkhanāsekkho dhammo sekkhassa dhammassa adhipatipaccayena paccayo. Ārammaṇādhipati – nibbānaṃ maggassa, sekkhassa phalassa adhipatipaccayena paccayo. (2)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Nevasekkhanāsekkho ",
+      " dhammo asekkhassa dhammassa adhipatipaccayena paccayo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Ārammaṇādhipati"
+      },
+      " – nibbānaṃ asekkhassa phalassa adhipatipaccayena paccayo. (3)"
+    ],
+    "innerText": "Nevasekkhanāsekkho dhammo asekkhassa dhammassa adhipatipaccayena paccayo. Ārammaṇādhipati – nibbānaṃ asekkhassa phalassa adhipatipaccayena paccayo. (3)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Anantarapaccayo"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "48"
+      },
+      ". Sekkho ",
+      " dhammo sekkhassa dhammassa anantarapaccayena paccayo – purimā purimā sekkhā khandhā pacchimānaṃ pacchimānaṃ sekkhānaṃ khandhānaṃ anantarapaccayena paccayo. Maggo sekkhassa phalassa… sekkhaṃ phalaṃ sekkhassa phalassa anantarapaccayena paccayo. (1)"
+    ],
+    "innerText": "48. Sekkho dhammo sekkhassa dhammassa anantarapaccayena paccayo – purimā purimā sekkhā khandhā pacchimānaṃ pacchimānaṃ sekkhānaṃ khandhānaṃ anantarapaccayena paccayo. Maggo sekkhassa phalassa… sekkhaṃ phalaṃ sekkhassa phalassa anantarapaccayena paccayo. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Sekkho dhammo asekkhassa dhammassa anantarapaccayena paccayo – maggo asekkhassa phalassa anantarapaccayena paccayo. (2)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Sekkho ",
+      " dhammo nevasekkhanāsekkhassa dhammassa anantarapaccayena paccayo – sekkhaṃ phalaṃ vuṭṭhānassa anantarapaccayena paccayo. (3)"
+    ],
+    "innerText": "Sekkho dhammo nevasekkhanāsekkhassa dhammassa anantarapaccayena paccayo – sekkhaṃ phalaṃ vuṭṭhānassa anantarapaccayena paccayo. (3)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "49"
+      },
+      ". Asekkho dhammo asekkhassa dhammassa anantarapaccayena paccayo – purimā purimā asekkhā khandhā pacchimānaṃ pacchimānaṃ asekkhānaṃ khandhānaṃ anantarapaccayena paccayo. Asekkhaṃ phalaṃ asekkhassa phalassa anantarapaccayena paccayo. (1)"
+    ],
+    "innerText": "49. Asekkho dhammo asekkhassa dhammassa anantarapaccayena paccayo – purimā purimā asekkhā khandhā pacchimānaṃ pacchimānaṃ asekkhānaṃ khandhānaṃ anantarapaccayena paccayo. Asekkhaṃ phalaṃ asekkhassa phalassa anantarapaccayena paccayo. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Asekkho dhammo nevasekkhanāsekkhassa dhammassa anantarapaccayena paccayo – asekkhaṃ phalaṃ vuṭṭhānassa anantarapaccayena paccayo. (2)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "50"
+      },
+      ". Nevasekkhanāsekkho dhammo nevasekkhanāsekkhassa dhammassa anantarapaccayena paccayo – purimā purimā nevasekkhanāsekkhā khandhā pacchimānaṃ pacchimānaṃ nevasekkhanāsekkhānaṃ khandhānaṃ…pe… anulomaṃ gotrabhussa… anulomaṃ vodānassa… āvajjanā nevasekkhanāsekkhānaṃ khandhānaṃ anantarapaccayena paccayo. (1)"
+    ],
+    "innerText": "50. Nevasekkhanāsekkho dhammo nevasekkhanāsekkhassa dhammassa anantarapaccayena paccayo – purimā purimā nevasekkhanāsekkhā khandhā pacchimānaṃ pacchimānaṃ nevasekkhanāsekkhānaṃ khandhānaṃ…pe… anulomaṃ gotrabhussa… anulomaṃ vodānassa… āvajjanā nevasekkhanāsekkhānaṃ khandhānaṃ anantarapaccayena paccayo. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Nevasekkhanāsekkho dhammo sekkhassa dhammassa anantarapaccayena paccayo – gotrabhu maggassa… vodānaṃ maggassa… anulomaṃ sekkhāya phalasamāpattiyā… nirodhā vuṭṭhahantassa nevasaññānāsaññāyatanakusalaṃ sekkhāya phalasamāpattiyā anantarapaccayena paccayo. (2)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Nevasekkhanāsekkho ",
+      " dhammo asekkhassa dhammassa anantarapaccayena paccayo – anulomaṃ asekkhāya phalasamāpattiyā… nirodhā vuṭṭhahantassa ",
+      " nevasaññānāsaññāyatanakiriyaṃ asekkhāya phalasamāpattiyā anantarapaccayena paccayo. (3)"
+    ],
+    "innerText": "Nevasekkhanāsekkho dhammo asekkhassa dhammassa anantarapaccayena paccayo – anulomaṃ asekkhāya phalasamāpattiyā… nirodhā vuṭṭhahantassa nevasaññānāsaññāyatanakiriyaṃ asekkhāya phalasamāpattiyā anantarapaccayena paccayo. (3)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Samanantarapaccayo"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "51"
+      },
+      ". Sekkho dhammo sekkhassa dhammassa samanantarapaccayena paccayo…pe… (anantarasadisaṃ, aṭṭha pañhā)."
+    ],
+    "innerText": "51. Sekkho dhammo sekkhassa dhammassa samanantarapaccayena paccayo…pe… (anantarasadisaṃ, aṭṭha pañhā)."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Sahajātapaccayādi"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "52"
+      },
+      ". Sekkho dhammo sekkhassa dhammassa sahajātapaccayena paccayo…pe… (paṭiccavāre sahajātasadisaṃ, nava pañhā) aññamaññapaccayena paccayo (paṭiccavāre aññamaññasadisaṃ, tīṇi. Nissayapaccaye kusalattike nissayapaccayasadisaṃ, terasa pañhā)."
+    ],
+    "innerText": "52. Sekkho dhammo sekkhassa dhammassa sahajātapaccayena paccayo…pe… (paṭiccavāre sahajātasadisaṃ, nava pañhā) aññamaññapaccayena paccayo (paṭiccavāre aññamaññasadisaṃ, tīṇi. Nissayapaccaye kusalattike nissayapaccayasadisaṃ, terasa pañhā)."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Upanissayapaccayo"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "53"
+      },
+      ". Sekkho dhammo sekkhassa dhammassa upanissayapaccayena paccayo – ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "anantarūpanissayo, pakatūpanissayo…pe…"
+      },
+      ". Pakatūpanissayo – paṭhamo maggo dutiyassa maggassa upanissayapaccayena paccayo. Dutiyo maggo tatiyassa maggassa upanissayapaccayena paccayo. Tatiyo maggo catutthassa maggassa upanissayapaccayena paccayo. Maggo sekkhāya phalasamāpattiyā upanissayapaccayena paccayo. (1)"
+    ],
+    "innerText": "53. Sekkho dhammo sekkhassa dhammassa upanissayapaccayena paccayo – anantarūpanissayo, pakatūpanissayo…pe…. Pakatūpanissayo – paṭhamo maggo dutiyassa maggassa upanissayapaccayena paccayo. Dutiyo maggo tatiyassa maggassa upanissayapaccayena paccayo. Tatiyo maggo catutthassa maggassa upanissayapaccayena paccayo. Maggo sekkhāya phalasamāpattiyā upanissayapaccayena paccayo. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Sekkho dhammo asekkhassa dhammassa upanissayapaccayena paccayo – ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "anantarūpanissayo, pakatūpanissayo…pe…"
+      },
+      ". Pakatūpanissayo – maggo asekkhāya phalasamāpattiyā upanissayapaccayena paccayo. (2)"
+    ],
+    "innerText": "Sekkho dhammo asekkhassa dhammassa upanissayapaccayena paccayo – anantarūpanissayo, pakatūpanissayo…pe…. Pakatūpanissayo – maggo asekkhāya phalasamāpattiyā upanissayapaccayena paccayo. (2)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Sekkho dhammo nevasekkhanāsekkhassa dhammassa upanissayapaccayena paccaya – ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe…"
+      },
+      ". Pakatūpanissayo – ariyā maggaṃ ",
+      " upanissāya anuppannaṃ kusalasamāpattiṃ ",
+      " uppādenti, uppannaṃ samāpajjanti, saṅkhāre aniccato…pe… vipassanti, maggo ariyānaṃ atthappaṭisambhidāya…pe… paṭibhānappaṭisambhidāya… ṭhānāṭhānakosallassa ",
+      " upanissayapaccayena paccayo. Sekkhā phalasamāpattiyā kāyikassa sukhassa upanissayapaccayena paccayo. (3)"
+    ],
+    "innerText": "Sekkho dhammo nevasekkhanāsekkhassa dhammassa upanissayapaccayena paccaya – ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe…. Pakatūpanissayo – ariyā maggaṃ upanissāya anuppannaṃ kusalasamāpattiṃ uppādenti, uppannaṃ samāpajjanti, saṅkhāre aniccato…pe… vipassanti, maggo ariyānaṃ atthappaṭisambhidāya…pe… paṭibhānappaṭisambhidāya… ṭhānāṭhānakosallassa upanissayapaccayena paccayo. Sekkhā phalasamāpattiyā kāyikassa sukhassa upanissayapaccayena paccayo. (3)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "54"
+      },
+      ". Asekkho dhammo asekkhassa dhammassa upanissayapaccayena paccayo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Anantarūpanissayo"
+      },
+      " – purimā purimā asekkhā khandhā pacchimānaṃ pacchimānaṃ asekkhānaṃ khandhānaṃ…pe… asekkhaṃ phalaṃ asekkhassa phalassa upanissayapaccayena paccayo. (1)"
+    ],
+    "innerText": "54. Asekkho dhammo asekkhassa dhammassa upanissayapaccayena paccayo. Anantarūpanissayo – purimā purimā asekkhā khandhā pacchimānaṃ pacchimānaṃ asekkhānaṃ khandhānaṃ…pe… asekkhaṃ phalaṃ asekkhassa phalassa upanissayapaccayena paccayo. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Asekkho dhammo nevasekkhanāsekkhassa dhammassa upanissayapaccayena paccayo – ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe…"
+      },
+      ". Pakatūpanissayo – asekkhā phalasamāpatti kāyikassa sukhassa upanissayapaccayena paccayo. (2)"
+    ],
+    "innerText": "Asekkho dhammo nevasekkhanāsekkhassa dhammassa upanissayapaccayena paccayo – ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe…. Pakatūpanissayo – asekkhā phalasamāpatti kāyikassa sukhassa upanissayapaccayena paccayo. (2)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "55"
+      },
+      ". Nevasekkhanāsekkho dhammo nevasekkhanāsekkhassa dhammassa upanissayapaccayena paccayo – ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe…"
+      },
+      ". Pakatūpanissayo – nevasekkhanāsekkhaṃ saddhaṃ upanissāya dānaṃ deti. Sīlaṃ…pe… uposathakammaṃ…pe… jhānaṃ…pe… vipassanaṃ…pe… abhiññaṃ…pe… samāpattiṃ uppādeti, mānaṃ jappeti, diṭṭhiṃ gaṇhāti. Nevasekkhanāsekkhaṃ sīlaṃ…pe… paññaṃ… rāgaṃ…pe… patthanaṃ… kāyikaṃ sukhaṃ…pe… utuṃ… bhojanaṃ… senāsanaṃ upanissāya dānaṃ deti, sīlaṃ…pe… samāpattiṃ uppādeti, pāṇaṃ hanati…pe… saṅghaṃ bhindati. Nevasekkhanāsekkhā saddhā…pe… paññā, rāgo…pe… patthanā, kāyikaṃ sukhaṃ…pe… ",
+      " senāsanaṃ nevasekkhanāsekkhāya saddhāya…pe… paññāya, rāgassa…pe… patthanāya, kāyikassa sukhassa, kāyikassa dukkhassa upanissayapaccayena paccayo. Paṭhamassa jhānassa parikammaṃ paṭhamassa jhānassa upanissayapaccayena paccayo…pe… nevasaññānāsaññāyatanassa parikammaṃ nevasaññānāsaññāyatanassa…pe… paṭhamaṃ jhānaṃ dutiyassa jhānassa upanissayapaccayena paccayo…pe… ākiñcaññāyatanaṃ nevasaññānāsaññāyatanassa upanissayapaccayena paccayo. (1)"
+    ],
+    "innerText": "55. Nevasekkhanāsekkho dhammo nevasekkhanāsekkhassa dhammassa upanissayapaccayena paccayo – ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe…. Pakatūpanissayo – nevasekkhanāsekkhaṃ saddhaṃ upanissāya dānaṃ deti. Sīlaṃ…pe… uposathakammaṃ…pe… jhānaṃ…pe… vipassanaṃ…pe… abhiññaṃ…pe… samāpattiṃ uppādeti, mānaṃ jappeti, diṭṭhiṃ gaṇhāti. Nevasekkhanāsekkhaṃ sīlaṃ…pe… paññaṃ… rāgaṃ…pe… patthanaṃ… kāyikaṃ sukhaṃ…pe… utuṃ… bhojanaṃ… senāsanaṃ upanissāya dānaṃ deti, sīlaṃ…pe… samāpattiṃ uppādeti, pāṇaṃ hanati…pe… saṅghaṃ bhindati. Nevasekkhanāsekkhā saddhā…pe… paññā, rāgo…pe… patthanā, kāyikaṃ sukhaṃ…pe… senāsanaṃ nevasekkhanāsekkhāya saddhāya…pe… paññāya, rāgassa…pe… patthanāya, kāyikassa sukhassa, kāyikassa dukkhassa upanissayapaccayena paccayo. Paṭhamassa jhānassa parikammaṃ paṭhamassa jhānassa upanissayapaccayena paccayo…pe… nevasaññānāsaññāyatanassa parikammaṃ nevasaññānāsaññāyatanassa…pe… paṭhamaṃ jhānaṃ dutiyassa jhānassa upanissayapaccayena paccayo…pe… ākiñcaññāyatanaṃ nevasaññānāsaññāyatanassa upanissayapaccayena paccayo. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Nevasekkhanāsekkho dhammo sekkhassa dhammassa upanissayapaccayena paccayo – ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "ārammaṇūpanissayo"
+      },
+      ", ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "anantarūpanissayo, pakatūpanissayo…pe…"
+      },
+      ". Pakatūpanissayo – paṭhamassa maggassa parikammaṃ paṭhamassa maggassa upanissayapaccayena paccayo…pe… catutthassa maggassa parikammaṃ catutthassa maggassa upanissayapaccayena paccayo. (2)"
+    ],
+    "innerText": "Nevasekkhanāsekkho dhammo sekkhassa dhammassa upanissayapaccayena paccayo – ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe…. Pakatūpanissayo – paṭhamassa maggassa parikammaṃ paṭhamassa maggassa upanissayapaccayena paccayo…pe… catutthassa maggassa parikammaṃ catutthassa maggassa upanissayapaccayena paccayo. (2)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Nevasekkhanāsekkho ",
+      " dhammo asekkhassa dhammassa upanissayapaccayena paccayo – ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe…"
+      },
+      ". Pakatūpanissayo – kāyikaṃ sukhaṃ… kāyikaṃ dukkhaṃ… utuṃ… bhojanaṃ… senāsanaṃ asekkhāya phalasamāpattiyā upanissayapaccayena paccayo. (3)"
+    ],
+    "innerText": "Nevasekkhanāsekkho dhammo asekkhassa dhammassa upanissayapaccayena paccayo – ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe…. Pakatūpanissayo – kāyikaṃ sukhaṃ… kāyikaṃ dukkhaṃ… utuṃ… bhojanaṃ… senāsanaṃ asekkhāya phalasamāpattiyā upanissayapaccayena paccayo. (3)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Purejātapaccayo"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "56"
+      },
+      ". Nevasekkhanāsekkho dhammo nevasekkhanāsekkhassa dhammassa purejātapaccayena paccayo – ārammaṇapurejātaṃ, vatthupurejātaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Ārammaṇapurejātaṃ"
+      },
+      " – cakkhuṃ aniccato…pe… vipassati, assādeti abhinandati; taṃ ārabbha rāgo uppajjati…pe… domanassaṃ uppajjati. Sotaṃ…pe… vatthuṃ aniccato dukkhato ",
+      " anattato vipassati…pe… domanassaṃ uppajjati, dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti, rūpāyatanaṃ cakkhuviññāṇassa…pe… phoṭṭhabbāyatanaṃ kāyaviññāṇassa purejātapaccayena paccayo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Vatthupurejātaṃ"
+      },
+      " – cakkhāyatanaṃ cakkhuviññāṇassa…pe… kāyāyatanaṃ kāyaviññāṇassa, vatthu nevasekkhanāsekkhānaṃ khandhānaṃ purejātapaccayena paccayo. (1)"
+    ],
+    "innerText": "56. Nevasekkhanāsekkho dhammo nevasekkhanāsekkhassa dhammassa purejātapaccayena paccayo – ārammaṇapurejātaṃ, vatthupurejātaṃ. Ārammaṇapurejātaṃ – cakkhuṃ aniccato…pe… vipassati, assādeti abhinandati; taṃ ārabbha rāgo uppajjati…pe… domanassaṃ uppajjati. Sotaṃ…pe… vatthuṃ aniccato dukkhato anattato vipassati…pe… domanassaṃ uppajjati, dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti, rūpāyatanaṃ cakkhuviññāṇassa…pe… phoṭṭhabbāyatanaṃ kāyaviññāṇassa purejātapaccayena paccayo. Vatthupurejātaṃ – cakkhāyatanaṃ cakkhuviññāṇassa…pe… kāyāyatanaṃ kāyaviññāṇassa, vatthu nevasekkhanāsekkhānaṃ khandhānaṃ purejātapaccayena paccayo. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Nevasekkhanāsekkho dhammo sekkhassa dhammassa purejātapaccayena paccayo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Vatthupurejātaṃ"
+      },
+      " – vatthu sekkhānaṃ khandhānaṃ purejātapaccayena paccayo. (2)"
+    ],
+    "innerText": "Nevasekkhanāsekkho dhammo sekkhassa dhammassa purejātapaccayena paccayo. Vatthupurejātaṃ – vatthu sekkhānaṃ khandhānaṃ purejātapaccayena paccayo. (2)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Nevasekkhanāsekkho dhammo asekkhassa dhammassa purejātapaccayena paccayo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Vatthupurejātaṃ"
+      },
+      " – vatthu asekkhānaṃ khandhānaṃ purejātapaccayena paccayo. (3)"
+    ],
+    "innerText": "Nevasekkhanāsekkho dhammo asekkhassa dhammassa purejātapaccayena paccayo. Vatthupurejātaṃ – vatthu asekkhānaṃ khandhānaṃ purejātapaccayena paccayo. (3)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Pacchājātapaccayo"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "57"
+      },
+      ". Sekkho ",
+      " dhammo nevasekkhanāsekkhassa dhammassa pacchājātapaccayena paccayo – pacchājātā sekkhā khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)"
+    ],
+    "innerText": "57. Sekkho dhammo nevasekkhanāsekkhassa dhammassa pacchājātapaccayena paccayo – pacchājātā sekkhā khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Asekkho dhammo nevasekkhanāsekkhassa dhammassa pacchājātapaccayena paccayo – pacchājātā asekkhā khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Nevasekkhanāsekkho ",
+      " dhammo nevasekkhanāsekkhassa dhammassa pacchājātapaccayena paccayo – pacchājātā nevasekkhanāsekkhā ",
+      " khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)"
+    ],
+    "innerText": "Nevasekkhanāsekkho dhammo nevasekkhanāsekkhassa dhammassa pacchājātapaccayena paccayo – pacchājātā nevasekkhanāsekkhā khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Āsevanapaccayo"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "58"
+      },
+      ". Nevasekkhanāsekkho dhammo nevasekkhanāsekkhassa dhammassa āsevanapaccayena paccayo – purimā purimā nevasekkhanāsekkhā khandhā pacchimānaṃ pacchimānaṃ nevasekkhanāsekkhānaṃ khandhānaṃ āsevanapaccayena paccayo. Anulomaṃ gotrabhussa… anulomaṃ vodānassa āsevanapaccayena paccayo. (1)"
+    ],
+    "innerText": "58. Nevasekkhanāsekkho dhammo nevasekkhanāsekkhassa dhammassa āsevanapaccayena paccayo – purimā purimā nevasekkhanāsekkhā khandhā pacchimānaṃ pacchimānaṃ nevasekkhanāsekkhānaṃ khandhānaṃ āsevanapaccayena paccayo. Anulomaṃ gotrabhussa… anulomaṃ vodānassa āsevanapaccayena paccayo. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Nevasekkhanāsekkho dhammo sekkhassa dhammassa āsevanapaccayena paccayo – gotrabhu maggassa… vodānaṃ maggassa āsevanapaccayena paccayo. (2)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Kammapaccayo"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "59"
+      },
+      ". Sekkho dhammo sekkhassa dhammassa kammapaccayena paccayo – sahajātā, nānākkhaṇikā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Sahajātā"
+      },
+      " – sekkhā cetanā sampayuttakānaṃ khandhānaṃ kammapaccayena paccayo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Nānākkhaṇikā"
+      },
+      " – sekkhā cetanā vipākānaṃ sekkhānaṃ khandhānaṃ kammapaccayena paccayo. (1)"
+    ],
+    "innerText": "59. Sekkho dhammo sekkhassa dhammassa kammapaccayena paccayo – sahajātā, nānākkhaṇikā. Sahajātā – sekkhā cetanā sampayuttakānaṃ khandhānaṃ kammapaccayena paccayo. Nānākkhaṇikā – sekkhā cetanā vipākānaṃ sekkhānaṃ khandhānaṃ kammapaccayena paccayo. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Sekkho ",
+      " dhammo asekkhassa dhammassa kammapaccayena paccayo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Nānākkhaṇikā"
+      },
+      " – sekkhā cetanā asekkhānaṃ khandhānaṃ kammapaccayena paccayo. (2)"
+    ],
+    "innerText": "Sekkho dhammo asekkhassa dhammassa kammapaccayena paccayo. Nānākkhaṇikā – sekkhā cetanā asekkhānaṃ khandhānaṃ kammapaccayena paccayo. (2)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Sekkho dhammo nevasekkhanāsekkhassa dhammassa kammapaccayena paccayo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Sahajātā"
+      },
+      " – sekkhā cetanā cittasamuṭṭhānānaṃ rūpānaṃ kammapaccayena paccayo. (3)"
+    ],
+    "innerText": "Sekkho dhammo nevasekkhanāsekkhassa dhammassa kammapaccayena paccayo. Sahajātā – sekkhā cetanā cittasamuṭṭhānānaṃ rūpānaṃ kammapaccayena paccayo. (3)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Sekkho dhammo sekkhassa ca nevasekkhanāsekkhassa ca dhammassa ",
+      " kammapaccayena paccayo – sekkhā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. (4)"
+    ],
+    "innerText": "Sekkho dhammo sekkhassa ca nevasekkhanāsekkhassa ca dhammassa kammapaccayena paccayo – sekkhā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. (4)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "60"
+      },
+      ". Asekkho dhammo asekkhassa dhammassa kammapaccayena paccayo – asekkhā cetanā sampayuttakānaṃ khandhānaṃ kammapaccayena paccayo. (1)"
+    ],
+    "innerText": "60. Asekkho dhammo asekkhassa dhammassa kammapaccayena paccayo – asekkhā cetanā sampayuttakānaṃ khandhānaṃ kammapaccayena paccayo. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Asekkho ",
+      " dhammo nevasekkhanāsekkhassa dhammassa kammapaccayena paccayo – asekkhā cetanā cittasamuṭṭhānānaṃ rūpānaṃ kammapaccayena paccayo. (2)"
+    ],
+    "innerText": "Asekkho dhammo nevasekkhanāsekkhassa dhammassa kammapaccayena paccayo – asekkhā cetanā cittasamuṭṭhānānaṃ rūpānaṃ kammapaccayena paccayo. (2)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Asekkho dhammo asekkhassa ca nevasekkhanāsekkhassa ca dhammassa kammapaccayena paccayo – asekkhā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. (3)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "61"
+      },
+      ". Nevasekkhanāsekkho dhammo nevasekkhanāsekkhassa dhammassa kammapaccayena paccayo – sahajātā, nānākkhaṇikā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Sahajātā"
+      },
+      " – nevasekkhanāsekkhā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. Paṭisandhikkhaṇe…pe…. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Nānākkhaṇikā"
+      },
+      " – nevasekkhanāsekkhā cetanā vipākānaṃ nevasekkhanāsekkhānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (1)"
+    ],
+    "innerText": "61. Nevasekkhanāsekkho dhammo nevasekkhanāsekkhassa dhammassa kammapaccayena paccayo – sahajātā, nānākkhaṇikā. Sahajātā – nevasekkhanāsekkhā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. Paṭisandhikkhaṇe…pe…. Nānākkhaṇikā – nevasekkhanāsekkhā cetanā vipākānaṃ nevasekkhanāsekkhānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Vipākapaccayo"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "62"
+      },
+      ". Sekkho ",
+      " dhammo sekkhassa dhammassa vipākapaccayena paccayo – vipāko sekkho eko khandho tiṇṇannaṃ khandhānaṃ…pe… (sekkhamūlake tīṇi )."
+    ],
+    "innerText": "62. Sekkho dhammo sekkhassa dhammassa vipākapaccayena paccayo – vipāko sekkho eko khandho tiṇṇannaṃ khandhānaṃ…pe… (sekkhamūlake tīṇi )."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Asekkho ",
+      " dhammo asekkhassa dhammassa vipākapaccayena paccayo – asekkho eko khandho tiṇṇannaṃ khandhānaṃ…pe… (asekkhamūlake tīṇi)."
+    ],
+    "innerText": "Asekkho dhammo asekkhassa dhammassa vipākapaccayena paccayo – asekkho eko khandho tiṇṇannaṃ khandhānaṃ…pe… (asekkhamūlake tīṇi)."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Nevasekkhanāsekkho dhammo nevasekkhanāsekkhassa dhammassa vipākapaccayena paccayo – vipāko nevasekkhanāsekkho eko khandho tiṇṇannaṃ khandhānaṃ…pe… paṭisandhikkhaṇe…pe… khandhā vatthussa vipākapaccayena paccayo. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Āhārapaccayādi"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "63"
+      },
+      ". Sekkho dhammo sekkhassa dhammassa āhārapaccayena paccayo… indriyapaccayena paccayo… jhānapaccayena paccayo… maggapaccayena paccayo… sampayuttapaccayena paccayo…pe…."
+    ],
+    "innerText": "63. Sekkho dhammo sekkhassa dhammassa āhārapaccayena paccayo… indriyapaccayena paccayo… jhānapaccayena paccayo… maggapaccayena paccayo… sampayuttapaccayena paccayo…pe…."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Vippayuttapaccayo"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "64"
+      },
+      ". Sekkho ",
+      " dhammo nevasekkhanāsekkhassa dhammassa vippayuttapaccayena paccayo – sahajātaṃ, pacchājātaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Sahajātā"
+      },
+      " – sekkhā khandhā cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Pacchājātā"
+      },
+      " – sekkhā khandhā purejātassa imassa kāyassa vippayuttapaccayena paccayo (1)."
+    ],
+    "innerText": "64. Sekkho dhammo nevasekkhanāsekkhassa dhammassa vippayuttapaccayena paccayo – sahajātaṃ, pacchājātaṃ. Sahajātā – sekkhā khandhā cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo. Pacchājātā – sekkhā khandhā purejātassa imassa kāyassa vippayuttapaccayena paccayo (1)."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Asekkho dhammo nevasekkhanāsekkhassa dhammassa vippayuttapaccayena paccayo – sahajātaṃ, pacchājātaṃ (sekkhasadisaṃ)."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Nevasekkhanāsekkho dhammo nevasekkhanāsekkhassa dhammassa vippayuttapaccayena paccayo – sahajātaṃ ",
+      ", purejātaṃ, pacchājātaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Sahajātā"
+      },
+      " – nevasekkhanāsekkhā khandhā cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo. Paṭisandhikkhaṇe nevasekkhanāsekkhā khandhā kaṭattārūpānaṃ ",
+      " vippayuttapaccayena paccayo. Khandhā vatthussa vippayuttapaccayena paccayo. Vatthu khandhānaṃ vippayuttapaccayena paccayo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Purejātaṃ"
+      },
+      " – cakkhāyatanaṃ cakkhuviññāṇassa…pe… kāyāyatanaṃ kāyaviññāṇassa, vatthu nevasekkhanāsekkhānaṃ khandhānaṃ vippayuttapaccayena paccayo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Pacchājātā"
+      },
+      " – nevasekkhanāsekkhā khandhā purejātassa imassa kāyassa vippayuttapaccayena paccayo. (1)"
+    ],
+    "innerText": "Nevasekkhanāsekkho dhammo nevasekkhanāsekkhassa dhammassa vippayuttapaccayena paccayo – sahajātaṃ , purejātaṃ, pacchājātaṃ. Sahajātā – nevasekkhanāsekkhā khandhā cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo. Paṭisandhikkhaṇe nevasekkhanāsekkhā khandhā kaṭattārūpānaṃ vippayuttapaccayena paccayo. Khandhā vatthussa vippayuttapaccayena paccayo. Vatthu khandhānaṃ vippayuttapaccayena paccayo. Purejātaṃ – cakkhāyatanaṃ cakkhuviññāṇassa…pe… kāyāyatanaṃ kāyaviññāṇassa, vatthu nevasekkhanāsekkhānaṃ khandhānaṃ vippayuttapaccayena paccayo. Pacchājātā – nevasekkhanāsekkhā khandhā purejātassa imassa kāyassa vippayuttapaccayena paccayo. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Nevasekkhanāsekkho dhammo sekkhassa dhammassa vippayuttapaccayena paccayo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Purejātaṃ"
+      },
+      " – vatthu sekkhānaṃ khandhānaṃ vippayuttapaccayena paccayo. (2)"
+    ],
+    "innerText": "Nevasekkhanāsekkho dhammo sekkhassa dhammassa vippayuttapaccayena paccayo. Purejātaṃ – vatthu sekkhānaṃ khandhānaṃ vippayuttapaccayena paccayo. (2)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Nevasekkhanāsekkho dhammo asekkhassa dhammassa vippayuttapaccayena paccayo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Purejātaṃ"
+      },
+      " – vatthu asekkhānaṃ khandhānaṃ vippayuttapaccayena paccayo. (3)"
+    ],
+    "innerText": "Nevasekkhanāsekkho dhammo asekkhassa dhammassa vippayuttapaccayena paccayo. Purejātaṃ – vatthu asekkhānaṃ khandhānaṃ vippayuttapaccayena paccayo. (3)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Atthipaccayo"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "65"
+      },
+      ". Sekkho dhammo sekkhassa dhammassa atthipaccayena paccayo – sekkho eko khandho tiṇṇannaṃ khandhānaṃ…pe…. (1)"
+    ],
+    "innerText": "65. Sekkho dhammo sekkhassa dhammassa atthipaccayena paccayo – sekkho eko khandho tiṇṇannaṃ khandhānaṃ…pe…. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Sekkho dhammo nevasekkhanāsekkhassa dhammassa atthipaccayena paccayo – sahajātaṃ, pacchājātaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Sahajātā"
+      },
+      " – sekkhā khandhā cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Pacchājātā"
+      },
+      " – sekkhā khandhā purejātassa imassa kāyassa atthipaccayena paccayo. (2)"
+    ],
+    "innerText": "Sekkho dhammo nevasekkhanāsekkhassa dhammassa atthipaccayena paccayo – sahajātaṃ, pacchājātaṃ. Sahajātā – sekkhā khandhā cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo. Pacchājātā – sekkhā khandhā purejātassa imassa kāyassa atthipaccayena paccayo. (2)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Sekkho ",
+      " dhammo sekkhassa ca nevasekkhanāsekkhassa ca dhammassa ",
+      " atthipaccayena paccayo – sekkho eko khandho tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo…pe… dve khandhā…pe…. (3)"
+    ],
+    "innerText": "Sekkho dhammo sekkhassa ca nevasekkhanāsekkhassa ca dhammassa atthipaccayena paccayo – sekkho eko khandho tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo…pe… dve khandhā…pe…. (3)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Asekkho dhammo asekkhassa dhammassa atthipaccayena paccayo…pe… tīṇi (sekkhasadisaṃ)."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "66"
+      },
+      ". Nevasekkhanāsekkho ",
+      " dhammo nevasekkhanāsekkhassa dhammassa atthipaccayena paccayo – sahajātaṃ, purejātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Sahajāto"
+      },
+      " – nevasekkhanāsekkho eko khandho tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo…pe… dve khandhā…pe… paṭisandhikkhaṇe…pe… khandhā vatthussa atthipaccayena paccayo. Vatthu khandhānaṃ atthipaccayena paccayo, ekaṃ mahābhūtaṃ…pe… bāhiraṃ…pe… asaññasattānaṃ…pe…. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Purejātaṃ"
+      },
+      " – cakkhuṃ aniccato dukkhato anattato vipassati; assādeti abhinandati; taṃ ārabbha rāgo uppajjati…pe… domanassaṃ uppajjati. Sotaṃ…pe… vatthuṃ aniccato…pe… vipassati, dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti, rūpāyatanaṃ cakkhuviññāṇassa…pe… phoṭṭhabbāyatanaṃ kāyaviññāṇassa…pe… cakkhāyatanaṃ cakkhuviññāṇassa…pe… kāyāyatanaṃ kāyaviññāṇassa… vatthu nevasekkhanāsekkhānaṃ khandhānaṃ atthipaccayena paccayo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Pacchājātā"
+      },
+      " – nevasekkhanāsekkhā khandhā purejātassa imassa kāyassa atthipaccayena paccayo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Kabaḷīkāro āhāro"
+      },
+      " imassa kāyassa atthipaccayena paccayo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Rūpajīvitindriyaṃ"
+      },
+      " kaṭattārūpānaṃ atthipaccayena paccayo. (1)"
+    ],
+    "innerText": "66. Nevasekkhanāsekkho dhammo nevasekkhanāsekkhassa dhammassa atthipaccayena paccayo – sahajātaṃ, purejātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. Sahajāto – nevasekkhanāsekkho eko khandho tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo…pe… dve khandhā…pe… paṭisandhikkhaṇe…pe… khandhā vatthussa atthipaccayena paccayo. Vatthu khandhānaṃ atthipaccayena paccayo, ekaṃ mahābhūtaṃ…pe… bāhiraṃ…pe… asaññasattānaṃ…pe…. Purejātaṃ – cakkhuṃ aniccato dukkhato anattato vipassati; assādeti abhinandati; taṃ ārabbha rāgo uppajjati…pe… domanassaṃ uppajjati. Sotaṃ…pe… vatthuṃ aniccato…pe… vipassati, dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti, rūpāyatanaṃ cakkhuviññāṇassa…pe… phoṭṭhabbāyatanaṃ kāyaviññāṇassa…pe… cakkhāyatanaṃ cakkhuviññāṇassa…pe… kāyāyatanaṃ kāyaviññāṇassa… vatthu nevasekkhanāsekkhānaṃ khandhānaṃ atthipaccayena paccayo. Pacchājātā – nevasekkhanāsekkhā khandhā purejātassa imassa kāyassa atthipaccayena paccayo. Kabaḷīkāro āhāro imassa kāyassa atthipaccayena paccayo. Rūpajīvitindriyaṃ kaṭattārūpānaṃ atthipaccayena paccayo. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Nevasekkhanāsekkho dhammo sekkhassa dhammassa atthipaccayena paccayo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Purejātaṃ"
+      },
+      " – vatthu sekkhānaṃ khandhānaṃ atthipaccayena paccayo. (2)"
+    ],
+    "innerText": "Nevasekkhanāsekkho dhammo sekkhassa dhammassa atthipaccayena paccayo. Purejātaṃ – vatthu sekkhānaṃ khandhānaṃ atthipaccayena paccayo. (2)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Nevasekkhanāsekkho dhammo asekkhassa dhammassa atthipaccayena paccayo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Purejātaṃ"
+      },
+      " – vatthu asekkhānaṃ khandhānaṃ atthipaccayena paccayo. (3)"
+    ],
+    "innerText": "Nevasekkhanāsekkho dhammo asekkhassa dhammassa atthipaccayena paccayo. Purejātaṃ – vatthu asekkhānaṃ khandhānaṃ atthipaccayena paccayo. (3)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "67"
+      },
+      ". Sekkho ca nevasekkhanāsekkho ca dhammā sekkhassa dhammassa atthipaccayena paccayo – ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "sahajātaṃ, purejātaṃ"
+      },
+      ". Sahajāto – sekkho ",
+      " eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ atthipaccayena paccayo…pe… dve khandhā…pe…. (1)"
+    ],
+    "innerText": "67. Sekkho ca nevasekkhanāsekkho ca dhammā sekkhassa dhammassa atthipaccayena paccayo – sahajātaṃ, purejātaṃ. Sahajāto – sekkho eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ atthipaccayena paccayo…pe… dve khandhā…pe…. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Sekkho ca nevasekkhanāsekkho ca dhammā nevasekkhanāsekkhassa dhammassa atthipaccayena paccayo – sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Sahajātā"
+      },
+      " – sekkhā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Pacchājātā"
+      },
+      " – sekkhā khandhā ca kabaḷīkāro ",
+      " āhāro ca imassa kāyassa atthipaccayena paccayo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Pacchājātā"
+      },
+      " – sekkhā khandhā ca rūpajīvitindriyañca kaṭattārūpānaṃ atthipaccayena paccayo. (2)"
+    ],
+    "innerText": "Sekkho ca nevasekkhanāsekkho ca dhammā nevasekkhanāsekkhassa dhammassa atthipaccayena paccayo – sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. Sahajātā – sekkhā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo. Pacchājātā – sekkhā khandhā ca kabaḷīkāro āhāro ca imassa kāyassa atthipaccayena paccayo. Pacchājātā – sekkhā khandhā ca rūpajīvitindriyañca kaṭattārūpānaṃ atthipaccayena paccayo. (2)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Asekkho ca nevasekkhanāsekkho ca dhammā asekkhassa dhammassa atthipaccayena paccayo…pe… (dve pañhā kātabbā, sekkhasadisā)."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "1. Paccayānulomaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "2. Saṅkhyāvāro"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "68"
+      },
+      ". Hetuyā ",
+      " satta, ārammaṇe pañca, adhipatiyā nava, anantare aṭṭha, samanantare aṭṭha, sahajāte nava, aññamaññe tīṇi, nissaye terasa, upanissaye aṭṭha, purejāte tīṇi, pacchājāte tīṇi, āsevane dve, kamme aṭṭha, vipāke āhāre indriye jhāne magge satta, sampayutte tīṇi, vippayutte pañca, atthiyā terasa, natthiyā aṭṭha, vigate aṭṭha, avigate terasa (evaṃ gaṇetabbaṃ)."
+    ],
+    "innerText": "68. Hetuyā satta, ārammaṇe pañca, adhipatiyā nava, anantare aṭṭha, samanantare aṭṭha, sahajāte nava, aññamaññe tīṇi, nissaye terasa, upanissaye aṭṭha, purejāte tīṇi, pacchājāte tīṇi, āsevane dve, kamme aṭṭha, vipāke āhāre indriye jhāne magge satta, sampayutte tīṇi, vippayutte pañca, atthiyā terasa, natthiyā aṭṭha, vigate aṭṭha, avigate terasa (evaṃ gaṇetabbaṃ)."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Anulomaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "2. Paccanīyuddhāro"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "69"
+      },
+      ". Sekkho dhammo sekkhassa dhammassa sahajātapaccayena paccayo… upanissayapaccayena paccayo. (1)"
+    ],
+    "innerText": "69. Sekkho dhammo sekkhassa dhammassa sahajātapaccayena paccayo… upanissayapaccayena paccayo. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Sekkho dhammo asekkhassa dhammassa upanissayapaccayena paccayo. (2)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Sekkho dhammo nevasekkhanāsekkhassa dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo… pacchājātapaccayena paccayo. (3)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Sekkho dhammo sekkhassa ca nevasekkhanāsekkhassa ca dhammassa sahajātapaccayena paccayo. (4)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "70"
+      },
+      ". Asekkho ",
+      " dhammo asekkhassa dhammassa sahajātapaccayena paccayo… upanissayapaccayena paccayo. (1)"
+    ],
+    "innerText": "70. Asekkho dhammo asekkhassa dhammassa sahajātapaccayena paccayo… upanissayapaccayena paccayo. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Asekkho dhammo nevasekkhanāsekkhassa dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena ",
+      " paccayo… pacchājātapaccayena paccayo. (2)"
+    ],
+    "innerText": "Asekkho dhammo nevasekkhanāsekkhassa dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo… pacchājātapaccayena paccayo. (2)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Asekkho dhammo asekkhassa ca nevasekkhanāsekkhassa ca dhammassa sahajātapaccayena paccayo. (3)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "71"
+      },
+      ". Nevasekkhanāsekkho dhammo nevasekkhanāsekkhassa dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo… purejātapaccayena paccayo… pacchājātapaccayena paccayo… kammapaccayena paccayo… āhārapaccayena paccayo… indriyapaccayena paccayo. (1)"
+    ],
+    "innerText": "71. Nevasekkhanāsekkho dhammo nevasekkhanāsekkhassa dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo… purejātapaccayena paccayo… pacchājātapaccayena paccayo… kammapaccayena paccayo… āhārapaccayena paccayo… indriyapaccayena paccayo. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Nevasekkhanāsekkho dhammo sekkhassa dhammassa upanissayapaccayena paccayo… purejātapaccayena paccayo. (2)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Nevasekkhanāsekkho dhammo asekkhassa dhammassa upanissayapaccayena paccayo… purejātapaccayena paccayo. (3)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "72"
+      },
+      ". Sekkho ca nevasekkhanāsekkho ca dhammā sekkhassa dhammassa sahajātaṃ, purejātaṃ. (1)"
+    ],
+    "innerText": "72. Sekkho ca nevasekkhanāsekkho ca dhammā sekkhassa dhammassa sahajātaṃ, purejātaṃ. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Sekkho ca nevasekkhanāsekkho ca dhammā nevasekkhanāsekkhassa dhammassa sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. (2)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Asekkho ca nevasekkhanāsekkho ca dhammā asekkhassa dhammassa sahajātaṃ, purejātaṃ. (1)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Asekkho ",
+      " ca nevasekkhanāsekkho ca dhammā nevasekkhanāsekkhassa dhammassa sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. (2)"
+    ],
+    "innerText": "Asekkho ca nevasekkhanāsekkho ca dhammā nevasekkhanāsekkhassa dhammassa sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. (2)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "2. Paccayapaccanīyaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "2. Saṅkhyāvāro"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "73"
+      },
+      ". Nahetuyā ",
+      " cuddasa, naārammaṇe naadhipatiyā naanantare nasamanantare cuddasa, nasahajāte dasa, naaññamaññe dasa, nanissaye dasa ",
+      ", naupanissaye terasa, napurejāte dvādasa, napacchājāte cuddasa, naāsevane nakamme cuddasa, navipāke dvādasa, naāhāre naindriye najhāne namagge cuddasa, nasampayutte dasa, navippayutte aṭṭha, noatthiyā aṭṭha, nonatthiyā cuddasa, novigate cuddasa, noavigate aṭṭha (evaṃ gaṇetabbaṃ)."
+    ],
+    "innerText": "73. Nahetuyā cuddasa, naārammaṇe naadhipatiyā naanantare nasamanantare cuddasa, nasahajāte dasa, naaññamaññe dasa, nanissaye dasa , naupanissaye terasa, napurejāte dvādasa, napacchājāte cuddasa, naāsevane nakamme cuddasa, navipāke dvādasa, naāhāre naindriye najhāne namagge cuddasa, nasampayutte dasa, navippayutte aṭṭha, noatthiyā aṭṭha, nonatthiyā cuddasa, novigate cuddasa, noavigate aṭṭha (evaṃ gaṇetabbaṃ)."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Paccanīyaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "3. Paccayānulomapaccanīyaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Hetudukaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "74"
+      },
+      ". Hetupaccayā naārammaṇe satta, naadhipatiyā satta, naanantare satta, nasamanantare satta, naaññamaññe tīṇi, naupanissaye napurejāte napacchājāte naāsevane nakamme satta, navipāke cattāri, naāhāre naindriye najhāne namagge satta, nasampayutte tīṇi, navippayutte tīṇi, nonatthiyā satta, novigate satta (evaṃ gaṇetabbaṃ)."
+    ],
+    "innerText": "74. Hetupaccayā naārammaṇe satta, naadhipatiyā satta, naanantare satta, nasamanantare satta, naaññamaññe tīṇi, naupanissaye napurejāte napacchājāte naāsevane nakamme satta, navipāke cattāri, naāhāre naindriye najhāne namagge satta, nasampayutte tīṇi, navippayutte tīṇi, nonatthiyā satta, novigate satta (evaṃ gaṇetabbaṃ)."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Anulomapaccanīyaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "4. Paccayapaccanīyānulomaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Nahetudukaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "75"
+      },
+      ". Nahetupaccayā ",
+      " ārammaṇe pañca, adhipatiyā nava, anantare aṭṭha, samanantare aṭṭha, sahajāte nava, aññamaññe tīṇi, nissaye terasa, upanissaye aṭṭha, purejāte tīṇi, pacchājāte tīṇi, āsevane dve, kamme aṭṭha, vipāke āhāre indriye jhāne magge satta, sampayutte tīṇi, vippayutte pañca, atthiyā terasa, natthiyā ",
+      " aṭṭha, vigate aṭṭha, avigate terasa (evaṃ gaṇetabbaṃ)."
+    ],
+    "innerText": "75. Nahetupaccayā ārammaṇe pañca, adhipatiyā nava, anantare aṭṭha, samanantare aṭṭha, sahajāte nava, aññamaññe tīṇi, nissaye terasa, upanissaye aṭṭha, purejāte tīṇi, pacchājāte tīṇi, āsevane dve, kamme aṭṭha, vipāke āhāre indriye jhāne magge satta, sampayutte tīṇi, vippayutte pañca, atthiyā terasa, natthiyā aṭṭha, vigate aṭṭha, avigate terasa (evaṃ gaṇetabbaṃ)."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Paccanīyānulomaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Pañhāvāro."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Sekkhattikaṃ niṭṭhitaṃ."
+  }
+]

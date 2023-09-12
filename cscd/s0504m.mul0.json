@@ -1,0 +1,2796 @@
+[
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Namo tassa bhagavato arahato sammāsambuddhassa"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "nikaya"
+    },
+    "innerText": "Khuddakanikāye"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "book"
+    },
+    "innerText": "Itivuttakapāḷi"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "chapter"
+    },
+    "innerText": "1. Ekakanipāto"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "1. Paṭhamavaggo"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "1. Lobhasuttaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "1"
+      },
+      ". Vuttañhetaṃ ",
+      " bhagavatā, vuttamarahatāti me sutaṃ –"
+    ],
+    "innerText": "1. Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "‘‘Ekadhammaṃ, bhikkhave, pajahatha; ahaṃ vo pāṭibhogo anāgāmitāya. Katamaṃ ekadhammaṃ? Lobhaṃ, bhikkhave, ekadhammaṃ pajahatha; ahaṃ vo pāṭibhogo anāgāmitāyā’’ti. Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      "‘‘Yena ",
+      " lobhena luddhāse, sattā gacchanti duggatiṃ;"
+    ],
+    "innerText": "‘‘Yena lobhena luddhāse, sattā gacchanti duggatiṃ;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha2"
+    },
+    "innerText": "Taṃ lobhaṃ sammadaññāya, pajahanti vipassino;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Pahāya na punāyanti, imaṃ lokaṃ kudācana’’nti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Ayampi attho vutto bhagavatā, iti me sutanti. Paṭhamaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "2. Dosasuttaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "2"
+      },
+      ". Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –"
+    ],
+    "innerText": "2. Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "‘‘Ekadhammaṃ, bhikkhave, pajahatha; ahaṃ vo pāṭibhogo ",
+      " anāgāmitāya. Katamaṃ ekadhammaṃ? Dosaṃ, bhikkhave, ekadhammaṃ pajahatha; ahaṃ vo ",
+      " pāṭibhogo anāgāmitāyā’’ti. Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –"
+    ],
+    "innerText": "‘‘Ekadhammaṃ, bhikkhave, pajahatha; ahaṃ vo pāṭibhogo anāgāmitāya. Katamaṃ ekadhammaṃ? Dosaṃ, bhikkhave, ekadhammaṃ pajahatha; ahaṃ vo pāṭibhogo anāgāmitāyā’’ti. Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      "‘‘Yena ",
+      " dosena duṭṭhāse, sattā gacchanti duggatiṃ;"
+    ],
+    "innerText": "‘‘Yena dosena duṭṭhāse, sattā gacchanti duggatiṃ;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha2"
+    },
+    "innerText": "Taṃ dosaṃ sammadaññāya, pajahanti vipassino;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Pahāya na punāyanti, imaṃ lokaṃ kudācana’’nti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Ayampi attho vutto bhagavatā, iti me sutanti. Dutiyaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "3. Mohasuttaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "3"
+      },
+      ". Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –"
+    ],
+    "innerText": "3. Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "‘‘Ekadhammaṃ, bhikkhave, pajahatha; ahaṃ vo pāṭibhogo anāgāmitāya. Katamaṃ ekadhammaṃ? Mohaṃ, bhikkhave, ekadhammaṃ pajahatha; ahaṃ vo pāṭibhogo anāgāmitāyā’’ti. Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "‘‘Yena mohena mūḷhāse, sattā gacchanti duggatiṃ;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha2"
+    },
+    "innerText": "Taṃ mohaṃ sammadaññāya, pajahanti vipassino;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Pahāya na punāyanti, imaṃ lokaṃ kudācana’’nti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Ayampi ",
+      " attho vutto bhagavatā, iti me sutanti. Tatiyaṃ."
+    ],
+    "innerText": "Ayampi attho vutto bhagavatā, iti me sutanti. Tatiyaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "4. Kodhasuttaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "4"
+      },
+      ". Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –"
+    ],
+    "innerText": "4. Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "‘‘Ekadhammaṃ, bhikkhave, pajahatha; ahaṃ vo pāṭibhogo anāgāmitāya. Katamaṃ ekadhammaṃ? Kodhaṃ, bhikkhave, ekadhammaṃ pajahatha; ahaṃ vo pāṭibhogo anāgāmitāyā’’ti. Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      "‘‘Yena ",
+      " kodhena kuddhāse, sattā gacchanti duggatiṃ;"
+    ],
+    "innerText": "‘‘Yena kodhena kuddhāse, sattā gacchanti duggatiṃ;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha2"
+    },
+    "innerText": "Taṃ kodhaṃ sammadaññāya, pajahanti vipassino;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Pahāya na punāyanti, imaṃ lokaṃ kudācana’’nti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Ayampi attho vutto bhagavatā, iti me sutanti. Catutthaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "5. Makkhasuttaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "5"
+      },
+      ". Vuttañhetaṃ ",
+      " bhagavatā, vuttamarahatāti me sutaṃ –"
+    ],
+    "innerText": "5. Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "‘‘Ekadhammaṃ, bhikkhave, pajahatha; ahaṃ vo pāṭibhogo anāgāmitāya. Katamaṃ ekadhammaṃ? Makkhaṃ, bhikkhave, ekadhammaṃ pajahatha; ahaṃ vo pāṭibhogo anāgāmitāyā’’ti. Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      "‘‘Yena makkhena makkhāse ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[makkhitāse (syā.)]"
+      },
+      ", sattā gacchanti duggatiṃ;"
+    ],
+    "innerText": "‘‘Yena makkhena makkhāse [makkhitāse (syā.)], sattā gacchanti duggatiṃ;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha2"
+    },
+    "innerText": "Taṃ makkhaṃ sammadaññāya, pajahanti vipassino;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Pahāya na punāyanti, imaṃ lokaṃ kudācana’’nti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Ayampi attho vutto bhagavatā, iti me sutanti. Pañcamaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "6. Mānasuttaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "6"
+      },
+      ". Vuttañhetaṃ ",
+      " bhagavatā, vuttamarahatāti me sutaṃ –"
+    ],
+    "innerText": "6. Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "‘‘Ekadhammaṃ, bhikkhave, pajahatha; ahaṃ vo pāṭibhogo anāgāmitāya. Katamaṃ ekadhammaṃ? Mānaṃ, bhikkhave, ekadhammaṃ pajahatha; ahaṃ vo pāṭibhogo anāgāmitāyā’’ti. Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "‘‘Yena mānena mattāse, sattā gacchanti duggatiṃ;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha2"
+    },
+    "innerText": "Taṃ mānaṃ sammadaññāya, pajahanti vipassino;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Pahāya na punāyanti, imaṃ lokaṃ kudācana’’nti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Ayampi ",
+      " attho vutto bhagavatā, iti me sutanti. Chaṭṭhaṃ."
+    ],
+    "innerText": "Ayampi attho vutto bhagavatā, iti me sutanti. Chaṭṭhaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "7. Sabbapariññāsuttaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "7"
+      },
+      ". Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –"
+    ],
+    "innerText": "7. Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "‘‘Sabbaṃ, bhikkhave, anabhijānaṃ aparijānaṃ tattha cittaṃ avirājayaṃ appajahaṃ abhabbo dukkhakkhayāya. Sabbañca kho, bhikkhave, abhijānaṃ parijānaṃ ",
+      " tattha cittaṃ virājayaṃ pajahaṃ bhabbo dukkhakkhayāyā’’ti. Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –"
+    ],
+    "innerText": "‘‘Sabbaṃ, bhikkhave, anabhijānaṃ aparijānaṃ tattha cittaṃ avirājayaṃ appajahaṃ abhabbo dukkhakkhayāya. Sabbañca kho, bhikkhave, abhijānaṃ parijānaṃ tattha cittaṃ virājayaṃ pajahaṃ bhabbo dukkhakkhayāyā’’ti. Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      "‘‘Yo ",
+      " sabbaṃ sabbato ñatvā, sabbatthesu na rajjati;"
+    ],
+    "innerText": "‘‘Yo sabbaṃ sabbato ñatvā, sabbatthesu na rajjati;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "children": [
+      "Sa ve sabbapariññā ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[sabbaṃ pariññā (syā. pī.)]"
+      },
+      " so, sabbadukkhamupaccagā’’ti ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[sabbaṃ dukkhaṃ upaccagāti (syā.), sabbadukkhaṃ upaccagāti (pī. aṭṭha.)]"
+      },
+      "."
+    ],
+    "innerText": "Sa ve sabbapariññā [sabbaṃ pariññā (syā. pī.)] so, sabbadukkhamupaccagā’’ti [sabbaṃ dukkhaṃ upaccagāti (syā.), sabbadukkhaṃ upaccagāti (pī. aṭṭha.)]."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Ayampi attho vutto bhagavatā, iti me sutanti. Sattamaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "8. Mānapariññāsuttaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "8"
+      },
+      ". Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –"
+    ],
+    "innerText": "8. Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "‘‘Mānaṃ, bhikkhave, anabhijānaṃ aparijānaṃ tattha cittaṃ avirājayaṃ appajahaṃ abhabbo dukkhakkhayāya ",
+      ". Mānañca kho, bhikkhave, abhijānaṃ parijānaṃ tattha cittaṃ virājayaṃ pajahaṃ bhabbo dukkhakkhayāyā’’ti. Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –"
+    ],
+    "innerText": "‘‘Mānaṃ, bhikkhave, anabhijānaṃ aparijānaṃ tattha cittaṃ avirājayaṃ appajahaṃ abhabbo dukkhakkhayāya . Mānañca kho, bhikkhave, abhijānaṃ parijānaṃ tattha cittaṃ virājayaṃ pajahaṃ bhabbo dukkhakkhayāyā’’ti. Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "‘‘Mānupetā ayaṃ pajā, mānaganthā bhave ratā;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Mānaṃ aparijānantā, āgantāro punabbhavaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      "‘‘Ye ",
+      " ca mānaṃ pahantvāna, vimuttā mānasaṅkhaye;"
+    ],
+    "innerText": "‘‘Ye ca mānaṃ pahantvāna, vimuttā mānasaṅkhaye;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "children": [
+      "Te mānaganthābhibhuno, sabbadukkhamupaccagu’’nti ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[sabbadukkhaṃ upaccagunti (pī.), sabbaṃ dukkhaṃ upaccagunti (aṭṭhakathā)]"
+      },
+      "."
+    ],
+    "innerText": "Te mānaganthābhibhuno, sabbadukkhamupaccagu’’nti [sabbadukkhaṃ upaccagunti (pī.), sabbaṃ dukkhaṃ upaccagunti (aṭṭhakathā)]."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Ayampi attho vutto bhagavatā, iti me sutanti. Aṭṭhamaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "9. Lobhapariññāsuttaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "9"
+      },
+      ". Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –"
+    ],
+    "innerText": "9. Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "‘‘Lobhaṃ, bhikkhave ",
+      ", anabhijānaṃ aparijānaṃ tattha cittaṃ avirājayaṃ appajahaṃ abhabbo dukkhakkhayāya. Lobhañca kho, bhikkhave, abhijānaṃ parijānaṃ tattha cittaṃ virājayaṃ pajahaṃ bhabbo dukkhakkhayāyā’’ti. Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –"
+    ],
+    "innerText": "‘‘Lobhaṃ, bhikkhave , anabhijānaṃ aparijānaṃ tattha cittaṃ avirājayaṃ appajahaṃ abhabbo dukkhakkhayāya. Lobhañca kho, bhikkhave, abhijānaṃ parijānaṃ tattha cittaṃ virājayaṃ pajahaṃ bhabbo dukkhakkhayāyā’’ti. Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "‘‘Yena lobhena luddhāse, sattā gacchanti duggatiṃ;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha2"
+    },
+    "innerText": "Taṃ lobhaṃ sammadaññāya, pajahanti vipassino;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Pahāya na punāyanti, imaṃ lokaṃ kudācana’’nti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Ayampi attho vutto bhagavatā, iti me sutanti. Navamaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "10. Dosapariññāsuttaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "10"
+      },
+      ". Vuttañhetaṃ ",
+      " bhagavatā, vuttamarahatāti me sutaṃ –"
+    ],
+    "innerText": "10. Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "‘‘Dosaṃ, bhikkhave, anabhijānaṃ aparijānaṃ tattha cittaṃ avirājayaṃ appajahaṃ abhabbo dukkhakkhayāya. Dosañca kho, bhikkhave, abhijānaṃ parijānaṃ tattha cittaṃ virājayaṃ pajahaṃ bhabbo dukkhakkhayāyā’’ti. Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      "‘‘Yena ",
+      " dosena duṭṭhāse, sattā gacchanti duggatiṃ;"
+    ],
+    "innerText": "‘‘Yena dosena duṭṭhāse, sattā gacchanti duggatiṃ;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha2"
+    },
+    "innerText": "Taṃ dosaṃ sammadaññāya, pajahanti vipassino;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Pahāya na punāyanti, imaṃ lokaṃ kudācana’’nti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Ayampi attho vutto bhagavatā, iti me sutanti. Dasamaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Paṭhamo vaggo niṭṭhito."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Tassuddānaṃ –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      "Rāgadosā atha moho, kodhamakkhā ",
+      " mānaṃ sabbaṃ;"
+    ],
+    "innerText": "Rāgadosā atha moho, kodhamakkhā mānaṃ sabbaṃ;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Mānato rāgadosā puna dve, pakāsitā vaggamāhu paṭhamanti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "2. Dutiyavaggo"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "1. Mohapariññāsuttaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "11"
+      },
+      ". Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –"
+    ],
+    "innerText": "11. Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "‘‘Mohaṃ, bhikkhave, anabhijānaṃ aparijānaṃ tattha cittaṃ avirājayaṃ appajahaṃ abhabbo dukkhakkhayāya. Mohañca kho, bhikkhave, abhijānaṃ parijānaṃ tattha cittaṃ virājayaṃ pajahaṃ bhabbo dukkhakkhayāyā’’ti. Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "‘‘Yena mohena mūḷhāse, sattā gacchanti duggatiṃ;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha2"
+    },
+    "innerText": "Taṃ mohaṃ sammadaññāya, pajahanti vipassino;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "children": [
+      "Pahāya ",
+      " na punāyanti, imaṃ lokaṃ kudācana’’nti."
+    ],
+    "innerText": "Pahāya na punāyanti, imaṃ lokaṃ kudācana’’nti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Ayampi attho vutto bhagavatā, iti me sutanti. Paṭhamaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "2. Kodhapariññāsuttaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "12"
+      },
+      ". Vuttañhetaṃ ",
+      " bhagavatā, vuttamarahatāti me sutaṃ –"
+    ],
+    "innerText": "12. Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "‘‘Kodhaṃ, bhikkhave, anabhijānaṃ aparijānaṃ tattha cittaṃ avirājayaṃ appajahaṃ abhabbo dukkhakkhayāya. Kodhañca kho, bhikkhave, abhijānaṃ parijānaṃ tattha cittaṃ virājayaṃ pajahaṃ bhabbo dukkhakkhayāyā’’ti. Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      "‘‘Yena ",
+      " kodhena kuddhāse, sattā gacchanti duggatiṃ;"
+    ],
+    "innerText": "‘‘Yena kodhena kuddhāse, sattā gacchanti duggatiṃ;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha2"
+    },
+    "innerText": "Taṃ kodhaṃ sammadaññāya, pajahanti vipassino;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Pahāya na punāyanti, imaṃ lokaṃ kudācana’’nti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Ayampi attho vutto bhagavatā, iti me sutanti. Dutiyaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "3.Makkhapariññāsuttaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "13"
+      },
+      ". Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –"
+    ],
+    "innerText": "13. Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "‘‘Makkhaṃ, bhikkhave, anabhijānaṃ aparijānaṃ tattha cittaṃ avirājayaṃ appajahaṃ abhabbo dukkhakkhayāya. Makkhañca kho, bhikkhave, abhijānaṃ parijānaṃ tattha cittaṃ virājayaṃ pajahaṃ bhabbo dukkhakkhayāyā’’ti. Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "‘‘Yena makkhena makkhāse, sattā gacchanti duggatiṃ;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha2"
+    },
+    "innerText": "Taṃ makkhaṃ sammadaññāya, pajahanti vipassino;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Pahāya na punāyanti, imaṃ lokaṃ kudācana’’nti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Ayampi attho vutto bhagavatā, iti me sutanti. Tatiyaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "4. Avijjānīvaraṇasuttaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "14"
+      },
+      ". Vuttañhetaṃ bhagavatā, vuttamarahatāti ",
+      " me sutaṃ –"
+    ],
+    "innerText": "14. Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "‘‘Nāhaṃ, bhikkhave, aññaṃ ekanīvaraṇampi samanupassāmi yena ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[yenevaṃ (?)]"
+      },
+      " nīvaraṇena nivutā pajā dīgharattaṃ ",
+      " sandhāvanti saṃsaranti yathayidaṃ, bhikkhave, avijjānīvaraṇaṃ ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[avijjānīvaraṇena (?)]"
+      },
+      ". Avijjānīvaraṇena hi, bhikkhave, nivutā pajā dīgharattaṃ sandhāvanti saṃsarantī’’ti. Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –"
+    ],
+    "innerText": "‘‘Nāhaṃ, bhikkhave, aññaṃ ekanīvaraṇampi samanupassāmi yena [yenevaṃ (?)] nīvaraṇena nivutā pajā dīgharattaṃ sandhāvanti saṃsaranti yathayidaṃ, bhikkhave, avijjānīvaraṇaṃ [avijjānīvaraṇena (?)]. Avijjānīvaraṇena hi, bhikkhave, nivutā pajā dīgharattaṃ sandhāvanti saṃsarantī’’ti. Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      "‘‘Natthañño ",
+      " ekadhammopi, yenevaṃ ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[yeneva (sī. pī. ka.)]"
+      },
+      " nivutā pajā;"
+    ],
+    "innerText": "‘‘Natthañño ekadhammopi, yenevaṃ [yeneva (sī. pī. ka.)] nivutā pajā;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "children": [
+      "Saṃsaranti ",
+      " ahorattaṃ, yathā mohena āvutā."
+    ],
+    "innerText": "Saṃsaranti ahorattaṃ, yathā mohena āvutā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      "‘‘Ye ca mohaṃ pahantvāna, tamokhandhaṃ ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[tamokkhandhaṃ (sī. syā. pī.)]"
+      },
+      " padālayuṃ;"
+    ],
+    "innerText": "‘‘Ye ca mohaṃ pahantvāna, tamokhandhaṃ [tamokkhandhaṃ (sī. syā. pī.)] padālayuṃ;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Na te puna saṃsaranti, hetu tesaṃ na vijjatī’’ti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Ayampi attho vutto bhagavatā, iti me sutanti. Catutthaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "5. Taṇhāsaṃyojanasuttaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "15"
+      },
+      ". Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –"
+    ],
+    "innerText": "15. Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "‘‘Nāhaṃ, bhikkhave, aññaṃ ekasaṃyojanampi samanupassāmi yena ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[yenevaṃ (syā.)]"
+      },
+      " saṃyojanena saṃyuttā sattā dīgharattaṃ sandhāvanti saṃsaranti yathayidaṃ, bhikkhave, taṇhāsaṃyojanaṃ ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[taṇhāsaṃyojanena (?)]"
+      },
+      ". Taṇhāsaṃyojanena hi, bhikkhave, saṃyuttā sattā dīgharattaṃ sandhāvanti saṃsarantī’’ti. Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –"
+    ],
+    "innerText": "‘‘Nāhaṃ, bhikkhave, aññaṃ ekasaṃyojanampi samanupassāmi yena [yenevaṃ (syā.)] saṃyojanena saṃyuttā sattā dīgharattaṃ sandhāvanti saṃsaranti yathayidaṃ, bhikkhave, taṇhāsaṃyojanaṃ [taṇhāsaṃyojanena (?)]. Taṇhāsaṃyojanena hi, bhikkhave, saṃyuttā sattā dīgharattaṃ sandhāvanti saṃsarantī’’ti. Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      "‘‘Taṇhādutiyo ",
+      " puriso, dīghamaddhāna saṃsaraṃ;"
+    ],
+    "innerText": "‘‘Taṇhādutiyo puriso, dīghamaddhāna saṃsaraṃ;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "children": [
+      "Itthabhāvaññathābhāvaṃ ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[itthambhāvaññathābhāvaṃ (syā.)]"
+      },
+      ", saṃsāraṃ nātivattati."
+    ],
+    "innerText": "Itthabhāvaññathābhāvaṃ [itthambhāvaññathābhāvaṃ (syā.)], saṃsāraṃ nātivattati."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      "‘‘Etamādīnavaṃ ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[evamādīnavaṃ (sī. pī. ka.)]"
+      },
+      " ñatvā, taṇhaṃ ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[taṇhā (sī. ka.)]"
+      },
+      " dukkhassa sambhavaṃ;"
+    ],
+    "innerText": "‘‘Etamādīnavaṃ [evamādīnavaṃ (sī. pī. ka.)] ñatvā, taṇhaṃ [taṇhā (sī. ka.)] dukkhassa sambhavaṃ;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Vītataṇho anādāno, sato bhikkhu paribbaje’’ti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Ayampi attho vutto bhagavatā, iti me sutanti. Pañcamaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "6. Paṭhamasekhasuttaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "16"
+      },
+      ". Vuttañhetaṃ ",
+      " bhagavatā, vuttamarahatāti me sutaṃ –"
+    ],
+    "innerText": "16. Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "‘‘Sekhassa, bhikkhave, bhikkhuno appattamānasassa anuttaraṃ yogakkhemaṃ patthayamānassa viharato ajjhattikaṃ aṅganti karitvā nāññaṃ ekaṅgampi samanupassāmi yaṃ evaṃ bahūpakāraṃ yathayidaṃ, bhikkhave, yoniso manasikāro. Yoniso, bhikkhave, bhikkhu manasi karonto akusalaṃ pajahati ",
+      ", kusalaṃ bhāvetī’’ti ",
+      ". Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –"
+    ],
+    "innerText": "‘‘Sekhassa, bhikkhave, bhikkhuno appattamānasassa anuttaraṃ yogakkhemaṃ patthayamānassa viharato ajjhattikaṃ aṅganti karitvā nāññaṃ ekaṅgampi samanupassāmi yaṃ evaṃ bahūpakāraṃ yathayidaṃ, bhikkhave, yoniso manasikāro. Yoniso, bhikkhave, bhikkhu manasi karonto akusalaṃ pajahati , kusalaṃ bhāvetī’’ti . Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      "‘‘Yoniso ",
+      " manasikāro, dhammo sekhassa bhikkhuno;"
+    ],
+    "innerText": "‘‘Yoniso manasikāro, dhammo sekhassa bhikkhuno;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha2"
+    },
+    "innerText": "Natthañño evaṃ bahukāro, uttamatthassa pattiyā;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Yoniso padahaṃ bhikkhu, khayaṃ dukkhassa pāpuṇe’’ti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Ayampi attho vutto bhagavatā, iti me sutanti. Chaṭṭhaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "7. Dutiyasekhasuttaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "17"
+      },
+      ". Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –"
+    ],
+    "innerText": "17. Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "‘‘Sekhassa, bhikkhave, bhikkhuno appattamānasassa anuttaraṃ yogakkhemaṃ patthayamānassa viharato bāhiraṃ aṅganti karitvā nāññaṃ ekaṅgampi samanupassāmi yaṃ evaṃ bahūpakāraṃ yathayidaṃ, bhikkhave, kalyāṇamittatā. Kalyāṇamitto, bhikkhave, bhikkhu akusalaṃ pajahati, kusalaṃ bhāvetī’’ti. Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "‘‘Kalyāṇamitto yo bhikkhu, sappatisso sagāravo;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha2"
+    },
+    "innerText": "Karaṃ mittānaṃ vacanaṃ, sampajāno patissato;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Pāpuṇe anupubbena, sabbasaṃyojanakkhaya’’nti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Ayampi attho vutto bhagavatā, iti me sutanti. Sattamaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "8. Saṅghabhedasuttaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "18"
+      },
+      ". Vuttañhetaṃ ",
+      " bhagavatā, vuttamarahatāti me sutaṃ –"
+    ],
+    "innerText": "18. Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "‘‘Ekadhammo, bhikkhave, loke uppajjamāno ",
+      " uppajjati bahujanāhitāya bahujanāsukhāya bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṃ. Katamo ekadhammo? Saṅghabhedo. Saṅghe kho pana, bhikkhave, bhinne aññamaññaṃ bhaṇḍanāni ceva honti, aññamaññaṃ paribhāsā ca honti ",
+      ", aññamaññaṃ parikkhepā ca honti, aññamaññaṃ pariccajanā ca honti. Tattha appasannā ceva nappasīdanti, pasannānañca ekaccānaṃ aññathattaṃ hotī’’ti. Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –"
+    ],
+    "innerText": "‘‘Ekadhammo, bhikkhave, loke uppajjamāno uppajjati bahujanāhitāya bahujanāsukhāya bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṃ. Katamo ekadhammo? Saṅghabhedo. Saṅghe kho pana, bhikkhave, bhinne aññamaññaṃ bhaṇḍanāni ceva honti, aññamaññaṃ paribhāsā ca honti , aññamaññaṃ parikkhepā ca honti, aññamaññaṃ pariccajanā ca honti. Tattha appasannā ceva nappasīdanti, pasannānañca ekaccānaṃ aññathattaṃ hotī’’ti. Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      "‘‘Āpāyiko ",
+      " nerayiko, kappaṭṭho saṅghabhedako;"
+    ],
+    "innerText": "‘‘Āpāyiko nerayiko, kappaṭṭho saṅghabhedako;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha2"
+    },
+    "children": [
+      "Vaggārāmo adhammaṭṭho, yogakkhemā padhaṃsati ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[yogakkhemato dhaṃsati (syā. pī.), yogakkhemā vimaṃsati (sī. ka.)]"
+      },
+      ";"
+    ],
+    "innerText": "Vaggārāmo adhammaṭṭho, yogakkhemā padhaṃsati [yogakkhemato dhaṃsati (syā. pī.), yogakkhemā vimaṃsati (sī. ka.)];"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "children": [
+      "Saṅghaṃ samaggaṃ bhetvāna ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[bhitvāna (sī. ka.), bhinditvā (cūḷava. 354; a. ni. 10.39)]"
+      },
+      ", kappaṃ nirayamhi paccatī’’ti."
+    ],
+    "innerText": "Saṅghaṃ samaggaṃ bhetvāna [bhitvāna (sī. ka.), bhinditvā (cūḷava. 354; a. ni. 10.39)], kappaṃ nirayamhi paccatī’’ti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Ayampi attho vutto bhagavatā, iti me sutanti. Aṭṭhamaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "9. Saṅghasāmaggīsuttaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "19"
+      },
+      ". Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –"
+    ],
+    "innerText": "19. Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "‘‘Ekadhammo, bhikkhave, loke uppajjamāno uppajjati bahujanahitāya bahujanasukhāya bahuno janassa atthāya hitāya sukhāya devamanussānaṃ. Katamo ekadhammo ",
+      "? Saṅghasāmaggī. Saṅghe kho pana, bhikkhave, samagge na ceva aññamaññaṃ bhaṇḍanāni honti, na ca aññamaññaṃ paribhāsā honti, na ca aññamaññaṃ parikkhepā honti, na ca aññamaññaṃ pariccajanā honti. Tattha appasannā ceva pasīdanti, pasannānañca bhiyyobhāvo hotī’’ti. Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –"
+    ],
+    "innerText": "‘‘Ekadhammo, bhikkhave, loke uppajjamāno uppajjati bahujanahitāya bahujanasukhāya bahuno janassa atthāya hitāya sukhāya devamanussānaṃ. Katamo ekadhammo ? Saṅghasāmaggī. Saṅghe kho pana, bhikkhave, samagge na ceva aññamaññaṃ bhaṇḍanāni honti, na ca aññamaññaṃ paribhāsā honti, na ca aññamaññaṃ parikkhepā honti, na ca aññamaññaṃ pariccajanā honti. Tattha appasannā ceva pasīdanti, pasannānañca bhiyyobhāvo hotī’’ti. Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "‘‘Sukhā saṅghassa sāmaggī, samaggānañcanuggaho;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha2"
+    },
+    "innerText": "Samaggarato dhammaṭṭho, yogakkhemā na dhaṃsati;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Saṅghaṃ samaggaṃ katvāna, kappaṃ saggamhi modatī’’ti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Ayampi ",
+      " attho vutto bhagavatā, iti me sutanti. Navamaṃ."
+    ],
+    "innerText": "Ayampi attho vutto bhagavatā, iti me sutanti. Navamaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "10. Paduṭṭhacittasuttaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "20"
+      },
+      ". Vuttañhetaṃ ",
+      " bhagavatā, vuttamarahatāti me sutaṃ –"
+    ],
+    "innerText": "20. Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "‘‘Idhāhaṃ, bhikkhave, ekaccaṃ puggalaṃ paduṭṭhacittaṃ evaṃ cetasā ceto paricca pajānāmi – ‘imamhi cāyaṃ samaye puggalo kālaṅkareyya yathābhataṃ nikkhitto evaṃ niraye’. Taṃ kissa hetu? Cittaṃ hissa, bhikkhave, paduṭṭhaṃ. Cetopadosahetu kho pana, bhikkhave, evamidhekacce sattā kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjantī’’ti. Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      "‘‘Paduṭṭhacittaṃ ",
+      " ñatvāna, ekaccaṃ idha puggalaṃ;"
+    ],
+    "innerText": "‘‘Paduṭṭhacittaṃ ñatvāna, ekaccaṃ idha puggalaṃ;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Etamatthañca byākāsi, buddho bhikkhūna santike."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "‘‘Imamhi cāyaṃ samaye, kālaṃ kayirātha puggalo;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Nirayaṃ upapajjeyya, cittaṃ hissa padūsitaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "‘‘Yathā haritvā nikkhipeyya, evameva tathāvidho;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Cetopadosahetu hi, sattā gacchanti duggati’’nti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Ayampi attho vutto bhagavatā, iti me sutanti. Dasamaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Dutiyo vaggo niṭṭhito."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Tassuddānaṃ –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Moho kodho atha makkho, vijjā taṇhā sekhaduve ca;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "children": [
+      "Bhedo sāmaggipuggalo ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[mohakodha atha makkhāgato, mūhā kāmasekkhaduve; bhedasāmaggapuggalo ca (sī. ka.) mohakodhā atha makkho mohakāmā sekkhā duve; bhedamodā puggalo ca (syā. pī.)]"
+      },
+      ", vaggamāhu dutiyanti vuccatīti."
+    ],
+    "innerText": "Bhedo sāmaggipuggalo [mohakodha atha makkhāgato, mūhā kāmasekkhaduve; bhedasāmaggapuggalo ca (sī. ka.) mohakodhā atha makkho mohakāmā sekkhā duve; bhedamodā puggalo ca (syā. pī.)], vaggamāhu dutiyanti vuccatīti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "3. Tatiyavaggo"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "1. Pasannacittasuttaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "21"
+      },
+      ". Vuttañhetaṃ ",
+      " bhagavatā, vuttamarahatāti me sutaṃ –"
+    ],
+    "innerText": "21. Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "‘‘Idhāhaṃ, bhikkhave, ekaccaṃ puggalaṃ pasannacittaṃ evaṃ cetasā ceto paricca pajānāmi ",
+      " – ‘imamhi cāyaṃ samaye puggalo kālaṃ kareyya yathābhataṃ nikkhitto evaṃ sagge’. Taṃ kissa hetu? Cittaṃ hissa, bhikkhave, pasannaṃ. Cetopasādahetu kho pana, bhikkhave, evamidhekacce sattā kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjantī’’ti. Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –"
+    ],
+    "innerText": "‘‘Idhāhaṃ, bhikkhave, ekaccaṃ puggalaṃ pasannacittaṃ evaṃ cetasā ceto paricca pajānāmi – ‘imamhi cāyaṃ samaye puggalo kālaṃ kareyya yathābhataṃ nikkhitto evaṃ sagge’. Taṃ kissa hetu? Cittaṃ hissa, bhikkhave, pasannaṃ. Cetopasādahetu kho pana, bhikkhave, evamidhekacce sattā kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjantī’’ti. Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "‘‘Pasannacittaṃ ñatvāna, ekaccaṃ idha puggalaṃ;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Etamatthañca byākāsi, buddho bhikkhūna santike."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      "‘‘Imamhi ",
+      " cāyaṃ samaye, kālaṃ kayirātha puggalo;"
+    ],
+    "innerText": "‘‘Imamhi cāyaṃ samaye, kālaṃ kayirātha puggalo;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Sugatiṃ upapajjeyya, cittaṃ hissa pasāditaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "‘‘Yathā haritvā nikkhipeyya, evameva tathāvidho;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Cetopasādahetu hi, sattā gacchanti suggati’’nti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Ayampi attho vutto bhagavatā, iti me sutanti. Paṭhamaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "2. Mettasuttaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "22"
+      },
+      ". Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –"
+    ],
+    "innerText": "22. Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "‘‘Mā, bhikkhave, puññānaṃ bhāyittha ",
+      ". Sukhassetaṃ, bhikkhave, adhivacanaṃ iṭṭhassa kantassa piyassa manāpassa yadidaṃ puññāni ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[puññānanti, (a. ni. 7.62)]"
+      },
+      ". Abhijānāmi kho panāhaṃ, bhikkhave, dīgharattaṃ katānaṃ puññānaṃ iṭṭhaṃ kantaṃ piyaṃ manāpaṃ vipākaṃ paccanubhūtaṃ. Satta vassāni mettacittaṃ bhāvetvā satta ",
+      " saṃvaṭṭavivaṭṭakappe ",
+      " nayimaṃ lokaṃ punarāgamāsiṃ. Saṃvaṭṭamāne sudaṃ, bhikkhave, kappe ābhassarūpago homi; vivaṭṭamāne kappe suññaṃ brahmavimānaṃ upapajjāmi."
+    ],
+    "innerText": "‘‘Mā, bhikkhave, puññānaṃ bhāyittha . Sukhassetaṃ, bhikkhave, adhivacanaṃ iṭṭhassa kantassa piyassa manāpassa yadidaṃ puññāni [puññānanti, (a. ni. 7.62)]. Abhijānāmi kho panāhaṃ, bhikkhave, dīgharattaṃ katānaṃ puññānaṃ iṭṭhaṃ kantaṃ piyaṃ manāpaṃ vipākaṃ paccanubhūtaṃ. Satta vassāni mettacittaṃ bhāvetvā satta saṃvaṭṭavivaṭṭakappe nayimaṃ lokaṃ punarāgamāsiṃ. Saṃvaṭṭamāne sudaṃ, bhikkhave, kappe ābhassarūpago homi; vivaṭṭamāne kappe suññaṃ brahmavimānaṃ upapajjāmi."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "‘‘Tatra sudaṃ, bhikkhave, brahmā homi mahābrahmā abhibhū anabhibhūto aññadatthudaso vasavattī. Chattiṃsakkhattuṃ kho panāhaṃ, bhikkhave, sakko ahosiṃ devānamindo; anekasatakkhattuṃ rājā ahosiṃ cakkavattī dhammiko dhammarājā cāturanto vijitāvī janapadatthāvariyappatto sattaratanasamannāgato. Ko pana vādo padesarajjassa!"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "‘‘Tassa mayhaṃ, bhikkhave, etadahosi – ‘kissa nu kho me idaṃ kammassa phalaṃ, kissa kammassa vipāko, yenāhaṃ etarahi evaṃmahiddhiko evaṃmahānubhāvo’ti? Tassa mayhaṃ, bhikkhave, etadahosi – ‘tiṇṇaṃ kho me idaṃ kammānaṃ phalaṃ, tiṇṇaṃ kammānaṃ vipāko, yenāhaṃ etarahi evaṃmahiddhiko evaṃmahānubhāvoti, seyyathidaṃ ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[seyyathīdaṃ (sī. syā. kaṃ. pī.)]"
+      },
+      " – dānassa, damassa, saññamassā’’’ti. Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –"
+    ],
+    "innerText": "‘‘Tassa mayhaṃ, bhikkhave, etadahosi – ‘kissa nu kho me idaṃ kammassa phalaṃ, kissa kammassa vipāko, yenāhaṃ etarahi evaṃmahiddhiko evaṃmahānubhāvo’ti? Tassa mayhaṃ, bhikkhave, etadahosi – ‘tiṇṇaṃ kho me idaṃ kammānaṃ phalaṃ, tiṇṇaṃ kammānaṃ vipāko, yenāhaṃ etarahi evaṃmahiddhiko evaṃmahānubhāvoti, seyyathidaṃ [seyyathīdaṃ (sī. syā. kaṃ. pī.)] – dānassa, damassa, saññamassā’’’ti. Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "‘‘Puññameva so sikkheyya, āyataggaṃ sukhudrayaṃ;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "children": [
+      "Dānañca ",
+      " samacariyañca, mettacittañca bhāvaye."
+    ],
+    "innerText": "Dānañca samacariyañca, mettacittañca bhāvaye."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      "‘‘Ete ",
+      " dhamme bhāvayitvā, tayo sukhasamuddaye ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[sukhasamudraye (sī. aṭṭha.)]"
+      },
+      ";"
+    ],
+    "innerText": "‘‘Ete dhamme bhāvayitvā, tayo sukhasamuddaye [sukhasamudraye (sī. aṭṭha.)];"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "children": [
+      "Abyāpajjhaṃ ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[abyāpajjaṃ (syā. ka.), abyābajjhaṃ (?)]"
+      },
+      " sukhaṃ lokaṃ, paṇḍito upapajjatī’’ti."
+    ],
+    "innerText": "Abyāpajjhaṃ [abyāpajjaṃ (syā. ka.), abyābajjhaṃ (?)] sukhaṃ lokaṃ, paṇḍito upapajjatī’’ti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Ayampi attho vutto bhagavatā, iti me sutanti. Dutiyaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "3. Ubhayatthasuttaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "23"
+      },
+      ". Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –"
+    ],
+    "innerText": "23. Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "‘‘Ekadhammo ",
+      ", bhikkhave, bhāvito bahulīkato ubho atthe samadhigayha tiṭṭhati – diṭṭhadhammikañceva atthaṃ samparāyikañca. Katamo ekadhammo? Appamādo kusalesu dhammesu. Ayaṃ kho, bhikkhave, ekadhammo bhāvito bahulīkato ubho atthe samadhigayha tiṭṭhati – diṭṭhadhammikañceva atthaṃ samparāyikañcā’’ti. Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –"
+    ],
+    "innerText": "‘‘Ekadhammo , bhikkhave, bhāvito bahulīkato ubho atthe samadhigayha tiṭṭhati – diṭṭhadhammikañceva atthaṃ samparāyikañca. Katamo ekadhammo? Appamādo kusalesu dhammesu. Ayaṃ kho, bhikkhave, ekadhammo bhāvito bahulīkato ubho atthe samadhigayha tiṭṭhati – diṭṭhadhammikañceva atthaṃ samparāyikañcā’’ti. Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      "‘‘Appamādaṃ ",
+      " pasaṃsanti, puññakiriyāsu paṇḍitā;"
+    ],
+    "innerText": "‘‘Appamādaṃ pasaṃsanti, puññakiriyāsu paṇḍitā;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Appamatto ubho atthe, adhigaṇhāti paṇḍito."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      "‘‘Diṭṭhe ",
+      " dhamme ca yo attho, yo cattho samparāyiko;"
+    ],
+    "innerText": "‘‘Diṭṭhe dhamme ca yo attho, yo cattho samparāyiko;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Atthābhisamayā dhīro, paṇḍitoti pavuccatī’’ti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Ayampi attho vutto bhagavatā, iti me sutanti. Tatiyaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "4. Aṭṭhipuñjasuttaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "24"
+      },
+      ". Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –"
+    ],
+    "innerText": "24. Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "‘‘Ekapuggalassa, bhikkhave, kappaṃ sandhāvato saṃsarato siyā evaṃ mahā aṭṭhikaṅkalo aṭṭhipuñjo aṭṭhirāsi yathāyaṃ vepullo pabbatoः sace saṃhārako assa, sambhatañca na vinasseyyā’’ti. Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "‘‘Ekassekena kappena, puggalassaṭṭhisañcayo;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Siyā pabbatasamo rāsi, iti vuttaṃ mahesinā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "‘‘So kho panāyaṃ akkhāto, vepullo pabbato mahā;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Uttaro gijjhakūṭassa, magadhānaṃ giribbaje."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      "‘‘Yato ",
+      " ca ariyasaccāni, sammappaññāya passati;"
+    ],
+    "innerText": "‘‘Yato ca ariyasaccāni, sammappaññāya passati;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha2"
+    },
+    "children": [
+      "Dukkhaṃ ",
+      " dukkhasamuppādaṃ, dukkhassa ca atikkamaṃ;"
+    ],
+    "innerText": "Dukkhaṃ dukkhasamuppādaṃ, dukkhassa ca atikkamaṃ;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "children": [
+      "Ariyañcaṭṭhaṅgikaṃ ",
+      " maggaṃ, dukkhūpasamagāminaṃ."
+    ],
+    "innerText": "Ariyañcaṭṭhaṅgikaṃ maggaṃ, dukkhūpasamagāminaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "‘‘Sa sattakkhattuṃ paramaṃ, sandhāvitvāna puggalo;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Dukkhassantakaro hoti, sabbasaṃyojanakkhayā’’ti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Ayampi attho vutto bhagavatā, iti me sutanti. Catutthaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "5. Musāvādasuttaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "25"
+      },
+      ". Vuttañhetaṃ ",
+      " bhagavatā, vuttamarahatāti me sutaṃ –"
+    ],
+    "innerText": "25. Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "‘‘Ekadhammaṃ atītassa, bhikkhave, purisapuggalassa nāhaṃ tassa kiñci pāpakammaṃ akaraṇīyanti vadāmi. Katamaṃ ekadhammaṃ? Yadidaṃ ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[yathayidaṃ (sī. syā. ka.), yathāyidaṃ (pī.)]"
+      },
+      " bhikkhave, sampajānamusāvādo’’ti. Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –"
+    ],
+    "innerText": "‘‘Ekadhammaṃ atītassa, bhikkhave, purisapuggalassa nāhaṃ tassa kiñci pāpakammaṃ akaraṇīyanti vadāmi. Katamaṃ ekadhammaṃ? Yadidaṃ [yathayidaṃ (sī. syā. ka.), yathāyidaṃ (pī.)] bhikkhave, sampajānamusāvādo’’ti. Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "‘‘Ekadhammaṃ atītassa, musāvādissa jantuno;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Vitiṇṇaparalokassa, natthi pāpaṃ akāriya’’nti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Ayampi attho vutto bhagavatā, iti me sutanti. Pañcamaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "6. Dānasuttaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "26"
+      },
+      ". Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –"
+    ],
+    "innerText": "26. Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "‘‘Evañce, bhikkhave, sattā jāneyyuṃ dānasaṃvibhāgassa vipākaṃ yathāhaṃ jānāmi, na adatvā bhuñjeyyuṃ, na ca nesaṃ maccheramalaṃ cittaṃ pariyādāya tiṭṭheyya. Yopi nesaṃ assa carimo ālopo carimaṃ kabaḷaṃ, tatopi na asaṃvibhajitvā bhuñjeyyuṃ, sace nesaṃ paṭiggāhakā assu. Yasmā ca kho, bhikkhave, sattā ",
+      " na evaṃ jānanti dānasaṃvibhāgassa vipākaṃ yathāhaṃ jānāmi, tasmā adatvā bhuñjanti, maccheramalañca nesaṃ cittaṃ ",
+      " pariyādāya tiṭṭhatī’’ti. Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –"
+    ],
+    "innerText": "‘‘Evañce, bhikkhave, sattā jāneyyuṃ dānasaṃvibhāgassa vipākaṃ yathāhaṃ jānāmi, na adatvā bhuñjeyyuṃ, na ca nesaṃ maccheramalaṃ cittaṃ pariyādāya tiṭṭheyya. Yopi nesaṃ assa carimo ālopo carimaṃ kabaḷaṃ, tatopi na asaṃvibhajitvā bhuñjeyyuṃ, sace nesaṃ paṭiggāhakā assu. Yasmā ca kho, bhikkhave, sattā na evaṃ jānanti dānasaṃvibhāgassa vipākaṃ yathāhaṃ jānāmi, tasmā adatvā bhuñjanti, maccheramalañca nesaṃ cittaṃ pariyādāya tiṭṭhatī’’ti. Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "‘‘Evaṃ ce sattā jāneyyuṃ, yathāvuttaṃ mahesinā;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Vipākaṃ saṃvibhāgassa, yathā hoti mahapphalaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      "‘‘Vineyya ",
+      " maccheramalaṃ, vippasannena cetasā;"
+    ],
+    "innerText": "‘‘Vineyya maccheramalaṃ, vippasannena cetasā;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Dajjuṃ kālena ariyesu, yattha dinnaṃ mahapphalaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      "‘‘Annañca datvā ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[datvāna (syā.)]"
+      },
+      " bahuno, dakkhiṇeyyesu dakkhiṇaṃ;"
+    ],
+    "innerText": "‘‘Annañca datvā [datvāna (syā.)] bahuno, dakkhiṇeyyesu dakkhiṇaṃ;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Ito cutā manussattā, saggaṃ gacchanti dāyakā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      "‘‘Te ",
+      " ca saggagatā ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[saggaṃ gatā (sī. pī. ka.)]"
+      },
+      " tattha, modanti kāmakāmino;"
+    ],
+    "innerText": "‘‘Te ca saggagatā [saggaṃ gatā (sī. pī. ka.)] tattha, modanti kāmakāmino;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Vipākaṃ saṃvibhāgassa, anubhonti amaccharā’’ti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Ayampi attho vutto bhagavatā, iti me sutanti. Chaṭṭhaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "7. Mettābhāvanāsuttaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "27"
+      },
+      ". Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –"
+    ],
+    "innerText": "27. Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "‘‘Yāni kānici, bhikkhave, opadhikāni puññakiriyavatthūni sabbāni tāni mettāya cetovimuttiyā kalaṃ nāgghanti soḷasiṃ. Mettāyeva tāni cetovimutti adhiggahetvā bhāsate ca tapate ca virocati ca."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "‘‘Seyyathāpi, bhikkhave, yā kāci tārakarūpānaṃ pabhā sabbā tā ",
+      " candiyā pabhāya kalaṃ nāgghanti soḷasiṃ, candapabhāyeva tā adhiggahetvā bhāsate ca tapate ca virocati ca; evameva kho, bhikkhave, yāni kānici opadhikāni puññakiriyavatthūni sabbāni tāni mettāya cetovimuttiyā kalaṃ nāgghanti soḷasiṃ, mettāyeva tāni cetovimutti ",
+      " adhiggahetvā bhāsate ca tapate ca virocati ca."
+    ],
+    "innerText": "‘‘Seyyathāpi, bhikkhave, yā kāci tārakarūpānaṃ pabhā sabbā tā candiyā pabhāya kalaṃ nāgghanti soḷasiṃ, candapabhāyeva tā adhiggahetvā bhāsate ca tapate ca virocati ca; evameva kho, bhikkhave, yāni kānici opadhikāni puññakiriyavatthūni sabbāni tāni mettāya cetovimuttiyā kalaṃ nāgghanti soḷasiṃ, mettāyeva tāni cetovimutti adhiggahetvā bhāsate ca tapate ca virocati ca."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "‘‘Seyyathāpi, bhikkhave, vassānaṃ pacchime māse saradasamaye viddhe vigatavalāhake deve ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[nabhe (sī.)]"
+      },
+      " ādicco nabhaṃ abbhussakkamāno ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[abbhuggamamāno (ka. aṭṭha.)]"
+      },
+      " sabbaṃ ākāsagataṃ ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[ākāsaṃ (syā.)]"
+      },
+      " tamagataṃ abhivihacca ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[abhihacca (syā.)]"
+      },
+      " bhāsate ca tapate ca virocati ca; evameva kho, bhikkhave, yāni kānici opadhikāni puññakiriyavatthūni sabbāni tāni mettāya cetovimuttiyā kalaṃ nāgghanti soḷasiṃ, mettāyeva tāni cetovimutti adhiggahetvā bhāsate ca tapate ca virocati ca."
+    ],
+    "innerText": "‘‘Seyyathāpi, bhikkhave, vassānaṃ pacchime māse saradasamaye viddhe vigatavalāhake deve [nabhe (sī.)] ādicco nabhaṃ abbhussakkamāno [abbhuggamamāno (ka. aṭṭha.)] sabbaṃ ākāsagataṃ [ākāsaṃ (syā.)] tamagataṃ abhivihacca [abhihacca (syā.)] bhāsate ca tapate ca virocati ca; evameva kho, bhikkhave, yāni kānici opadhikāni puññakiriyavatthūni sabbāni tāni mettāya cetovimuttiyā kalaṃ nāgghanti soḷasiṃ, mettāyeva tāni cetovimutti adhiggahetvā bhāsate ca tapate ca virocati ca."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "‘‘Seyyathāpi ",
+      ", bhikkhave, rattiyā paccūsasamayaṃ osadhitārakā bhāsate ca tapate ca virocati ca; evameva kho, bhikkhave, yāni kānici opadhikāni puññakiriyavatthūni sabbāni tāni mettāya cetovimuttiyā kalaṃ nāgghanti soḷasiṃ ",
+      ", mettāyeva tāni cetovimutti adhiggahetvā bhāsate ca tapate ca virocati cā’’ti. Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –"
+    ],
+    "innerText": "‘‘Seyyathāpi , bhikkhave, rattiyā paccūsasamayaṃ osadhitārakā bhāsate ca tapate ca virocati ca; evameva kho, bhikkhave, yāni kānici opadhikāni puññakiriyavatthūni sabbāni tāni mettāya cetovimuttiyā kalaṃ nāgghanti soḷasiṃ , mettāyeva tāni cetovimutti adhiggahetvā bhāsate ca tapate ca virocati cā’’ti. Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      "‘‘Yo ",
+      " ca mettaṃ bhāvayati, appamāṇaṃ paṭissato;"
+    ],
+    "innerText": "‘‘Yo ca mettaṃ bhāvayati, appamāṇaṃ paṭissato;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "children": [
+      "Tanū ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[tanu (sī.)]"
+      },
+      " saṃyojanā honti, passato upadhikkhayaṃ."
+    ],
+    "innerText": "Tanū [tanu (sī.)] saṃyojanā honti, passato upadhikkhayaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "‘‘Ekampi ce pāṇamaduṭṭhacitto, mettāyati kusalo tena hoti;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Sabbe ca pāṇe manasānukampaṃ, pahūtamariyo pakaroti puññaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      "‘‘Ye ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[yo (sī.)]"
+      },
+      " sattasaṇḍaṃ pathaviṃ vijitvā, rājisayo ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[rājīsayo (sī.)]"
+      },
+      " yajamānānupariyagā;"
+    ],
+    "innerText": "‘‘Ye [yo (sī.)] sattasaṇḍaṃ pathaviṃ vijitvā, rājisayo [rājīsayo (sī.)] yajamānānupariyagā;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Assamedhaṃ purisamedhaṃ, sammāpāsaṃ vājapeyyaṃ niraggaḷaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "‘‘Mettassa cittassa subhāvitassa, kalampi te nānubhavanti soḷasiṃ;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "children": [
+      "Candappabhā ",
+      " tāragaṇāva sabbe."
+    ],
+    "innerText": "Candappabhā tāragaṇāva sabbe."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "‘‘Yo na hanti na ghāteti, na jināti na jāpaye;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Mettaṃso sabbabhūtesu, veraṃ tassa na kenacī’’ti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Ayampi attho vutto bhagavatā, iti me sutanti. Sattamaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Tatiyo vaggo niṭṭhito."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Tassuddānaṃ –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      "Cittaṃ ",
+      " mettaṃ ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[jhāyī (sī. syā.), jhāyi (pī. ka.)]"
+      },
+      " ubho atthe, puñjaṃ vepullapabbataṃ;"
+    ],
+    "innerText": "Cittaṃ mettaṃ [jhāyī (sī. syā.), jhāyi (pī. ka.)] ubho atthe, puñjaṃ vepullapabbataṃ;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "children": [
+      "Sampajānamusāvādo, dānañca mettabhāvanā ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[mettabhāvañca (sī. syā. pī.), mettavācañca (ka.)]"
+      },
+      "."
+    ],
+    "innerText": "Sampajānamusāvādo, dānañca mettabhāvanā [mettabhāvañca (sī. syā. pī.), mettavācañca (ka.)]."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      "Sattimāni ca ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[sattimānidha (sī. ka.)]"
+      },
+      " suttāni, purimāni ca vīsati;"
+    ],
+    "innerText": "Sattimāni ca [sattimānidha (sī. ka.)] suttāni, purimāni ca vīsati;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Ekadhammesu suttantā, sattavīsatisaṅgahāti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Ekakanipāto niṭṭhito."
+  }
+]

@@ -1,0 +1,894 @@
+[
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "chapter"
+    },
+    "innerText": "(12) 2.Andhakavindavaggo"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "1.Kulupakasuttaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "111"
+      },
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": " . Pañcahi"
+      },
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": ", bhikkhave, dhammehi samannāgato kulūpako bhikkhu kulesu appiyo ca hoti amanāpo ca agaru ca abhāvanīyo ca. Katamehi pañcahi? Asanthavavissāsī "
+      },
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[asanthutavissāsī (sī.), asandhavavissāsī (ka.)]"
+      },
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": " ca hoti, anissaravikappī ca, vissaṭṭhupasevī "
+      },
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[viyatthupasevī (sī.), byatthupasevī (syā. kaṃ.), vyattūpasevī (pī.)]"
+      },
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": " ca, upakaṇṇakakajappī ca, atiyācanako ca. Imehi kho, bhikkhave, pañcahi dhammehināgato kulūpako bhikkhu kulesu appiyo ca hoti amanāpo ca agaru ca abhāvanīyo ca."
+      }
+    ],
+    "innerText": "111 . Pañcahi, bhikkhave, dhammehi samannāgato kulūpako bhikkhu kulesu appiyo ca hoti amanāpo ca agaru ca abhāvanīyo ca. Katamehi pañcahi? Asanthavavissāsī [asanthutavissāsī (sī.), asandhavavissāsī (ka.)] ca hoti, anissaravikappī ca, vissaṭṭhupasevī [viyatthupasevī (sī.), byatthupasevī (syā. kaṃ.), vyattūpasevī (pī.)] ca, upakaṇṇakakajappī ca, atiyācanako ca. Imehi kho, bhikkhave, pañcahi dhammehināgato kulūpako bhikkhu kulesu appiyo ca hoti amanāpo ca agaru ca abhāvanīyo ca."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": "''Pañcahi, bhikkhave, dhammehi samannāgato kulūpako bhikkhu kulesu piyo ca hoti manāpo ca garu ca bhavanīyo ca. Katamehi pañcahi? Na asanthavavissāsī ca hoti, na anissaravikappī ca, na vissaṭṭhupasevī ca, na upakaṇṇakajappī ca, na atiyācanako ca. Imehi"
+      },
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": "kho, bhikkhave, pañcahi dhammehi samannāgato kulūpako bhikkhu kulesu piyo ca hoti manāpo ca garu ca bhavanīyo cā''ti. Paṭhamaṃ."
+      }
+    ],
+    "innerText": "''Pañcahi, bhikkhave, dhammehi samannāgato kulūpako bhikkhu kulesu piyo ca hoti manāpo ca garu ca bhavanīyo ca. Katamehi pañcahi? Na asanthavavissāsī ca hoti, na anissaravikappī ca, na vissaṭṭhupasevī ca, na upakaṇṇakajappī ca, na atiyācanako ca. Imehikho, bhikkhave, pañcahi dhammehi samannāgato kulūpako bhikkhu kulesu piyo ca hoti manāpo ca garu ca bhavanīyo cā''ti. Paṭhamaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "2. Pacchāsamaṇasuttaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "112"
+      },
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": " . ''Pañcahi, bhikkhave, dhammehi samannāgato pacchāsamaṇo na ādātabbo. Katamehi pañcahi? Atidūre vā gacchati accāsanne vā"
+      },
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": ", na pattapariyāpannaṃ"
+      },
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": "gaṇhati, āpattisāmantā bhaṇamānaṃ na nivāreti, bhaṇamānassa antarantarā kathaṃ opāteti, duppañño hoti jaḷo eḷamūgo. Imehi kho, bhikkhave, pañcahi dhammehināgato pacchāsamaṇo na ādātabbo."
+      }
+    ],
+    "innerText": "112 . ''Pañcahi, bhikkhave, dhammehi samannāgato pacchāsamaṇo na ādātabbo. Katamehi pañcahi? Atidūre vā gacchati accāsanne vā, na pattapariyāpannaṃgaṇhati, āpattisāmantā bhaṇamānaṃ na nivāreti, bhaṇamānassa antarantarā kathaṃ opāteti, duppañño hoti jaḷo eḷamūgo. Imehi kho, bhikkhave, pañcahi dhammehināgato pacchāsamaṇo na ādātabbo."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": "''Pañcahi, bhikkhave, dhammehi samannāgato pacchāsamaṇo ādātabbo. Katamehi pañcahi? Nātidūre gacchati na accāsanne, pattapariyāpannaṃ gaṇhati, āpattisāmantā bhaṇamānaṃ nivāreti"
+      },
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": ", bhaṇamānassa na antarantarā kathaṃ opāteti, paññavā hoti ajaḷo aneḷamūgo. Imehi kho, bhikkhave, pañcahi dhammehināgato pacchāsamaṇo ādātabbo''ti. Dutiyaṃ."
+      }
+    ],
+    "innerText": "''Pañcahi, bhikkhave, dhammehi samannāgato pacchāsamaṇo ādātabbo. Katamehi pañcahi? Nātidūre gacchati na accāsanne, pattapariyāpannaṃ gaṇhati, āpattisāmantā bhaṇamānaṃ nivāreti, bhaṇamānassa na antarantarā kathaṃ opāteti, paññavā hoti ajaḷo aneḷamūgo. Imehi kho, bhikkhave, pañcahi dhammehināgato pacchāsamaṇo ādātabbo''ti. Dutiyaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "3. Sammāsamādhisuttaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "113"
+      },
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": " . ''Pañcahi, bhikkhave, dhammehi samannāgato bhikkhu abhabbo sammāsamādhiṃ upasampajja viharituṃ. Katamehi pañcahi? Idha, bhikkhave, bhikkhu akkhamo hoti rupānaṃ, akkhamo saddānaṃ, akkhamo gandhānaṃ, akkhamo rasānaṃ, akkhamo phoṭṭhabbānaṃ. Imehi kho, bhikkhave, pañcahi dhammehināgato bhikkhu abhabbo sammāsamādhiṃ upasampajja viharituṃ."
+      }
+    ],
+    "innerText": "113 . ''Pañcahi, bhikkhave, dhammehi samannāgato bhikkhu abhabbo sammāsamādhiṃ upasampajja viharituṃ. Katamehi pañcahi? Idha, bhikkhave, bhikkhu akkhamo hoti rupānaṃ, akkhamo saddānaṃ, akkhamo gandhānaṃ, akkhamo rasānaṃ, akkhamo phoṭṭhabbānaṃ. Imehi kho, bhikkhave, pañcahi dhammehināgato bhikkhu abhabbo sammāsamādhiṃ upasampajja viharituṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": "''Pañcahi, bhikkhave, dhammehi samannāgato bhikkhu bhabbo sammāsamādhiṃ upasampajja viharituṃ. Katamehi pañcahi? Idha"
+      },
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": ", bhikkhave, bhikkhu khamo hoti rupānaṃ, khamo saddānaṃ, khamo gandhānaṃ, khamo rasānaṃ, khamo phoṭṭhabbānaṃ. Imehi kho, bhikkhave, pañcahi dhammehināgato bhikkhu bhabbo sammāsamādhiṃ upasampajja viharitu''nti. Tatiyaṃ."
+      }
+    ],
+    "innerText": "''Pañcahi, bhikkhave, dhammehi samannāgato bhikkhu bhabbo sammāsamādhiṃ upasampajja viharituṃ. Katamehi pañcahi? Idha, bhikkhave, bhikkhu khamo hoti rupānaṃ, khamo saddānaṃ, khamo gandhānaṃ, khamo rasānaṃ, khamo phoṭṭhabbānaṃ. Imehi kho, bhikkhave, pañcahi dhammehināgato bhikkhu bhabbo sammāsamādhiṃ upasampajja viharitu''nti. Tatiyaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "4. Andhakavindasuttaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "114"
+      },
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": " . Ekaṃ samayaṃ bhagavā magadhesu viharati andhakavinde. Atha"
+      },
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": "kho āyasmā ānando yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinnaṃ kho āyasmantaṃ ānandaṃ bhagavā etadavoca –"
+      }
+    ],
+    "innerText": "114 . Ekaṃ samayaṃ bhagavā magadhesu viharati andhakavinde. Athakho āyasmā ānando yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinnaṃ kho āyasmantaṃ ānandaṃ bhagavā etadavoca –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": "''Ye te, ānanda, bhikkhū navā acirapabbajitā adhunāgatā imaṃ dhammavinayaṃ, te vo, ānanda, bhikkhū pañcasu dhammesu samādapetabbā "
+      },
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[samādāpetabbā (?)]"
+      },
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": " nivesetabbā patiṭṭhāpetabbā"
+      },
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": ", Katamesu pañcasu? 'Etha tumhe, āvuso, sīlavā hotha, pātimokkhasaṃvarasaṃvutā viharatha ācāragocarasampanna aṇummatesu vajjesu bhayadassāvino, samādaya sikkhatha sikkhāpadesū'ti – ​​iti pātimokkhasaṃvare samādapetabbā nivesetabbā patiṭṭhāpetabbā."
+      }
+    ],
+    "innerText": "''Ye te, ānanda, bhikkhū navā acirapabbajitā adhunāgatā imaṃ dhammavinayaṃ, te vo, ānanda, bhikkhū pañcasu dhammesu samādapetabbā [samādāpetabbā (?)] nivesetabbā patiṭṭhāpetabbā, Katamesu pañcasu? 'Etha tumhe, āvuso, sīlavā hotha, pātimokkhasaṃvarasaṃvutā viharatha ācāragocarasampanna aṇummatesu vajjesu bhayadassāvino, samādaya sikkhatha sikkhāpadesū'ti – ​​iti pātimokkhasaṃvare samādapetabbā nivesetabbā patiṭṭhāpetabbā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": ", "
+      },
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "sārakkhitamānasā"
+      },
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": " _"
+      },
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": "satārakkhena cetasā samannāgatā'ti – ​​iti indriyasaṃvare samādapetabbā nivesetabbā patiṭṭhāpetabbā."
+      }
+    ],
+    "innerText": ", sārakkhitamānasā _satārakkhena cetasā samannāgatā'ti – ​​iti indriyasaṃvare samādapetabbā nivesetabbā patiṭṭhāpetabbā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "'''Etha tumhe, āvuso, appabhassā hotha, bhasse pariyantakārino'ti – ​​iti bhassapariyante samādapetabbā nivesetabbā patiṭṭhāpetabbā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "'''Etha tumhe, āvuso, āraññikā hotha, araññavanapatthāni pantani senāsanāni paṭisevathā'ti – ​​iti kāyavūpakāse samādapetabbā nivesetabbā patiṭṭhāpetabbā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": "'''Etha tumhe, āvuso, sammādiṭṭhikā hotha sammādassanena samannāgatā'ti – ​​iti sammādassane samādapetabbā nivesetabbā patiṭṭhāpetabbā. Yes"
+      },
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": "te, ānanda, bhikkhū navā acirapabbajitā adhunāgatā imaṃ dhammavinayaṃ, te vo, ānanda, bhikkhū imesu pañcasu dhammesu samādapetabbā nivesetabbā patiṭṭhāpetabbā''ti"
+      },
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": ", Catutthaṃ."
+      }
+    ],
+    "innerText": "'''Etha tumhe, āvuso, sammādiṭṭhikā hotha sammādassanena samannāgatā'ti – ​​iti sammādassane samādapetabbā nivesetabbā patiṭṭhāpetabbā. Yeste, ānanda, bhikkhū navā acirapabbajitā adhunāgatā imaṃ dhammavinayaṃ, te vo, ānanda, bhikkhū imesu pañcasu dhammesu samādapetabbā nivesetabbā patiṭṭhāpetabbā''ti, Catutthaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "5. Maccharinīsuttaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "115"
+      },
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": " . ''Pañcahi, bhikkhave, dhammehi samannāgatā bhikkhunī yathābhataṃ nikkhittā evaṃ niraye. Katamehi pañcahi? Āvāsamaccharinī hoti, kulamaccharinī hoti, lābhamaccharinī hoti, vaṇṇamaccharinī hoti, dhammamaccharinī hoti. Imehi kho, bhikkhave, pañcahi dhammehināgatā bhikkhunī yathābhataṃ nikkhittā evaṃ niraye."
+      }
+    ],
+    "innerText": "115 . ''Pañcahi, bhikkhave, dhammehi samannāgatā bhikkhunī yathābhataṃ nikkhittā evaṃ niraye. Katamehi pañcahi? Āvāsamaccharinī hoti, kulamaccharinī hoti, lābhamaccharinī hoti, vaṇṇamaccharinī hoti, dhammamaccharinī hoti. Imehi kho, bhikkhave, pañcahi dhammehināgatā bhikkhunī yathābhataṃ nikkhittā evaṃ niraye."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": "''Pañcahi, bhikkhave, dhammehi samannāgata bhikkhunī yathābhataṃ nikkhittā evaṃ sagge. Katamehi pañcahi? Na āvāsamacccharinī hoti, na kulamaccharinī hoti, na lābhamaccharinī hoti, na vaṇṇamacccharinī hoti, na dhammamaccharinī hoti"
+      },
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": ", Imehi kho, bhikkhave, pañcahi dhammehināgatā bhikkhunī yathābhataṃ nikkhittā evaṃ sagge''ti. Pancamaṃ."
+      }
+    ],
+    "innerText": "''Pañcahi, bhikkhave, dhammehi samannāgata bhikkhunī yathābhataṃ nikkhittā evaṃ sagge. Katamehi pañcahi? Na āvāsamacccharinī hoti, na kulamaccharinī hoti, na lābhamaccharinī hoti, na vaṇṇamacccharinī hoti, na dhammamaccharinī hoti, Imehi kho, bhikkhave, pañcahi dhammehināgatā bhikkhunī yathābhataṃ nikkhittā evaṃ sagge''ti. Pancamaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "6. Vaṇṇanāsuttaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "116"
+      },
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": " . ''Pancahi"
+      },
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": ", bhikkhave, dhammehi samannāgatā bhikkhunī yathābhataṃ nikkhittā evaṃ niraye. Katamehi pañcahi? Ananuvicca apariyogāhetvā avaṇṇārahassa vaṇṇaṃ bhāsati, ananuvicca apariyogāhetvā vaṇṇārahassa avaṇṇaṃ bhāsati, ananuvicca apariyogāhetvā appasādanīye ṭhāne pasādaṃ upadaṃseti, ananuvicca apariyogāhetvā pasādanīye ṭhāne appasādaṃ upadaṃseti, saddhādeyyaṃ vinipāteti. Imehi kho, bhikkhave, pañcahi dhammehināgatā bhikkhunī yathābhataṃ nikkhittā evaṃ niraye."
+      }
+    ],
+    "innerText": "116 . ''Pancahi, bhikkhave, dhammehi samannāgatā bhikkhunī yathābhataṃ nikkhittā evaṃ niraye. Katamehi pañcahi? Ananuvicca apariyogāhetvā avaṇṇārahassa vaṇṇaṃ bhāsati, ananuvicca apariyogāhetvā vaṇṇārahassa avaṇṇaṃ bhāsati, ananuvicca apariyogāhetvā appasādanīye ṭhāne pasādaṃ upadaṃseti, ananuvicca apariyogāhetvā pasādanīye ṭhāne appasādaṃ upadaṃseti, saddhādeyyaṃ vinipāteti. Imehi kho, bhikkhave, pañcahi dhammehināgatā bhikkhunī yathābhataṃ nikkhittā evaṃ niraye."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": "''Pañcahi, bhikkhave, dhammehi samannāgatā bhikkhunī yathābhataṃ nikkhittā evaṃ sagge. Katamehi pañcahi? Anuvicca pariyogāhetvā avaṇṇārahassa avaṇṇaṃ bhāsati"
+      },
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": "pariyogāhetva"
+      },
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": "appasādanīye ṭhāne appasādaṃ upadaṃseti, anuvicca pariyogāhetvā pasādanīye ṭhāne pasādaṃ upadaṃseti, saddhādeyyaṃ na vinipāteti. Imehi kho, bhikkhave, pañcahi dhammehi samannāgatā bhikkhunī yathābhataṃ nikkhittā evaṃ sagge''ti. Chaṭṭhaṃ."
+      }
+    ],
+    "innerText": "''Pañcahi, bhikkhave, dhammehi samannāgatā bhikkhunī yathābhataṃ nikkhittā evaṃ sagge. Katamehi pañcahi? Anuvicca pariyogāhetvā avaṇṇārahassa avaṇṇaṃ bhāsatipariyogāhetvaappasādanīye ṭhāne appasādaṃ upadaṃseti, anuvicca pariyogāhetvā pasādanīye ṭhāne pasādaṃ upadaṃseti, saddhādeyyaṃ na vinipāteti. Imehi kho, bhikkhave, pañcahi dhammehi samannāgatā bhikkhunī yathābhataṃ nikkhittā evaṃ sagge''ti. Chaṭṭhaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "7. Issukinīsuttaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "117"
+      },
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": " . ''Pañcahi, bhikkhave, dhammehi samannāgatā bhikkhunī yathābhataṃ nikkhittā evaṃ niraye. Katamehi pañcahi? Ananuvicca apariyogāhetvā avaṇṇārahassa vaṇṇaṃ bhāsati, ananuvicca apariyogāhetvā vaṇṇārahassa avaṇṇaṃ bhāsati, issukinī ca hoti, maccharinī ca, saddhādeyyaṃ "
+      },
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[saddhādeyyañca (syā.)]"
+      },
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": " vinipāteti. Imehi kho, bhikkhave, pañcahi dhammehi samannāgatā bhikkhunī yathābhataṃ nikkhittā evaṃ niraye."
+      }
+    ],
+    "innerText": "117 . ''Pañcahi, bhikkhave, dhammehi samannāgatā bhikkhunī yathābhataṃ nikkhittā evaṃ niraye. Katamehi pañcahi? Ananuvicca apariyogāhetvā avaṇṇārahassa vaṇṇaṃ bhāsati, ananuvicca apariyogāhetvā vaṇṇārahassa avaṇṇaṃ bhāsati, issukinī ca hoti, maccharinī ca, saddhādeyyaṃ [saddhādeyyañca (syā.)] vinipāteti. Imehi kho, bhikkhave, pañcahi dhammehi samannāgatā bhikkhunī yathābhataṃ nikkhittā evaṃ niraye."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": "''Pañcahi, bhikkhave, dhammehi samannāgatā bhikkhunī yathābhataṃ nikkhittā evaṃ sagge. Katamehi pañcahi? Anuvicca pariyogāhetvā avaṇṇārahassa avaṇṇaṃ bhāsati, anuvicca pariyogāhetvā vaṇṇārahassa vaṇṇaṃ bhāsati"
+      },
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": ", anissukinī ca hoti, amaccharinī ca, saddhādeyyaṃ"
+      },
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": "na vinipāteti. Imehi kho, bhikkhave, pañcahi dhammehināgatā bhikkhunī yathābhataṃ nikkhittā evaṃ sagge''ti. Sattamaṃ."
+      }
+    ],
+    "innerText": "''Pañcahi, bhikkhave, dhammehi samannāgatā bhikkhunī yathābhataṃ nikkhittā evaṃ sagge. Katamehi pañcahi? Anuvicca pariyogāhetvā avaṇṇārahassa avaṇṇaṃ bhāsati, anuvicca pariyogāhetvā vaṇṇārahassa vaṇṇaṃ bhāsati, anissukinī ca hoti, amaccharinī ca, saddhādeyyaṃna vinipāteti. Imehi kho, bhikkhave, pañcahi dhammehināgatā bhikkhunī yathābhataṃ nikkhittā evaṃ sagge''ti. Sattamaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "8. Micchādiṭhikasuttaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "118"
+      },
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": " . ''Pañcahi, bhikkhave, dhammehi samannāgatā bhikkhunī yathābhataṃ nikkhittā evaṃ niraye. Katamehi pañcahi? Ananuvicca apariyogāhetvā avaṇṇārahassa vaṇṇaṃ bhāsati, anannuvicca apariyogāhetvā vaṇṇaṃ bhāsati, micchādiṭṭhikā ca hoti, micchāsaṅkappā ca, saddhādeyyaṃ vinipāteti. Imehi kho, bhikkhave, pañcahi dhammehi samannāgatā bhikkhunī yathābhataṃ nikkhittā evaṃ niraye."
+      }
+    ],
+    "innerText": "118 . ''Pañcahi, bhikkhave, dhammehi samannāgatā bhikkhunī yathābhataṃ nikkhittā evaṃ niraye. Katamehi pañcahi? Ananuvicca apariyogāhetvā avaṇṇārahassa vaṇṇaṃ bhāsati, anannuvicca apariyogāhetvā vaṇṇaṃ bhāsati, micchādiṭṭhikā ca hoti, micchāsaṅkappā ca, saddhādeyyaṃ vinipāteti. Imehi kho, bhikkhave, pañcahi dhammehi samannāgatā bhikkhunī yathābhataṃ nikkhittā evaṃ niraye."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": "''Pancahi"
+      },
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": ", bhikkhave, dhammehi samannāgatā bhikkhunī yathābhataṃ nikkhittā evaṃ sagge"
+      },
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": ", Katamehi pañcahi? Anuvicca pariyogāhetvā avaṇṇāṃ bhāsati, anuvicca pariyogāhetvā vaṇṇaṃ bhāsati, sammādiṭṭhikā ca, hoti, sammāsaṅkappā ca, saddhādeyyaṃ na vinipāteti. Imehi kho, bhikkhave, pañcahi dhammehināgatā bhikkhunī yathābhataṃ nikkhittā evaṃ sagge''ti. Aṭṭhamaṃ."
+      }
+    ],
+    "innerText": "''Pancahi, bhikkhave, dhammehi samannāgatā bhikkhunī yathābhataṃ nikkhittā evaṃ sagge, Katamehi pañcahi? Anuvicca pariyogāhetvā avaṇṇāṃ bhāsati, anuvicca pariyogāhetvā vaṇṇaṃ bhāsati, sammādiṭṭhikā ca, hoti, sammāsaṅkappā ca, saddhādeyyaṃ na vinipāteti. Imehi kho, bhikkhave, pañcahi dhammehināgatā bhikkhunī yathābhataṃ nikkhittā evaṃ sagge''ti. Aṭṭhamaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "9. Micchāvācāsuttaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "119"
+      },
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": " . ''Pañcahi, bhikkhave, dhammehi samannāgatā bhikkhunī yathābhataṃ nikkhittā evaṃ niraye. Katamehi pañcahi? Ananuvicca apariyogāhetvā avaṇṇārahassa vaṇṇaṃ bhāsati, anannuvicca apariyogāhetvā vaṇṇaṃ bhāsati, micchāvācā ca hoti, micchākammantā ca, saddhādeyyaṃ vinipāteti. Imehi kho, bhikkhave, pañcahi dhammehi samannāgatā bhikkhunī yathābhataṃ nikkhittā evaṃ niraye."
+      }
+    ],
+    "innerText": "119 . ''Pañcahi, bhikkhave, dhammehi samannāgatā bhikkhunī yathābhataṃ nikkhittā evaṃ niraye. Katamehi pañcahi? Ananuvicca apariyogāhetvā avaṇṇārahassa vaṇṇaṃ bhāsati, anannuvicca apariyogāhetvā vaṇṇaṃ bhāsati, micchāvācā ca hoti, micchākammantā ca, saddhādeyyaṃ vinipāteti. Imehi kho, bhikkhave, pañcahi dhammehi samannāgatā bhikkhunī yathābhataṃ nikkhittā evaṃ niraye."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": "''Pañcahi, bhikkhave, dhammehi samannāgata bhikkhunī yathābhataṃ nikkhittā evaṃ sagge. Katamehi pañcahi? anuvicca pariyogāhetvā avaṇṇārahassa avaṇṇaṃ bhāsati, anuvicca pariyogāhetvā vaṇṇārahassa vaṇṇaṃ bhāsati, sammāvācā ca hoti, sammākammantā ca, saddhādeyyaṃ"
+      },
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": "na vinipateti. Imehi kho bhikkhave, pañcahi dhammehi samannāgatā bhikkhunī yathābhataṃ nikkhittā evaṃ sagge''ti. Navamaṃ."
+      }
+    ],
+    "innerText": "''Pañcahi, bhikkhave, dhammehi samannāgata bhikkhunī yathābhataṃ nikkhittā evaṃ sagge. Katamehi pañcahi? anuvicca pariyogāhetvā avaṇṇārahassa avaṇṇaṃ bhāsati, anuvicca pariyogāhetvā vaṇṇārahassa vaṇṇaṃ bhāsati, sammāvācā ca hoti, sammākammantā ca, saddhādeyyaṃna vinipateti. Imehi kho bhikkhave, pañcahi dhammehi samannāgatā bhikkhunī yathābhataṃ nikkhittā evaṃ sagge''ti. Navamaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "10. Micchāvāyāmasuttaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "120"
+      },
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": " . Pañcahi"
+      },
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": ", bhikkhave, dhammehi samannāgatā bhikkhunī yathābhataṃ nikkhittā evaṃ niraye. Katamehi pañcahi? Ananuvicca apariyogāhetvā avaṇṇārahassa vaṇṇaṃ bhāsati, anannuvicca apariyogāhetvā vaṇṇaṃ bhāsati, micchāvāyāmā ca hoti, micchāsatinī ca "
+      },
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[micchāsati ca (syā.)]"
+      },
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": " , saddhādeyyaṃ vinipāteti. Imehi"
+      },
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": "kho, bhikkhave, pañcahi dhammehi samannāgatā bhikkhunī yathābhataṃ nikkhittā evaṃ niraye."
+      }
+    ],
+    "innerText": "120 . Pañcahi, bhikkhave, dhammehi samannāgatā bhikkhunī yathābhataṃ nikkhittā evaṃ niraye. Katamehi pañcahi? Ananuvicca apariyogāhetvā avaṇṇārahassa vaṇṇaṃ bhāsati, anannuvicca apariyogāhetvā vaṇṇaṃ bhāsati, micchāvāyāmā ca hoti, micchāsatinī ca [micchāsati ca (syā.)] , saddhādeyyaṃ vinipāteti. Imehikho, bhikkhave, pañcahi dhammehi samannāgatā bhikkhunī yathābhataṃ nikkhittā evaṃ niraye."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": "''Pañcahi, bhikkhave, dhammehi"
+      },
+      {
+        "tagName": "font",
+        "attributes": {
+          "name": "style",
+          "value": "vertical-align: inherit;"
+        },
+        "innerText": "samannāgata bhikkhunī yathābhataṃ nikkhittā evaṃ sagge. Katamehi pañcahi? Anuvicca pariyogāhetvā avaṇṇārahassa avaṇṇaṃ bhāsati, anuvicca pariyogāhetvā vaṇṇaṃ bhāsati, sammāvāyāmā ca hoti, sammāsatinī ca, saddhādeyyaṃ na vinipāteti. Imehi kho, bhikkhave, pañcahi dhammehi samannāgatā bhikkhunī yathābhataṃ nikkhittā evaṃ sagge''ti. Dasamaṃ."
+      }
+    ],
+    "innerText": "''Pañcahi, bhikkhave, dhammehisamannāgata bhikkhunī yathābhataṃ nikkhittā evaṃ sagge. Katamehi pañcahi? Anuvicca pariyogāhetvā avaṇṇārahassa avaṇṇaṃ bhāsati, anuvicca pariyogāhetvā vaṇṇaṃ bhāsati, sammāvāyāmā ca hoti, sammāsatinī ca, saddhādeyyaṃ na vinipāteti. Imehi kho, bhikkhave, pañcahi dhammehi samannāgatā bhikkhunī yathābhataṃ nikkhittā evaṃ sagge''ti. Dasamaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Andhakavindavaggo dutiyo."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Tassuddānaṃ –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Kulūpako pacchāsamaṇo, samādhiandhakavindāṃ;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Maccharī vaṇṇanā issā, diṭṭhivācāya vāyamāti."
+  }
+]

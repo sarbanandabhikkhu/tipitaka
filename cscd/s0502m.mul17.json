@@ -1,0 +1,925 @@
+[
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "chapter"
+    },
+    "innerText": "18. Malavaggo"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "235"
+      },
+      "."
+    ],
+    "innerText": "235."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      " Paṇḍupalāsova ",
+      " dānisi, yamapurisāpi ca te ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[taṃ (sī. syā. kaṃ. pī.)]"
+      },
+      " upaṭṭhitā;"
+    ],
+    "innerText": "Paṇḍupalāsova dānisi, yamapurisāpi ca te [taṃ (sī. syā. kaṃ. pī.)] upaṭṭhitā;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Uyyogamukhe ca tiṭṭhasi, pātheyyampi ca te na vijjati."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "236"
+      },
+      "."
+    ],
+    "innerText": "236."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      "So ",
+      " karohi dīpamattano, khippaṃ vāyama paṇḍito bhava;"
+    ],
+    "innerText": "So karohi dīpamattano, khippaṃ vāyama paṇḍito bhava;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "children": [
+      "Niddhantamalo anaṅgaṇo, dibbaṃ ariyabhūmiṃ upehisi ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[dibbaṃ ariyabhūmimehisi (sī. syā. pī.), dibbamariyabhūmiṃ upehisi (?)]"
+      },
+      "."
+    ],
+    "innerText": "Niddhantamalo anaṅgaṇo, dibbaṃ ariyabhūmiṃ upehisi [dibbaṃ ariyabhūmimehisi (sī. syā. pī.), dibbamariyabhūmiṃ upehisi (?)]."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "237"
+      },
+      "."
+    ],
+    "innerText": "237."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      " Upanītavayo ca dānisi, sampayātosi ",
+      " yamassa santike;"
+    ],
+    "innerText": "Upanītavayo ca dānisi, sampayātosi yamassa santike;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "children": [
+      "Vāso ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[vāsopi ca (bahūsu)]"
+      },
+      " te natthi antarā, pātheyyampi ca te na vijjati."
+    ],
+    "innerText": "Vāso [vāsopi ca (bahūsu)] te natthi antarā, pātheyyampi ca te na vijjati."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "238"
+      },
+      "."
+    ],
+    "innerText": "238."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "So karohi dīpamattano, khippaṃ vāyama paṇḍito bhava;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "children": [
+      "Niddhantamalo anaṅgaṇo, na punaṃ jātijaraṃ ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[na puna jātijaraṃ (sī. syā.), na puna jātijjaraṃ (ka.)]"
+      },
+      " upehisi."
+    ],
+    "innerText": "Niddhantamalo anaṅgaṇo, na punaṃ jātijaraṃ [na puna jātijaraṃ (sī. syā.), na puna jātijjaraṃ (ka.)] upehisi."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "239"
+      },
+      "."
+    ],
+    "innerText": "239."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Anupubbena medhāvī, thokaṃ thokaṃ khaṇe khaṇe;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Kammāro rajatasseva, niddhame malamattano."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "240"
+      },
+      "."
+    ],
+    "innerText": "240."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      " Ayasāva malaṃ samuṭṭhitaṃ ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[samuṭṭhāya (ka.)]"
+      },
+      ", tatuṭṭhāya ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[taduṭṭhāya (sī. syā. pī.)]"
+      },
+      " tameva khādati;"
+    ],
+    "innerText": "Ayasāva malaṃ samuṭṭhitaṃ [samuṭṭhāya (ka.)], tatuṭṭhāya [taduṭṭhāya (sī. syā. pī.)] tameva khādati;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "children": [
+      "Evaṃ atidhonacārinaṃ, sāni kammāni ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[sakakammāni (sī. pī.)]"
+      },
+      " nayanti duggatiṃ."
+    ],
+    "innerText": "Evaṃ atidhonacārinaṃ, sāni kammāni [sakakammāni (sī. pī.)] nayanti duggatiṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "241"
+      },
+      "."
+    ],
+    "innerText": "241."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      " Asajjhāyamalā ",
+      " mantā, anuṭṭhānamalā gharā;"
+    ],
+    "innerText": "Asajjhāyamalā mantā, anuṭṭhānamalā gharā;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Malaṃ vaṇṇassa kosajjaṃ, pamādo rakkhato malaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "242"
+      },
+      "."
+    ],
+    "innerText": "242."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Malitthiyā duccaritaṃ, maccheraṃ dadato malaṃ;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Malā ve pāpakā dhammā, asmiṃ loke paramhi ca."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "243"
+      },
+      "."
+    ],
+    "innerText": "243."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Tato malā malataraṃ, avijjā paramaṃ malaṃ;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Etaṃ malaṃ pahantvāna, nimmalā hotha bhikkhavo."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "244"
+      },
+      "."
+    ],
+    "innerText": "244."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      " Sujīvaṃ ",
+      " ahirikena, kākasūrena dhaṃsinā;"
+    ],
+    "innerText": "Sujīvaṃ ahirikena, kākasūrena dhaṃsinā;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Pakkhandinā pagabbhena, saṃkiliṭṭhena jīvitaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "245"
+      },
+      "."
+    ],
+    "innerText": "245."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      " Hirīmatā ",
+      " ca dujjīvaṃ, niccaṃ sucigavesinā;"
+    ],
+    "innerText": "Hirīmatā ca dujjīvaṃ, niccaṃ sucigavesinā;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Alīnenāppagabbhena, suddhājīvena passatā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "246"
+      },
+      "."
+    ],
+    "innerText": "246."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Yo pāṇamatipāteti, musāvādañca bhāsati;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Loke adinnamādiyati, paradārañca gacchati."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "247"
+      },
+      "."
+    ],
+    "innerText": "247."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Surāmerayapānañca, yo naro anuyuñjati;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Idhevameso lokasmiṃ, mūlaṃ khaṇati attano."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "248"
+      },
+      "."
+    ],
+    "innerText": "248."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Evaṃ bho purisa jānāhi, pāpadhammā asaññatā;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Mā taṃ lobho adhammo ca, ciraṃ dukkhāya randhayuṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "249"
+      },
+      "."
+    ],
+    "innerText": "249."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      " Dadāti ve yathāsaddhaṃ, yathāpasādanaṃ ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[yattha pasādanaṃ (katthaci)]"
+      },
+      " jano;"
+    ],
+    "innerText": "Dadāti ve yathāsaddhaṃ, yathāpasādanaṃ [yattha pasādanaṃ (katthaci)] jano;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha2"
+    },
+    "children": [
+      "Tattha yo maṅku bhavati ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[tattha ce maṃku yo hoti (sī.), tattha yo maṅkuto hoti (syā.)]"
+      },
+      ", paresaṃ pānabhojane;"
+    ],
+    "innerText": "Tattha yo maṅku bhavati [tattha ce maṃku yo hoti (sī.), tattha yo maṅkuto hoti (syā.)], paresaṃ pānabhojane;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Na so divā vā rattiṃ vā, samādhimadhigacchati."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "250"
+      },
+      "."
+    ],
+    "innerText": "250."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      " Yassa ",
+      " cetaṃ samucchinnaṃ, mūlaghaccaṃ ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[mūlaghacchaṃ (ka.)]"
+      },
+      " samūhataṃ;"
+    ],
+    "innerText": "Yassa cetaṃ samucchinnaṃ, mūlaghaccaṃ [mūlaghacchaṃ (ka.)] samūhataṃ;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Sa ve divā vā rattiṃ vā, samādhimadhigacchati."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "251"
+      },
+      "."
+    ],
+    "innerText": "251."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Natthi rāgasamo aggi, natthi dosasamo gaho;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Natthi mohasamaṃ jālaṃ, natthi taṇhāsamā nadī."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "252"
+      },
+      "."
+    ],
+    "innerText": "252."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Sudassaṃ vajjamaññesaṃ, attano pana duddasaṃ;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha2"
+    },
+    "children": [
+      "Paresaṃ hi so vajjāni, opunāti ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[ophunāti (ka.)]"
+      },
+      " yathā bhusaṃ;"
+    ],
+    "innerText": "Paresaṃ hi so vajjāni, opunāti [ophunāti (ka.)] yathā bhusaṃ;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Attano pana chādeti, kaliṃva kitavā saṭho."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "253"
+      },
+      "."
+    ],
+    "innerText": "253."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      " Paravajjānupassissa ",
+      ", ",
+      " niccaṃ ujjhānasaññino;"
+    ],
+    "innerText": "Paravajjānupassissa , niccaṃ ujjhānasaññino;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Āsavā tassa vaḍḍhanti, ārā so āsavakkhayā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "254"
+      },
+      "."
+    ],
+    "innerText": "254."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Ākāseva padaṃ natthi, samaṇo natthi bāhire;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Papañcābhiratā pajā, nippapañcā tathāgatā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "255"
+      },
+      "."
+    ],
+    "innerText": "255."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Ākāseva padaṃ natthi, samaṇo natthi bāhire;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Saṅkhārā sassatā natthi, natthi buddhānamiñjitaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Malavaggo aṭṭhārasamo niṭṭhito."
+  }
+]

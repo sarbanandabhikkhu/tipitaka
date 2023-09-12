@@ -1,0 +1,65 @@
+[
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "chapter"
+    },
+    "innerText": "6-7. Oghayogagocchakaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "32-43. Oghādidukāni"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "1"
+      },
+      ". Oghaṃ ",
+      " dhammaṃ paṭicca ogho dhammo uppajjati hetupaccayā…pe…."
+    ],
+    "innerText": "1. Oghaṃ dhammaṃ paṭicca ogho dhammo uppajjati hetupaccayā…pe…."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "2"
+      },
+      ". Yogaṃ dhammaṃ paṭicca yogo dhammo uppajjati hetupaccayā…pe… (dvepi gocchakā āsavagocchakasadisā ninnānākaraṇā)."
+    ],
+    "innerText": "2. Yogaṃ dhammaṃ paṭicca yogo dhammo uppajjati hetupaccayā…pe… (dvepi gocchakā āsavagocchakasadisā ninnānākaraṇā)."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Oghayogagocchakaṃ niṭṭhitaṃ."
+  }
+]

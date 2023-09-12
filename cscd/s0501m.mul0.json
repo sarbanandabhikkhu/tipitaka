@@ -1,0 +1,134 @@
+[
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Namo tassa bhagavato arahato sammāsambuddhassa"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "nikaya"
+    },
+    "innerText": "Khuddakanikāye"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "book"
+    },
+    "innerText": "Khuddakapāṭhapāḷi"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "chapter"
+    },
+    "innerText": "1. Saraṇattayaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      "Buddhaṃ ",
+      " saraṇaṃ gacchāmi;"
+    ],
+    "innerText": "Buddhaṃ saraṇaṃ gacchāmi;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha2"
+    },
+    "innerText": "Dhammaṃ saraṇaṃ gacchāmi;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Saṅghaṃ saraṇaṃ gacchāmi."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Dutiyampi buddhaṃ saraṇaṃ gacchāmi;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha2"
+    },
+    "innerText": "Dutiyampi dhammaṃ saraṇaṃ gacchāmi;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Dutiyampi saṅghaṃ saraṇaṃ gacchāmi."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      "Tatiyampi ",
+      " buddhaṃ saraṇaṃ gacchāmi;"
+    ],
+    "innerText": "Tatiyampi buddhaṃ saraṇaṃ gacchāmi;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha2"
+    },
+    "innerText": "Tatiyampi dhammaṃ saraṇaṃ gacchāmi;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Tatiyampi saṅghaṃ saraṇaṃ gacchāmi."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "children": [
+      "Saraṇattayaṃ ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[saraṇagamanaṃ niṭṭhitaṃ (syā.)]"
+      },
+      " niṭṭhitaṃ."
+    ],
+    "innerText": "Saraṇattayaṃ [saraṇagamanaṃ niṭṭhitaṃ (syā.)] niṭṭhitaṃ."
+  }
+]

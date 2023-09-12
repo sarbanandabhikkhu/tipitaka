@@ -1,0 +1,128 @@
+[
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "chapter"
+    },
+    "innerText": "(10) 5. Sāmaññavaggo"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "91-116"
+      },
+      ". Atha ",
+      " kho ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[ettha ‘‘atha kho’’ti ca, ‘‘upāsikā’’ti ca idaṃ aṭṭhakathāyameva dissati, na pāḷipotthakesu]"
+      },
+      " bojjhā ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[bojjhaṅgā (ka. sī.)]"
+      },
+      " upāsikā ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[ettha ‘‘atha kho’’ti ca, upāsikā’’ti ca idaṃ aṭṭhakathāyameva dissati, na pāḷipotthakesu]"
+      },
+      ", sirīmā, padumā, sutanā ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[sudhanā (sī. pī.), sudhammā (syā.)]"
+      },
+      ", manujā, uttarā, muttā, khemā, rucī ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[rūpī (sī. pī.)]"
+      },
+      ", cundī, bimbī, sumanā, mallikā ",
+      ", tissā, tissamātā ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[tissāya mātā (sī. pī.)]"
+      },
+      ", soṇā, soṇāya mātā ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[soṇamātā (syā.)]"
+      },
+      ", kāṇā, kāṇamātā ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[kāṇāya mātā (sī. pī.)]"
+      },
+      ", uttarā nandamātā, visākhā migāramātā, khujjuttarā upāsikā, sāmāvatī upāsikā, suppavāsā koliyadhītā ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[koḷiyadhītā (syā. pī.)]"
+      },
+      ", suppiyā upāsikā, nakulamātā gahapatānī."
+    ],
+    "innerText": "91-116. Atha kho [ettha ‘‘atha kho’’ti ca, ‘‘upāsikā’’ti ca idaṃ aṭṭhakathāyameva dissati, na pāḷipotthakesu] bojjhā [bojjhaṅgā (ka. sī.)] upāsikā [ettha ‘‘atha kho’’ti ca, upāsikā’’ti ca idaṃ aṭṭhakathāyameva dissati, na pāḷipotthakesu], sirīmā, padumā, sutanā [sudhanā (sī. pī.), sudhammā (syā.)], manujā, uttarā, muttā, khemā, rucī [rūpī (sī. pī.)], cundī, bimbī, sumanā, mallikā , tissā, tissamātā [tissāya mātā (sī. pī.)], soṇā, soṇāya mātā [soṇamātā (syā.)], kāṇā, kāṇamātā [kāṇāya mātā (sī. pī.)], uttarā nandamātā, visākhā migāramātā, khujjuttarā upāsikā, sāmāvatī upāsikā, suppavāsā koliyadhītā [koḷiyadhītā (syā. pī.)], suppiyā upāsikā, nakulamātā gahapatānī."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Sāmaññavaggo pañcamo."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Dutiyapaṇṇāsakaṃ samattaṃ."
+  }
+]

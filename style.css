@@ -1,0 +1,220 @@
+@font-face {
+  font-family: "Roman-Script";
+  src: url("fonts/Verajja-Regular.ttf") format("truetype");
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100vw;
+  padding: 10px;
+  min-height: 100vh;
+  font-family: "Roman-Script", Sans-Serif, Verdana;
+  font-size: 14px;
+}
+
+.container__tree {
+  width: 100%;
+  padding: 10px;
+}
+
+.container__tree button {
+  width: 100%;
+  height: 16px;
+  border: none;
+  cursor: pointer;
+  text-align: left;
+  line-height: 16px;
+  background-color: transparent;
+  font-family: "Roman-Script, Sans-Serif, Verdana;
+}
+
+.container__tree button svg {
+  width: 14px;
+  height: 14px;
+  fill: orange;
+  margin: 0 3px -2px 0;
+}
+
+.container__tree div {
+  display: none;
+  margin-left: 1px;
+  padding-left: 15px;
+  /*border-left: dotted orange 1.4px;*/
+}
+
+.container__tree div a {
+  width: 100%;
+  height: 16px;
+  font-size: 14px;
+  line-height: 14px;
+  text-decoration: none;
+}
+
+.container__tree div a svg {
+  width: 13px;
+  height: 13px;
+  margin: 0 3px -2px -1px;
+  fill: #0174fd;
+}
+
+.container__tree button,
+.container__tree div a {
+  word-break: break-all;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+}
+
+.container__tree > div button::before,
+.container__tree > div a::before {
+  content: "";
+  z-index: -1;
+  width: 8px;
+  height: 16px;
+  position: absolute;
+  margin-top: -7px;
+  margin-left: -10px;
+  border-left: dotted #b3bbc5 1.4px;
+  border-bottom: dotted #b3bbc5 1.4px;
+}
+
+
+
+.tab__button_container {
+  width: 100%;
+  overflow-x: scroll;
+}
+.tab__button_container button {
+  min-width: 100px;
+  padding: 7px 10px;
+  font-size: 13px;
+  line-height: 13px;
+}
+
+.tab__content_container div {
+ 
+}
+
+
+/*
+ * Tipitaka Content stylesheet 
+ */
+
+p {
+  margin-bottom: 15px;
+  font-size: 14px;
+}
+
+.note {
+  color: #0174fd;
+}
+
+.bld,
+.paranum {
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.indent {
+  font-size: 14px;
+  text-indent: 25px;
+  margin-left: 25px;
+}
+
+.bodytext {
+  font-size: 14px;
+  text-indent: 25px;
+  word-break: break-word;
+}
+
+.hangnum {
+  width: 45px;
+  margin: 0;
+  text-indent: 0;
+  text-align: right;
+  position: absolute;
+  background: red;
+}
+
+/* Namo tassa, and nitthita -- no unique structural distinction */
+.centered {
+  font-size: 14px;
+  text-align: center;
+}
+
+.unindented {
+  font-size: 14px;
+}
+
+.book {
+  font-size: 21px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.chapter {
+  font-size: 18px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.nikaya {
+  font-size: 24px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.title {
+  font-size: 14px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.subhead {
+  font-size: 14px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.subsubhead {
+  font-size: 14px;
+  text-align: center;
+  font-weight: bold;
+}
+
+/* Gatha line 1 */
+.gatha1 {
+  font-size: 14px;
+  margin-left: 50px;
+  margin-bottom: 0;
+}
+
+/* Gatha line 2 */
+.gatha2 {
+  font-size: 14px;
+  margin-left: 50px;
+  margin-bottom: 0;
+}
+
+/* Gatha line 3 */
+.gatha3 {
+  font-size: 14px;
+  margin-left: 50px;
+  margin-bottom: 0;
+}
+
+/* Gatha last line */
+.gathalast {
+  font-size: 14px;
+  margin-left: 50px;
+  margin-bottom: 25px;
+}
+
