@@ -1,0 +1,232 @@
+[
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "chapter"
+    },
+    "innerText": "Vejjācariya kaṇḍa"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "286"
+      },
+      "."
+    ],
+    "innerText": "286."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      " Āyubedakatābhyāso ",
+      ", sabbesaṃ piyadassano;"
+    ],
+    "innerText": "Āyubedakatābhyāso , sabbesaṃ piyadassano;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Ariyasīlaguṇopeto, esa vejjo vidhīyate."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "287"
+      },
+      "."
+    ],
+    "innerText": "287."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Nānāganthajānanañca, sudiṭṭhakammasampadā;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Dakkhatā hatthasīghatā, pasādasūrasattitā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "288"
+      },
+      "."
+    ],
+    "innerText": "288."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Sābhāvikataṅkhaṇika-ñāṇasubhāsitāpi ca;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Ussāho dabbo sabbatā, vejjācerassa lakkhaṇaṃ;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "289"
+      },
+      "."
+    ],
+    "innerText": "289."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      " Kiliṭṭhavatthaṃ ",
+      " kodho ca, atimānañca gammatā;"
+    ],
+    "innerText": "Kiliṭṭhavatthaṃ kodho ca, atimānañca gammatā;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Animantitagamanaṃ, ete pañca vivajjiyā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "290"
+      },
+      "."
+    ],
+    "innerText": "290."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      " Diṭṭhakammatā ",
+      " socañca, dakkhatā viditāgamo;"
+    ],
+    "innerText": "Diṭṭhakammatā socañca, dakkhatā viditāgamo;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Cattāro subhisakkassa, suguṇā viññunā matā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "291"
+      },
+      "."
+    ],
+    "innerText": "291."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Rujāya jayalakkhaṇaṃ, raso ca bhesajjampi ca;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Tilakkhaṇabhedo ceva, viññeyyo bhisakkena ve."
+  }
+]

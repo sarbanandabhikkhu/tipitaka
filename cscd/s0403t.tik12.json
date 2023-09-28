@@ -1,0 +1,30 @@
+[
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "chapter"
+    },
+    "innerText": "(13) 3. Gilānavaggo"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "124-130"
+      },
+      ". Tatiyo ",
+      " vaggo uttānatthoyeva."
+    ],
+    "innerText": "124-130. Tatiyo vaggo uttānatthoyeva."
+  }
+]

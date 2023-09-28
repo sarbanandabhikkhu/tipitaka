@@ -1,0 +1,65 @@
+[
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "chapter"
+    },
+    "innerText": "Matthanā"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "2"
+      },
+      "."
+    ],
+    "innerText": "2."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      " Pālitehi ",
+      " varuttamaṃ,"
+    ],
+    "innerText": "Pālitehi varuttamaṃ,"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha2"
+    },
+    "innerText": "Pālitaṃ sīla-pāramiṃ;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha3"
+    },
+    "innerText": "Pāletu varasambuddho,"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Pālitaṃ gantha-kāraṇaṃ."
+  }
+]

@@ -1,0 +1,949 @@
+[
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "chapter"
+    },
+    "innerText": "Dvādasamo paricchedo"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "12. Rāsivinicchayakathā"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "416"
+      },
+      "."
+    ],
+    "innerText": "416."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Tattha viññāṇakāyā cha, satta viññāṇadhātuyo;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Phassā cakkhādisamphassā, chabbidhā sattadhāpi ca."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "417"
+      },
+      "."
+    ],
+    "innerText": "417."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      " Cakkhusamphassajādīhi ",
+      ", bhedehi pana vedanā;"
+    ],
+    "innerText": "Cakkhusamphassajādīhi , bhedehi pana vedanā;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Saññā ca cetanā ceva, bhinnā chadhā ca sattadhā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "418"
+      },
+      "."
+    ],
+    "innerText": "418."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Cittuppādesu dhammā ca, khandhāyatanadhātuyo;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Āhārā ca yathāyogaṃ, phassapañcakarāsiyaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "419"
+      },
+      "."
+    ],
+    "innerText": "419."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Sabbe saṅgahitā honti, tasmā nāmapariggaho;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Mūlarāsi ca so sabba-saṅgahoti pavuccati."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "420"
+      },
+      "."
+    ],
+    "innerText": "420."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Jhānarāsimhi pañceva, dhammā sattappabhedato;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Indriyāni ca bāvīsa, dhammato pana soḷasa."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "421"
+      },
+      "."
+    ],
+    "innerText": "421."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Nava maggaṅgadhammā ca, bhinnā dvādasadhāpi te;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Chaḷeva hetuyo tattha, desitā kaṅkhituddhavā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "422"
+      },
+      "."
+    ],
+    "innerText": "422."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Dasa kammapathā dhammā, chaḷeva pana desitā;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Sesāva dasadhammehi, samānā caturāsayo."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "423"
+      },
+      "."
+    ],
+    "innerText": "423."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Paññā dasavidhā tattha, vedanā navadhā ṭhitā;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Samādhi sattadhā hoti, vīriyaṃ pana pañcadhā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "424"
+      },
+      "."
+    ],
+    "innerText": "424."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Sati bhinnā catudhāva, vitakko tividho mato;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Dvidhā cittādayo honti, dasapañceva sambhavā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "425"
+      },
+      "."
+    ],
+    "innerText": "425."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Sesā dvattiṃsa sabbepi, dhammā ekekadhāpi ca;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Hitvā rūpindriyānete, vibhāgā aṭṭhadhā kathaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "426"
+      },
+      "."
+    ],
+    "innerText": "426."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Phasso ca cetanā saññā, vicāro pīti jīvitaṃ;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Niravajjā cha yugaḷā, sāvajjamohakaṅkhitā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "427"
+      },
+      "."
+    ],
+    "innerText": "427."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Yevāpanakadhammā ca, viratuddhaccavajjitā;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Dvādasā ceti sabbepi, dvattiṃsakekadhā tathā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "428"
+      },
+      "."
+    ],
+    "innerText": "428."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Cittaṃ manindriyaṃ cittaṃ, saddhā saddhindriyaṃ balaṃ;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Balesu lokiyā vuttā, lokiye ca dukadvaye."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "429"
+      },
+      "."
+    ],
+    "innerText": "429."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      " Lobhālobhādikā ",
+      " dve dve,"
+    ],
+    "innerText": "Lobhālobhādikā dve dve,"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha2"
+    },
+    "innerText": "Cattāro heturāsiyaṃ;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha3"
+    },
+    "innerText": "Micchādiṭṭhi ca maggaṅge,"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Pañcakammapathepi te."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "430"
+      },
+      "."
+    ],
+    "innerText": "430."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Yevāpanakarāsimhi, desitā viratuddhavā;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Maggahetūsu ceveti, dvidhā pañcadasa ṭhitā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "431"
+      },
+      "."
+    ],
+    "innerText": "431."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Vitakko jhānamaggesu, tividhā navadhā pana;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Vedanā mūlarāsimhi, tathā jhānindriyesu ca."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "432"
+      },
+      "."
+    ],
+    "innerText": "432."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Indriyamaggarāsimhi, balapiṭṭhidukattike;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Catudhā sati tattheva, vīriyampi ca pañcadhā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "433"
+      },
+      "."
+    ],
+    "innerText": "433."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Samādhi sattadhā vutto, jhānaṅgesu ca tattha ca;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Tattheva dasadhā paññā, hetukammapathesu ca."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "434"
+      },
+      "."
+    ],
+    "innerText": "434."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Dasanavasattapañcacatutidvekadhā ṭhitā;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Chaḷekakā pañcadasa, dvattiṃsa ca yathākkamaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "435"
+      },
+      "."
+    ],
+    "innerText": "435."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Aṭṭha vibhāgasaṅkhepā, padāni dasadhā siyuṃ;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Tepaññāseva dhammā ca, aṭṭhārasa ca rāsayo."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "436"
+      },
+      "."
+    ],
+    "innerText": "436."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      " Iti dhammavavatthāne, ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "dhammasaṅgaṇiyaṃ"
+      },
+      " pana;"
+    ],
+    "innerText": "Iti dhammavavatthāne, dhammasaṅgaṇiyaṃ pana;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Cittuppādaparicchede, uddesanayasaṅgaho."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "437"
+      },
+      "."
+    ],
+    "innerText": "437."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Padāni caturāsīti, desitāni sarūpato;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Yevāpanakanāmena, soḷaseva yathārahaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "438"
+      },
+      "."
+    ],
+    "innerText": "438."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Tatthāniyatanāmāni, padānekādaseva tu;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Vuttānekūnanavuti, niyatāneva sambhavā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "439"
+      },
+      "."
+    ],
+    "innerText": "439."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Asambhinnapadānettha, tepaññāseva sabbathā;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Cittacetasikānaṃ tu, vasena paridīpaye."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "440"
+      },
+      "."
+    ],
+    "innerText": "440."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      " Vibhāgapadadhammānaṃ ",
+      ", vasenevaṃ pakāsito;"
+    ],
+    "innerText": "Vibhāgapadadhammānaṃ , vasenevaṃ pakāsito;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Cittacetasikānaṃ tu, kamato rāsinicchayoti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Iti cetasikavibhāge rāsivinicchayakathā niṭṭhitā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Dvādasamo paricchedo."
+  }
+]

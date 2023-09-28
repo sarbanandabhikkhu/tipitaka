@@ -1,0 +1,45 @@
+[
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "chapter"
+    },
+    "innerText": "Yogāvacarasampattidīpanīgāthā"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "3"
+      },
+      "."
+    ],
+    "innerText": "3."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Jāto yo navame khaṇe sutadharo sīlena suddhindriyo saṃsāraṃ ayato bhavakkayakaraṃ disvā sivaṃ khemato,"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Taṃ sampāpakamaggadesakamuniṃ sampūjayanto tato uddhānussatibhāvanādikamato sampādaye taṃ sivaṃ."
+  }
+]

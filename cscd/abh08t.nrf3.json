@@ -1,0 +1,1637 @@
+[
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "chapter"
+    },
+    "innerText": "4. Catuttho paricchedo"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Ekavidhādiniddesavaṇṇanā"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "127"
+      },
+      "."
+    ],
+    "innerText": "127."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Ito"
+      },
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "paraṃ pavakkhāmi, nayamekavidhādikaṃ;"
+      }
+    ],
+    "innerText": "Itoparaṃ pavakkhāmi, nayamekavidhādikaṃ;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Ābhidhammikabhikkhūnaṃ, buddhiyā pana vuddhiyā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Ahaṃ ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "ito paraṃ"
+      },
+      " ito paricchedato paraṃ ekavidhādikaṃ nayaṃ ābhidhammikabhikkhūnaṃ buddhiyā vuddhitthāya ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "pavakkhāmi"
+      },
+      " desessāmi."
+    ],
+    "innerText": "Ahaṃ ito paraṃ ito paricchedato paraṃ ekavidhādikaṃ nayaṃ ābhidhammikabhikkhūnaṃ buddhiyā vuddhitthāya pavakkhāmi desessāmi."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "128"
+      },
+      ".",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Sabbamekavidhaṃ"
+      },
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "cittaṃ, vijānanasabhāvato"
+      },
+      " sabbaṃ cittaṃ vijānanasabhāvato ekavidhaṃ, ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "duvidhañca bhave cittaṃ"
+      },
+      " ahetukasahetukato idaṃ cittaṃ duvidhaṃ bhaveyya."
+    ],
+    "innerText": "128.Sabbamekavidhaṃcittaṃ, vijānanasabhāvato sabbaṃ cittaṃ vijānanasabhāvato ekavidhaṃ, duvidhañca bhave cittaṃ ahetukasahetukato idaṃ cittaṃ duvidhaṃ bhaveyya."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "129"
+      },
+      ".",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Puññāpuññavipākā hi, kāme dasa ca pañca ca hi"
+      },
+      " saccaṃ ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "kāme"
+      },
+      " kāmāvacare kusalākusalavipākā dasa pañca ca kiriyā tisso iti sabbe ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "aṭṭhārasa"
+      },
+      " cittuppādā ahetukā."
+    ],
+    "innerText": "129.Puññāpuññavipākā hi, kāme dasa ca pañca ca hi saccaṃ kāme kāmāvacare kusalākusalavipākā dasa pañca ca kiriyā tisso iti sabbe aṭṭhārasa cittuppādā ahetukā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "130"
+      },
+      ". Ahetukato cittuppādato ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "sesā"
+      },
+      " ekasattati cittuppādā ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "sahetukāti"
+      },
+      " sahetukā nāmāti mahesinā ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "tādinā"
+      },
+      " aviparītasabhāvena ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "hetuvādinā"
+      },
+      " paccayavādinā niddiṭṭhā."
+    ],
+    "innerText": "130. Ahetukato cittuppādato sesā ekasattati cittuppādā sahetukāti sahetukā nāmāti mahesinā tādinā aviparītasabhāvena hetuvādinā paccayavādinā niddiṭṭhā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "131"
+      },
+      ".",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Savatthukāvatthukato"
+      },
+      " savatthukaavatthukavasena tathā ubhayavasena savatthukavasena, avatthukavasena ca sabbaṃ vuttappakārena ca mānasaṃ tividhaṃ hoti."
+    ],
+    "innerText": "131.Savatthukāvatthukato savatthukaavatthukavasena tathā ubhayavasena savatthukavasena, avatthukavasena ca sabbaṃ vuttappakārena ca mānasaṃ tividhaṃ hoti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "132-4"
+      },
+      ".",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Sabbo kāmavipāko ca, rūpe pañcadasāpi ca"
+      },
+      " cittuppādā ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "ādimaggo"
+      },
+      " paṭhamamaggo hasituppādo manodhātukiriyāpi ca domanassadvayañcāpi tecattālīsa mānasā ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "vinā vatthuṃ"
+      },
+      " vatthuṃ vajjetvā na uppajjanti, ekantena savatthukā nāma. Arūpāvacaravipākā ca ekantena ",
+      " avatthukā, mayā vuttato cittuppādato ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "sesāni"
+      },
+      " dvecattālīsa cittāni ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "ubhayathā"
+      },
+      " savatthukāvatthukavasena siyuṃ."
+    ],
+    "innerText": "132-4.Sabbo kāmavipāko ca, rūpe pañcadasāpi ca cittuppādā ādimaggo paṭhamamaggo hasituppādo manodhātukiriyāpi ca domanassadvayañcāpi tecattālīsa mānasā vinā vatthuṃ vatthuṃ vajjetvā na uppajjanti, ekantena savatthukā nāma. Arūpāvacaravipākā ca ekantena avatthukā, mayā vuttato cittuppādato sesāni dvecattālīsa cittāni ubhayathā savatthukāvatthukavasena siyuṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "135"
+      },
+      ".",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Ekekārammaṇaṃ cittaṃ, pañcārammaṇameva ca"
+      },
+      " cittaṃ chaḷārammaṇakañceti ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "evaṃ"
+      },
+      " iminā mayā vuttappakārenāpi tividhaṃ cittaṃ siyā."
+    ],
+    "innerText": "135.Ekekārammaṇaṃ cittaṃ, pañcārammaṇameva ca cittaṃ chaḷārammaṇakañceti evaṃ iminā mayā vuttappakārenāpi tividhaṃ cittaṃ siyā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "136-8"
+      },
+      ".",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Viññāṇāni ca dve pañca, aṭṭha lokuttarāni ca"
+      },
+      " abhiññāmānasaṃ ṭhapetvā sabbaṃ mahaggatañcevāti ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "tecattālīsa"
+      },
+      " cittuppādā pana ekekārammaṇā viññeyyā dhīrena. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Tattha"
+      },
+      " citte manodhātuttayaṃ pañcārammaṇaṃ īritaṃ bhagavatā. Mayā vuttacittato ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "sesāni tecattālīsa"
+      },
+      " cittāni chaḷārammaṇikāni matāni satthunā, tathā evaṃ cittaṃ kusalākusalādito tividhaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Ādi"
+      },
+      "-saddena abyākataṃ gahetabbaṃ."
+    ],
+    "innerText": "136-8.Viññāṇāni ca dve pañca, aṭṭha lokuttarāni ca abhiññāmānasaṃ ṭhapetvā sabbaṃ mahaggatañcevāti tecattālīsa cittuppādā pana ekekārammaṇā viññeyyā dhīrena. Tattha citte manodhātuttayaṃ pañcārammaṇaṃ īritaṃ bhagavatā. Mayā vuttacittato sesāni tecattālīsa cittāni chaḷārammaṇikāni matāni satthunā, tathā evaṃ cittaṃ kusalākusalādito tividhaṃ. Ādi-saddena abyākataṃ gahetabbaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "139"
+      },
+      ". Ahetukaṃ cittaṃ ekahetukañca cittaṃ dvihetukañca cittaṃ tihetukañca cittanti ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "evaṃ"
+      },
+      " iminā pakārena cittaṃ catubbidhaṃ vibhāvinā viññātabbaṃ."
+    ],
+    "innerText": "139. Ahetukaṃ cittaṃ ekahetukañca cittaṃ dvihetukañca cittaṃ tihetukañca cittanti evaṃ iminā pakārena cittaṃ catubbidhaṃ vibhāvinā viññātabbaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "140-2"
+      },
+      ". Heṭṭhā mayāpi niddiṭṭhā ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "aṭṭhārasa"
+      },
+      " cittuppādā ahetukā, ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "vicikicchuddhaccasaṃyuttaṃ"
+      },
+      " cittaṃ ekahetukaṃ evaṃ udīritaṃ bhagavatā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Kāme"
+      },
+      " kāmāvacare ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "puññavipākakriyato"
+      },
+      " kusalavasena ca vipākavasena ca kiriyāvasena ca ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "dvādasadhā"
+      },
+      " cittuppādā akusalā ca dasadhā cāti bāvīsati cittuppādā duhetukā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Kāme"
+      },
+      " kāmāvacare ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "puññavipākakriyato"
+      },
+      " puññavasena ca vipākavasena ca kiriyāvasena ca ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "dvādasadhā"
+      },
+      " cittuppādā. Sabbaṃ mahaggatañceva ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "appamāṇaṃ"
+      },
+      " lokuttaracittañca tihetukaṃ."
+    ],
+    "innerText": "140-2. Heṭṭhā mayāpi niddiṭṭhā aṭṭhārasa cittuppādā ahetukā, vicikicchuddhaccasaṃyuttaṃ cittaṃ ekahetukaṃ evaṃ udīritaṃ bhagavatā. Kāme kāmāvacare puññavipākakriyato kusalavasena ca vipākavasena ca kiriyāvasena ca dvādasadhā cittuppādā akusalā ca dasadhā cāti bāvīsati cittuppādā duhetukā. Kāme kāmāvacare puññavipākakriyato puññavasena ca vipākavasena ca kiriyāvasena ca dvādasadhā cittuppādā. Sabbaṃ mahaggatañceva appamāṇaṃ lokuttaracittañca tihetukaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "143-50"
+      },
+      ".",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Rūpīriyāpathaviññatti-janakājanakādito"
+      },
+      "ti rūpairiyāpathaviññattijanakavasena rūpairiyāpathajanakavasena ca rūpajanakavasena ca tikiccājanakavasena cātiādīhi pakārehi sabbaṃ cittaṃ catubbidhaṃ hoti. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Tattha"
+      },
+      " tasmiṃ citte dvādasākusalā, kāmadhātuyā kusalā, tathā kāme dasa kiriyā, abhiññāmānasaṃ dvayaṃ, ime bāttiṃsa mānasā rūpāni samuṭṭhāpenti, iriyāpathaṃ kappenti, viññattiṃ janayanti. Kusalā mahaggatamānasā kiriyā ca mahaggatamānasā, ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "aṭṭha"
+      },
+      " anāsavacittāni, chabbīsati ca mānasā rūpāni samuṭṭhāpenti, iriyāpathaṃ ",
+      " kappenti. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Copanaṃ na pāpenti"
+      },
+      " viññattiṃ na janayantīti attho. Ime cittuppādā dukiccaniyatā ",
+      ", dasa viññāṇe ṭhapetvā dvīsu bhūmīsu ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "vipākā"
+      },
+      " manodhātudvayasantīraṇattayamahāvipākarūpavipākānaṃ vasena aṭṭhārasa pākā manodhātu kiriyā cevāti ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "imāni ekūnavīsati"
+      },
+      " cittāni rūpāni samuṭṭhāpenti, itaradvayaṃ na karonti, ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "puna dvepañcaviññāṇā"
+      },
+      " paṭhamaṃ ‘‘dasa viññāṇe’’ti vuttattā ‘‘punā’’ti vuttā. Arūpīsu vipākā ca ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "sabbesaṃ"
+      },
+      " sattānaṃ paṭisandhicittañca arahato cuticittañca ime soḷasa mānasā tikiccāni na karonti."
+    ],
+    "innerText": "143-50.Rūpīriyāpathaviññatti-janakājanakāditoti rūpairiyāpathaviññattijanakavasena rūpairiyāpathajanakavasena ca rūpajanakavasena ca tikiccājanakavasena cātiādīhi pakārehi sabbaṃ cittaṃ catubbidhaṃ hoti. Tattha tasmiṃ citte dvādasākusalā, kāmadhātuyā kusalā, tathā kāme dasa kiriyā, abhiññāmānasaṃ dvayaṃ, ime bāttiṃsa mānasā rūpāni samuṭṭhāpenti, iriyāpathaṃ kappenti, viññattiṃ janayanti. Kusalā mahaggatamānasā kiriyā ca mahaggatamānasā, aṭṭha anāsavacittāni, chabbīsati ca mānasā rūpāni samuṭṭhāpenti, iriyāpathaṃ kappenti. Copanaṃ na pāpenti viññattiṃ na janayantīti attho. Ime cittuppādā dukiccaniyatā , dasa viññāṇe ṭhapetvā dvīsu bhūmīsu vipākā manodhātudvayasantīraṇattayamahāvipākarūpavipākānaṃ vasena aṭṭhārasa pākā manodhātu kiriyā cevāti imāni ekūnavīsati cittāni rūpāni samuṭṭhāpenti, itaradvayaṃ na karonti, puna dvepañcaviññāṇā paṭhamaṃ ‘‘dasa viññāṇe’’ti vuttattā ‘‘punā’’ti vuttā. Arūpīsu vipākā ca sabbesaṃ sattānaṃ paṭisandhicittañca arahato cuticittañca ime soḷasa mānasā tikiccāni na karonti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "151"
+      },
+      ".",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Ekadviticatuṭṭhāna-pañcaṭṭhānappabhedato"
+      },
+      " ekakiccadvikiccatikiccacatukiccapañcakiccabhedena ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "pañcadhā cittaṃ"
+      },
+      " pañcapakāraṃ cittaṃ ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "pañcanimmalalocano"
+      },
+      " buddho ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "akkhāsi"
+      },
+      " kathesi."
+    ],
+    "innerText": "151.Ekadviticatuṭṭhāna-pañcaṭṭhānappabhedato ekakiccadvikiccatikiccacatukiccapañcakiccabhedena pañcadhā cittaṃ pañcapakāraṃ cittaṃ pañcanimmalalocano buddho akkhāsi kathesi."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "152"
+      },
+      "."
+    ],
+    "innerText": "152."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Kusalākusalā sabbe, cittuppādā mahākriyā;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Mahaggatā kriyā ceva, cattāro phalamānasā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "153"
+      },
+      ".",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Sabbeva pañcapaññāsa"
+      },
+      " cittuppādā ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "javanaṭṭhānatoyeva"
+      },
+      " javanakiccavaseneva ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "ekaṭṭhāne"
+      },
+      " ekakicce ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "nippapañcena satthunā"
+      },
+      " taṇhāmānadiṭṭhivirahitena satthunā ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "niyāmitā"
+      },
+      " kathitā."
+    ],
+    "innerText": "153.Sabbeva pañcapaññāsa cittuppādā javanaṭṭhānatoyeva javanakiccavaseneva ekaṭṭhāne ekakicce nippapañcena satthunā taṇhāmānadiṭṭhivirahitena satthunā niyāmitā kathitā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "154"
+      },
+      ".",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Puna dvepañcaviññāṇā"
+      },
+      " cittuppādā dassane savane tathā ghāyane sāyanaṭṭhāne phusane paṭipāṭiyā satthunā niyāmitā."
+    ],
+    "innerText": "154.Puna dvepañcaviññāṇā cittuppādā dassane savane tathā ghāyane sāyanaṭṭhāne phusane paṭipāṭiyā satthunā niyāmitā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "155"
+      },
+      ". Manodhātuttikaṃ āvajjane paṭicchane, ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "ete aṭṭhasaṭṭhi"
+      },
+      " cittuppādā ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "ekaṭṭhānikataṃ"
+      },
+      " ekakiccabhāvaṃ ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "gatā"
+      },
+      " pattā bhavanti."
+    ],
+    "innerText": "155. Manodhātuttikaṃ āvajjane paṭicchane, ete aṭṭhasaṭṭhi cittuppādā ekaṭṭhānikataṃ ekakiccabhāvaṃ gatā pattā bhavanti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "156-8"
+      },
+      ". Cittadvayaṃ dviṭṭhānikaṃ nāma udīritaṃ bhagavatā, somanassayutaṃ cittaṃ pañcadvāre santīraṇaṃ siyā. Chadvāre tadālambaṇañca ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "balavārammaṇe"
+      },
+      " atimahantārammaṇe sati siyā ",
+      ", tathā voṭṭhabbanaṃ pañcadvāresu voṭṭhabbanaṃ hoti. Manodvāresu pana ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "sabbesaṃ"
+      },
+      " ārammaṇānaṃ āvajjanaṃ hoti, idaṃ cittadvayaṃ dviṭṭhānikaṃ nāma hoti."
+    ],
+    "innerText": "156-8. Cittadvayaṃ dviṭṭhānikaṃ nāma udīritaṃ bhagavatā, somanassayutaṃ cittaṃ pañcadvāre santīraṇaṃ siyā. Chadvāre tadālambaṇañca balavārammaṇe atimahantārammaṇe sati siyā , tathā voṭṭhabbanaṃ pañcadvāresu voṭṭhabbanaṃ hoti. Manodvāresu pana sabbesaṃ ārammaṇānaṃ āvajjanaṃ hoti, idaṃ cittadvayaṃ dviṭṭhānikaṃ nāma hoti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "159"
+      },
+      ". Paṭisandhiyā ṭhānato paṭisandhiyā kiccavasena bhavaṅgassa ṭhānato bhavaṅgassa kiccavasena cutiyā ṭhānato ",
+      " cutiyā kiccavasena te mahaggatavipākā nava ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "tiṭṭhānikā"
+      },
+      " tikiccāti muninā matā."
+    ],
+    "innerText": "159. Paṭisandhiyā ṭhānato paṭisandhiyā kiccavasena bhavaṅgassa ṭhānato bhavaṅgassa kiccavasena cutiyā ṭhānato cutiyā kiccavasena te mahaggatavipākā nava tiṭṭhānikā tikiccāti muninā matā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "160-3"
+      },
+      ".",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Aṭṭha kāmā mahāpākā, paṭisandhibhavaṅgato"
+      },
+      " paṭisandhibhavaṅgavasena ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "tadārammaṇato ceva"
+      },
+      " tadārammaṇavasena ca eva cutiṭṭhānavasena ca ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "aṭṭha"
+      },
+      " cittāni catuṭṭhānikacittāni honti, ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "iti"
+      },
+      " vacanaṃ dhīro niddise, kusalākusalapākopekkhāsahagatadvayaṃ pañcadvāre santīraṇaṃ bhave, chadvārikesupi balavārammaṇe sati tadārammaṇatā siyā. Paṭisandhibhavaṅgānaṃ ṭhānavasena ca cutiṭṭhānavasena ca idaṃ cittadvayaṃ pañcaṭṭhānikacittaṃ nāmāti udīritaṃ muninā."
+    ],
+    "innerText": "160-3.Aṭṭha kāmā mahāpākā, paṭisandhibhavaṅgato paṭisandhibhavaṅgavasena tadārammaṇato ceva tadārammaṇavasena ca eva cutiṭṭhānavasena ca aṭṭha cittāni catuṭṭhānikacittāni honti, iti vacanaṃ dhīro niddise, kusalākusalapākopekkhāsahagatadvayaṃ pañcadvāre santīraṇaṃ bhave, chadvārikesupi balavārammaṇe sati tadārammaṇatā siyā. Paṭisandhibhavaṅgānaṃ ṭhānavasena ca cutiṭṭhānavasena ca idaṃ cittadvayaṃ pañcaṭṭhānikacittaṃ nāmāti udīritaṃ muninā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "164"
+      },
+      ".",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Pañcakiccaṃ dvayaṃ cittaṃ,"
+      },
+      " aṭṭhakaṃ pana catukiccaṃ, navakaṃ tikiccaṃ, dve cittuppādā dvikiccā, imesaṃ imehi cittuppādehi ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "sesaṃ"
+      },
+      " ekakaṃ kiccaṃ."
+    ],
+    "innerText": "164.Pañcakiccaṃ dvayaṃ cittaṃ, aṭṭhakaṃ pana catukiccaṃ, navakaṃ tikiccaṃ, dve cittuppādā dvikiccā, imesaṃ imehi cittuppādehi sesaṃ ekakaṃ kiccaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "165"
+      },
+      "."
+    ],
+    "innerText": "165."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Bhavaṅgāvajjanañceva, dassanaṃ sampaṭicchanaṃ;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Santīraṇaṃ voṭṭhabbanaṃ, javanaṃ bhavati sattamaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "166"
+      },
+      ".",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Chabbidhaṃ hoti taṃ channaṃ"
+      },
+      " taṃ cittaṃ channaṃ cakkhusotaghānajivhākāyamano",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "viññāṇānaṃ"
+      },
+      " pabhedato chabbidhaṃ hoti, cakkhusotaghānajivhākāyamanodhātumanoviññāṇadhātūnaṃ sattannaṃ vasena cittaṃ sattadhā hoti."
+    ],
+    "innerText": "166.Chabbidhaṃ hoti taṃ channaṃ taṃ cittaṃ channaṃ cakkhusotaghānajivhākāyamanoviññāṇānaṃ pabhedato chabbidhaṃ hoti, cakkhusotaghānajivhākāyamanodhātumanoviññāṇadhātūnaṃ sattannaṃ vasena cittaṃ sattadhā hoti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "167"
+      },
+      ".",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Ekekārammaṇaṃ chakkaṃ, pañcārammaṇabhedato chaḷārammaṇato ceva"
+      },
+      " chaḷārammaṇacittavasena ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "mano"
+      },
+      " cittaṃ aṭṭhavidhaṃ hoti."
+    ],
+    "innerText": "167.Ekekārammaṇaṃ chakkaṃ, pañcārammaṇabhedato chaḷārammaṇato ceva chaḷārammaṇacittavasena mano cittaṃ aṭṭhavidhaṃ hoti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "168"
+      },
+      ".",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Tattha"
+      },
+      " tasmiṃ citte dvepañcaviññāṇā ekekagocarā honti, ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "dve"
+      },
+      " cittuppādā rūpārammaṇikā, ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "dve dve"
+      },
+      " cittuppādā saddādigocarā."
+    ],
+    "innerText": "168.Tattha tasmiṃ citte dvepañcaviññāṇā ekekagocarā honti, dve cittuppādā rūpārammaṇikā, dve dve cittuppādā saddādigocarā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "169"
+      },
+      ". Pañcābhiññāvivajjitaṃ sabbaṃ mahaggataṃ, sabbaṃ lokuttarañca ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "iti"
+      },
+      " idaṃ cittaṃ ekekārammaṇaṃ bhave."
+    ],
+    "innerText": "169. Pañcābhiññāvivajjitaṃ sabbaṃ mahaggataṃ, sabbaṃ lokuttarañca iti idaṃ cittaṃ ekekārammaṇaṃ bhave."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "170"
+      },
+      ". Idaṃ ",
+      " chakkaṃ ekekārammaṇaṃ vibhāvinā ñeyyaṃ, manodhātuttayaṃ pañcārammaṇikaṃ nāma bhave."
+    ],
+    "innerText": "170. Idaṃ chakkaṃ ekekārammaṇaṃ vibhāvinā ñeyyaṃ, manodhātuttayaṃ pañcārammaṇikaṃ nāma bhave."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "171"
+      },
+      ". Kāmāvacaracittāni cattālīsaṃ tathā ekekaṃ sabbāni abhiññāni ca ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "chaḷārammaṇikānīti"
+      },
+      " chaḷārammaṇikāni nāma paṇḍitena viññeyyāni."
+    ],
+    "innerText": "171. Kāmāvacaracittāni cattālīsaṃ tathā ekekaṃ sabbāni abhiññāni ca chaḷārammaṇikānīti chaḷārammaṇikāni nāma paṇḍitena viññeyyāni."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "172"
+      },
+      ". Sattaviññāṇadhātūsu ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "pacchimaṃ"
+      },
+      " manoviññāṇadhātuñca kusalākusalābyākatavasena ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "tidhā katvā"
+      },
+      " navavidhaṃ cittaṃ hoti."
+    ],
+    "innerText": "172. Sattaviññāṇadhātūsu pacchimaṃ manoviññāṇadhātuñca kusalākusalābyākatavasena tidhā katvā navavidhaṃ cittaṃ hoti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "173"
+      },
+      ". Manoviññāṇadhātuyā bhedo puññāpuññavaseneva vipākakiriyabhedato chasattatividho hoti."
+    ],
+    "innerText": "173. Manoviññāṇadhātuyā bhedo puññāpuññavaseneva vipākakiriyabhedato chasattatividho hoti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "174"
+      },
+      ". Manodhātuṃ vipākakiriyabhedato ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "dvidhā katvā pubbe"
+      },
+      " vuttehi navadhā cittehi mānasaṃ dasadhā hoti."
+    ],
+    "innerText": "174. Manodhātuṃ vipākakiriyabhedato dvidhā katvā pubbe vuttehi navadhā cittehi mānasaṃ dasadhā hoti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "175"
+      },
+      ".",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Pacchimaṃ dhātudvayaṃ"
+      },
+      " manodhātumanoviññāṇadhātudvayaṃ, manodhātuṃ kusalavipākaakusalavipākakiriyāvasena ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "tidhā katvā,"
+      },
+      " manoviññāṇadhātuñca kusalākusalābyākatavasena ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "tividhā katvā"
+      },
+      " cakkhusotaghānajivhākāyaviññāṇehi saha cittaṃ ekādasavidhaṃ hoti, ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "iti"
+      },
+      " idaṃ vacanaṃ paṇḍito paridīpaye."
+    ],
+    "innerText": "175.Pacchimaṃ dhātudvayaṃ manodhātumanoviññāṇadhātudvayaṃ, manodhātuṃ kusalavipākaakusalavipākakiriyāvasena tidhā katvā, manoviññāṇadhātuñca kusalākusalābyākatavasena tividhā katvā cakkhusotaghānajivhākāyaviññāṇehi saha cittaṃ ekādasavidhaṃ hoti, iti idaṃ vacanaṃ paṇḍito paridīpaye."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "176"
+      },
+      ". Manoviññāṇadhātumpi ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "kusalākusalādito"
+      },
+      " kusalākusalavipākakiriyāvasena catudhā vibhajitvāna taṃ ",
+      " cittaṃ cakkhusotaghānajivhākāyaviññāṇehi saha tippakārāya manodhātuyā ca saha dvādasadhāpi dhīro vade."
+    ],
+    "innerText": "176. Manoviññāṇadhātumpi kusalākusalādito kusalākusalavipākakiriyāvasena catudhā vibhajitvāna taṃ cittaṃ cakkhusotaghānajivhākāyaviññāṇehi saha tippakārāya manodhātuyā ca saha dvādasadhāpi dhīro vade."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "177-9"
+      },
+      ". Cittaṃ cuddasaṭṭhānabhedena cuddasadhā bhave, paṭisandhiyā vasena ca bhavaṅgavasena ca cutiyā vasena ca āvajjanassa vasena ca pañcannaṃ ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "dassanādīnaṃ"
+      },
+      " kiccānaṃ vasena ca sampaṭicchanacetaso vasena ca santīraṇassa vasena ca voṭṭhabbanajavanānaṃ vasena ca, yathā evaṃ tadārammaṇacittassa vasena ",
+      " cāti ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "evaṃ"
+      },
+      " iminā pakārena ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "ṭhānabhedato"
+      },
+      " kiccabhedena cuddasadhā cittaṃ hoti, ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "iti"
+      },
+      " idaṃ vacanaṃ dhīro ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "paridīpaye"
+      },
+      " paridīpeyya."
+    ],
+    "innerText": "177-9. Cittaṃ cuddasaṭṭhānabhedena cuddasadhā bhave, paṭisandhiyā vasena ca bhavaṅgavasena ca cutiyā vasena ca āvajjanassa vasena ca pañcannaṃ dassanādīnaṃ kiccānaṃ vasena ca sampaṭicchanacetaso vasena ca santīraṇassa vasena ca voṭṭhabbanajavanānaṃ vasena ca, yathā evaṃ tadārammaṇacittassa vasena cāti evaṃ iminā pakārena ṭhānabhedato kiccabhedena cuddasadhā cittaṃ hoti, iti idaṃ vacanaṃ dhīro paridīpaye paridīpeyya."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "180"
+      },
+      ".",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Bhūmipuggalanānattavasena"
+      },
+      " bhūminānattavasena, puggalanānattavasena ca cittānaṃ pavattito idaṃ cittaṃ bahudhā hoti, ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "iti"
+      },
+      " vacanañca dhīro ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "vibhāvaye"
+      },
+      " pakāseyya."
+    ],
+    "innerText": "180.Bhūmipuggalanānattavasena bhūminānattavasena, puggalanānattavasena ca cittānaṃ pavattito idaṃ cittaṃ bahudhā hoti, iti vacanañca dhīro vibhāvaye pakāseyya."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "181"
+      },
+      ".",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Idha"
+      },
+      " imasmiṃ sāsane yo bhikkhu matimā imasmiṃ ekavidhādinaye ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "kusalo"
+      },
+      " cheko hoti, abhidhamme pavattā atthā tassa bhikkhuno ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "hatthagatā"
+      },
+      " hatthapaviṭṭhā ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "āmalakā viya"
+      },
+      " suddhamaṇikā viya honti."
+    ],
+    "innerText": "181.Idha imasmiṃ sāsane yo bhikkhu matimā imasmiṃ ekavidhādinaye kusalo cheko hoti, abhidhamme pavattā atthā tassa bhikkhuno hatthagatā hatthapaviṭṭhā āmalakā viya suddhamaṇikā viya honti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Iti abhidhammāvatāraṭīkāya"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Ekavidhādiniddesavaṇṇanā niṭṭhitā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Catuttho paricchedo."
+  }
+]

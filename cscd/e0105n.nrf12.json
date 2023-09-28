@@ -1,0 +1,82 @@
+[
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "chapter"
+    },
+    "innerText": "Vetullavādassa paṭhamaniggaho"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Vohārakatissa"
+      },
+      "rañño kāle (758-780-bu-va) abhayagirivāsino dhammarucinikāyikā pubbe vuttappakārena sāsanavināsanatthāya bhikkhuvesadhārīhi vetullavādibrāhmaṇehi racitaṃ vetullapiṭakaṃ sampaṭiggahetvā ‘‘idaṃ buddhabhāsita’’nti dassenti. Taṃ mahāvihāravāsino theravādikā dhammavinayena saṃsandetvā adhammavādoti paṭikkhipiṃsu. Taṃ sutvā rājā sabbasatthapāraguṃ ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "kapilaṃ"
+      },
+      " nāma amaccaṃ pesetvā vinicchayaṃ kārāpetvā abuddhabhāsitabhāvaṃ ñatvā sabbaṃ vetullapotthakaṃ jhāpetvā talladdhike ca pāpabhikkhū niggahetvā buddhasāsanaṃ jotesi ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[nikāyasaṅgahe 12-piṭṭhe]"
+      },
+      ". Vuttañhetaṃ mahāvaṃse –"
+    ],
+    "innerText": "Vohārakatissarañño kāle (758-780-bu-va) abhayagirivāsino dhammarucinikāyikā pubbe vuttappakārena sāsanavināsanatthāya bhikkhuvesadhārīhi vetullavādibrāhmaṇehi racitaṃ vetullapiṭakaṃ sampaṭiggahetvā ‘‘idaṃ buddhabhāsita’’nti dassenti. Taṃ mahāvihāravāsino theravādikā dhammavinayena saṃsandetvā adhammavādoti paṭikkhipiṃsu. Taṃ sutvā rājā sabbasatthapāraguṃ kapilaṃ nāma amaccaṃ pesetvā vinicchayaṃ kārāpetvā abuddhabhāsitabhāvaṃ ñatvā sabbaṃ vetullapotthakaṃ jhāpetvā talladdhike ca pāpabhikkhū niggahetvā buddhasāsanaṃ jotesi [nikāyasaṅgahe 12-piṭṭhe]. Vuttañhetaṃ mahāvaṃse –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "36-41"
+      },
+      "."
+    ],
+    "innerText": "36-41."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "‘‘Vetullavādaṃ madditvā, kāretvā pāpaniggahaṃ;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Kapilena amaccena, sāsanaṃ jotayī ca so’’ti."
+  }
+]

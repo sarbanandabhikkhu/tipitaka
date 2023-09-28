@@ -1,0 +1,38 @@
+[
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "chapter"
+    },
+    "innerText": "5. Sāmaṇḍakasaṃyuttavaṇṇanā"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "330-331"
+      },
+      ". Sāmaṇḍakasaṃyuttepi ",
+      " imināva nayena attho veditabbo."
+    ],
+    "innerText": "330-331. Sāmaṇḍakasaṃyuttepi imināva nayena attho veditabbo."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Sāmaṇḍakasaṃyuttavaṇṇanā niṭṭhitā."
+  }
+]

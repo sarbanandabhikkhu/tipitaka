@@ -1,0 +1,85 @@
+[
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "chapter"
+    },
+    "innerText": "Saṅgāmadvayavaṇṇanā"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "365"
+      },
+      ".",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Ṭhānanisajjavattādinissitā"
+      },
+      "ti ",
+      " ‘‘evaṃ ṭhātabbaṃ, evaṃ nisīditabba’’nti evamādikā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Saññājananattha"
+      },
+      "nti cuditakacodakānaṃ saññuppādanatthaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Anuyogavattaṃ kathāpetvā"
+      },
+      "ti ‘‘kiṃ anuyogavattaṃ jānāsī’’ti pucchitvā teneva kathāpetvā."
+    ],
+    "innerText": "365.Ṭhānanisajjavattādinissitāti ‘‘evaṃ ṭhātabbaṃ, evaṃ nisīditabba’’nti evamādikā. Saññājananatthanti cuditakacodakānaṃ saññuppādanatthaṃ. Anuyogavattaṃ kathāpetvāti ‘‘kiṃ anuyogavattaṃ jānāsī’’ti pucchitvā teneva kathāpetvā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "375"
+      },
+      ".",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Nīlādivaṇṇāvaṇṇavasenā"
+      },
+      "ti nīlādivaṇṇavasena ārogyatthādiavaṇṇavasena ca."
+    ],
+    "innerText": "375.Nīlādivaṇṇāvaṇṇavasenāti nīlādivaṇṇavasena ārogyatthādiavaṇṇavasena ca."
+  }
+]

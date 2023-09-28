@@ -1,0 +1,179 @@
+[
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "chapter"
+    },
+    "innerText": "Kaṅkhāvitaraṇīaṭṭhakathākaraṇaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Kaṅkhāvitaraṇiṃ"
+      },
+      " nāma pātimokkhaṭṭhakathaṃ ācariyabuddhaghosatthero ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "soṇattherena"
+      },
+      " yācito mahāvihāravāsīnaṃ vācanāmagganissitaṃ sīhaḷapātimokkhaṭṭhakathānayaṃ nissāya ekampi padaṃ pāḷiyā vā mahāvihāravāsīnaṃ porāṇaṭṭhakathāhi vā avirodhetvā akāsi. Tena vuttaṃ tissaṃ aṭṭhakathāyaṃ –"
+    ],
+    "innerText": "Kaṅkhāvitaraṇiṃ nāma pātimokkhaṭṭhakathaṃ ācariyabuddhaghosatthero soṇattherena yācito mahāvihāravāsīnaṃ vācanāmagganissitaṃ sīhaḷapātimokkhaṭṭhakathānayaṃ nissāya ekampi padaṃ pāḷiyā vā mahāvihāravāsīnaṃ porāṇaṭṭhakathāhi vā avirodhetvā akāsi. Tena vuttaṃ tissaṃ aṭṭhakathāyaṃ –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "‘‘Sūratena nivātena, sucisallekhavuttinā;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "children": [
+      "Vinayācārayuttena, ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "soṇattherena"
+      },
+      " yācito."
+    ],
+    "innerText": "Vinayācārayuttena, soṇattherena yācito."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Tattha sañjātakaṅkhānaṃ, bhikkhūnaṃ tassa vaṇṇanaṃ;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Kaṅkhāvitaraṇatthāya, paripuṇṇavinicchayaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Mahāvihāravāsīnaṃ, vācanāmagganissitaṃ;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "children": [
+      "Vattayissāmi nāmena, ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "kaṅkhāvitaraṇiṃ"
+      },
+      " subha’’nti ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[kaṅkhā aṭṭha. ganthārambhakathā]"
+      },
+      " ca."
+    ],
+    "innerText": "Vattayissāmi nāmena, kaṅkhāvitaraṇiṃ subha’’nti [kaṅkhā aṭṭha. ganthārambhakathā] ca."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "‘‘Ārabhiṃ yamahaṃ sabbaṃ, sīhaḷaṭṭhakathānayaṃ;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Mahāvihāravāsīnaṃ, vācanāmagganissitaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Nissāya sā ayaṃ niṭṭhaṃ, gatā ādāya sabbaso;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Sabbaṃ aṭṭhakathāsāraṃ, pāḷiyatthañca kevalaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Na hettha taṃ padaṃ atthi, yaṃ virujjheyya pāḷiyā;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "children": [
+      "Mahāvihāravāsīnaṃ, porāṇaṭṭhakathāhi vā’’ti ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[kaṅkhā. aṭṭha. nigamanakathā]"
+      },
+      " ca."
+    ],
+    "innerText": "Mahāvihāravāsīnaṃ, porāṇaṭṭhakathāhi vā’’ti [kaṅkhā. aṭṭha. nigamanakathā] ca."
+  }
+]

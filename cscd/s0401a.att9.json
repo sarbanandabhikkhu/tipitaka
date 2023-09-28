@@ -1,0 +1,66 @@
+[
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "chapter"
+    },
+    "innerText": "9. Pamādādivaggavaṇṇanā"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "81"
+      },
+      ". Navamassāpi ",
+      " paṭhamaṃ aṭṭhuppattiyameva kathitaṃ. Sambahulā kira bhikkhū dhammasabhāyaṃ nisinnā kumbhaghosakaṃ ārabbha ‘‘asukaṃ nāma kulaṃ pubbe appayasaṃ appaparivāraṃ ahosi, idāni mahāyasaṃ mahāparivāraṃ jāta’’nti kathayiṃsu. Satthā purimanayeneva āgantvā tesaṃ vacanaṃ sutvā imaṃ suttaṃ ārabhi. Tassattho heṭṭhā vuttanayeneva veditabbo."
+    ],
+    "innerText": "81. Navamassāpi paṭhamaṃ aṭṭhuppattiyameva kathitaṃ. Sambahulā kira bhikkhū dhammasabhāyaṃ nisinnā kumbhaghosakaṃ ārabbha ‘‘asukaṃ nāma kulaṃ pubbe appayasaṃ appaparivāraṃ ahosi, idāni mahāyasaṃ mahāparivāraṃ jāta’’nti kathayiṃsu. Satthā purimanayeneva āgantvā tesaṃ vacanaṃ sutvā imaṃ suttaṃ ārabhi. Tassattho heṭṭhā vuttanayeneva veditabbo."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "82"
+      },
+      ". Dutiyādīsu ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "mahato anatthāyā"
+      },
+      "ti mahantassa anatthassa atthāya. Sesamettha uttānamevāti."
+    ],
+    "innerText": "82. Dutiyādīsu mahato anatthāyāti mahantassa anatthassa atthāya. Sesamettha uttānamevāti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Pamādādivaggavaṇṇanā."
+  }
+]

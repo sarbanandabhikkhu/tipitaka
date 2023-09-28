@@ -1,0 +1,180 @@
+[
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "chapter"
+    },
+    "innerText": "1. Ānisaṃsavaggo"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "1. Kimatthiyasuttavaṇṇanā"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "1"
+      },
+      ". Dasakanipātassa ",
+      " paṭhame ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "avippaṭisāratthānī"
+      },
+      "ti avippaṭisārappayojanāni. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Avippaṭisārānisaṃsānī"
+      },
+      "ti avippaṭisārudayāni. Etena avippaṭisāro nāma sīlasssa udayamattaṃ, saṃvaddhitassa rukkhassa chāyāpupphasadisaṃ, añño eva panānena nipphādetabbo samādhiādiguṇoti dasseti. ‘‘Yāva maggāmaggañāṇadassanavisuddhi, tāva taruṇavipassanā’’ti hi vacanato upakkilesavimuttaudayabbayañāṇato paraṃ ayañca vipassanā virajjati yogāvacaro viratto puriso viya bhariyāya saṅkhārato etenāti virāgo."
+    ],
+    "innerText": "1. Dasakanipātassa paṭhame avippaṭisāratthānīti avippaṭisārappayojanāni. Avippaṭisārānisaṃsānīti avippaṭisārudayāni. Etena avippaṭisāro nāma sīlasssa udayamattaṃ, saṃvaddhitassa rukkhassa chāyāpupphasadisaṃ, añño eva panānena nipphādetabbo samādhiādiguṇoti dasseti. ‘‘Yāva maggāmaggañāṇadassanavisuddhi, tāva taruṇavipassanā’’ti hi vacanato upakkilesavimuttaudayabbayañāṇato paraṃ ayañca vipassanā virajjati yogāvacaro viratto puriso viya bhariyāya saṅkhārato etenāti virāgo."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Kimatthiyasuttavaṇṇanā niṭṭhitā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "2-5. Cetanākaraṇīyasuttādivaṇṇanā"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "2-5"
+      },
+      ". Dutiye ",
+      " saṃsāramahoghassa paratīrabhāvato yo naṃ adhigacchati, taṃ pāreti gametīti ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "pāraṃ,"
+      },
+      " nibbānaṃ. Tabbidūratāya natthi ettha pāranti ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "apāraṃ,"
+      },
+      " saṃsāro. Tenāha ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "‘‘orimatīrabhūtā tebhūmakavaṭṭā’’"
+      },
+      "tiādi. Tatiyādīsu natthi vattabbaṃ."
+    ],
+    "innerText": "2-5. Dutiye saṃsāramahoghassa paratīrabhāvato yo naṃ adhigacchati, taṃ pāreti gametīti pāraṃ, nibbānaṃ. Tabbidūratāya natthi ettha pāranti apāraṃ, saṃsāro. Tenāha ‘‘orimatīrabhūtā tebhūmakavaṭṭā’’tiādi. Tatiyādīsu natthi vattabbaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Cetanākaraṇīyasuttādivaṇṇanā niṭṭhitā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "6. Samādhisuttavaṇṇanā"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "6"
+      },
+      ". Chaṭṭhe ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "santaṃ santanti appetvā nisinnassā"
+      },
+      "tiādīsu santaṃ santaṃ paṇītaṃ paṇītantiādīni vadati. Iminā pana ākārena taṃ paṭivijjhitvā tattha ",
+      " cittaṃ upasaṃharato phalasamāpattisaṅkhāto cittuppādo tathā pavattatīti veditabbo. Sesaṃ sabbattha uttānameva."
+    ],
+    "innerText": "6. Chaṭṭhe santaṃ santanti appetvā nisinnassātiādīsu santaṃ santaṃ paṇītaṃ paṇītantiādīni vadati. Iminā pana ākārena taṃ paṭivijjhitvā tattha cittaṃ upasaṃharato phalasamāpattisaṅkhāto cittuppādo tathā pavattatīti veditabbo. Sesaṃ sabbattha uttānameva."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Samādhisuttavaṇṇanā niṭṭhitā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Ānisaṃsavaggavaṇṇanā niṭṭhitā."
+  }
+]

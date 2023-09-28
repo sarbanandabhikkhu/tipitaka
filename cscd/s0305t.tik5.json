@@ -1,0 +1,46 @@
+[
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "chapter"
+    },
+    "innerText": "6. Balasaṃyuttavaṇṇanā"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "705-812"
+      },
+      ".",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Balasaṃyutte balāni missakāneva kathitāni"
+      },
+      " ‘‘vivekanissita’’nti vacanato."
+    ],
+    "innerText": "705-812.Balasaṃyutte balāni missakāneva kathitāni ‘‘vivekanissita’’nti vacanato."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Balasaṃyuttavaṇṇanā niṭṭhitā."
+  }
+]

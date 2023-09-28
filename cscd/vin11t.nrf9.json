@@ -1,0 +1,76 @@
+[
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "chapter"
+    },
+    "innerText": "Bhikkhunivibhaṅgo"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "1964"
+      },
+      ". Evaṃ ",
+      " bhikkhuvibhaṅgapāḷiyā, aṭṭhakathāya ca āgataṃ vinicchayasāraṃ nātisaṅkhepavitthāranayena ",
+      " dassetvā idāni tadanantarāya bhikkhunivibhaṅgapāḷiyā, tadaṭṭhakathāya ca āgatavinicchayasāraṃ dassetumārabhanto āha ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "‘‘bhikkhunīna’’"
+      },
+      "ntiādi. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Tasmiṃ apī"
+      },
+      "ti ettha ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "api"
+      },
+      "-saddo vuttāpekkhāyaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "‘‘Samāsenā’’"
+      },
+      "ti idaṃ ganthavasena saṅkhipanaṃ sandhāya vuttaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "‘‘Kiñcimatta’’"
+      },
+      "nti idaṃ atthavasenāti veditabbaṃ."
+    ],
+    "innerText": "1964. Evaṃ bhikkhuvibhaṅgapāḷiyā, aṭṭhakathāya ca āgataṃ vinicchayasāraṃ nātisaṅkhepavitthāranayena dassetvā idāni tadanantarāya bhikkhunivibhaṅgapāḷiyā, tadaṭṭhakathāya ca āgatavinicchayasāraṃ dassetumārabhanto āha ‘‘bhikkhunīna’’ntiādi. Tasmiṃ apīti ettha api-saddo vuttāpekkhāyaṃ. ‘‘Samāsenā’’ti idaṃ ganthavasena saṅkhipanaṃ sandhāya vuttaṃ. ‘‘Kiñcimatta’’nti idaṃ atthavasenāti veditabbaṃ."
+  }
+]

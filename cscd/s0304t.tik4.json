@@ -1,0 +1,54 @@
+[
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "chapter"
+    },
+    "innerText": "5. Sāmaṇḍakasaṃyuttavaṇṇanā"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "330-331"
+      },
+      ".",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Imināva"
+      },
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "nayenā"
+      },
+      "ti yo jambukhādakasaṃyutte atthanayo, imināva nayena. Iminā hi dve saṃyuttāni pāḷito atthato ca aññamaññaṃ sadisānevāti dasseti."
+    ],
+    "innerText": "330-331.Imināvanayenāti yo jambukhādakasaṃyutte atthanayo, imināva nayena. Iminā hi dve saṃyuttāni pāḷito atthato ca aññamaññaṃ sadisānevāti dasseti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Sāmaṇḍakasaṃyuttavaṇṇanā niṭṭhitā."
+  }
+]

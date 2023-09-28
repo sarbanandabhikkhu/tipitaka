@@ -1,0 +1,496 @@
+[
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "chapter"
+    },
+    "innerText": "8. Arahattavaggo"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "1. Dukkhasuttavaṇṇanā"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "75"
+      },
+      ". Aṭṭhamassa paṭhame ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "savighāta"
+      },
+      "nti saupaghātaṃ sopaddavaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Sapariḷāha"
+      },
+      "nti kāyikacetasikena pariḷāhena sapariḷāhaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Pāṭikaṅkhā"
+      },
+      "ti icchitabbā avassaṃbhāvinī."
+    ],
+    "innerText": "75. Aṭṭhamassa paṭhame savighātanti saupaghātaṃ sopaddavaṃ. Sapariḷāhanti kāyikacetasikena pariḷāhena sapariḷāhaṃ. Pāṭikaṅkhāti icchitabbā avassaṃbhāvinī."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "2. Arahattasuttavaṇṇanā"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "76"
+      },
+      ". Dutiye ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "māna"
+      },
+      "nti jātiādīhi maññanaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Omāna"
+      },
+      "nti hīnohamasmīti mānaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Atimāna"
+      },
+      "nti atikkamitvā pavattaṃ accuṇṇatimānaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Adhimāna"
+      },
+      "nti adhigatamānaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Thambha"
+      },
+      "nti kodhamānehi thaddhabhāvaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Atinipāta"
+      },
+      "nti hīnassa hīnohamasmīti mānaṃ."
+    ],
+    "innerText": "76. Dutiye mānanti jātiādīhi maññanaṃ. Omānanti hīnohamasmīti mānaṃ. Atimānanti atikkamitvā pavattaṃ accuṇṇatimānaṃ. Adhimānanti adhigatamānaṃ. Thambhanti kodhamānehi thaddhabhāvaṃ. Atinipātanti hīnassa hīnohamasmīti mānaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "3. Uttarimanussadhammasuttavaṇṇanā"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "77"
+      },
+      ". Tatiye ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "uttarimanussadhammā"
+      },
+      "ti manussadhammato uttari. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Alamariyañāṇadassanavisesa"
+      },
+      "nti ariyabhāvaṃ kātuṃ samatthaṃ ñāṇadassanavisesaṃ, cattāro magge cattāri ca phalānīti attho. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Kuhana"
+      },
+      "nti tividhaṃ kuhanavatthuṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Lapana"
+      },
+      "nti lābhatthikatāya ukkhipitvā avakkhipitvā vā lapanaṃ."
+    ],
+    "innerText": "77. Tatiye uttarimanussadhammāti manussadhammato uttari. Alamariyañāṇadassanavisesanti ariyabhāvaṃ kātuṃ samatthaṃ ñāṇadassanavisesaṃ, cattāro magge cattāri ca phalānīti attho. Kuhananti tividhaṃ kuhanavatthuṃ. Lapananti lābhatthikatāya ukkhipitvā avakkhipitvā vā lapanaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "4. Sukhasomanassasuttavaṇṇanā"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "78"
+      },
+      ". Catutthe ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "yoni cassa āraddhā hotī"
+      },
+      "ti kāraṇañcassa paripuṇṇaṃ paggahitaṃ hoti. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Dhammārāmo"
+      },
+      "ti dhamme ratiṃ vindati. Bhāvanāya ramati, bhāvento vā ramatīti ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "bhāvanārāmo"
+      },
+      ". Pahāne ramati, pajahanto vā ramatīti ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "pahānārāmo"
+      },
+      ". Tividhe paviveke ramatīti ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "pavivekārāmo"
+      },
+      ". Abyāpajjhe niddukkhabhāve ramatīti ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "abyāpajjhārāmo"
+      },
+      ". Nippapañcasaṅkhāte nibbāne ramatīti ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "nippapañcārāmo"
+      },
+      "."
+    ],
+    "innerText": "78. Catutthe yoni cassa āraddhā hotīti kāraṇañcassa paripuṇṇaṃ paggahitaṃ hoti. Dhammārāmoti dhamme ratiṃ vindati. Bhāvanāya ramati, bhāvento vā ramatīti bhāvanārāmo. Pahāne ramati, pajahanto vā ramatīti pahānārāmo. Tividhe paviveke ramatīti pavivekārāmo. Abyāpajjhe niddukkhabhāve ramatīti abyāpajjhārāmo. Nippapañcasaṅkhāte nibbāne ramatīti nippapañcārāmo."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "5. Adhigamasuttavaṇṇanā"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "79"
+      },
+      ". Pañcame ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "na āyakusalo"
+      },
+      "ti na āgamanakusalo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Na apāyakusalo"
+      },
+      "ti na apagamanakusalo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Chanda"
+      },
+      "nti kattukamyatāchandaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Na ārakkhatī"
+      },
+      "ti na rakkhati."
+    ],
+    "innerText": "79. Pañcame na āyakusaloti na āgamanakusalo. Na apāyakusaloti na apagamanakusalo. Chandanti kattukamyatāchandaṃ. Na ārakkhatīti na rakkhati."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "6. Mahantattasuttavaṇṇanā"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "80"
+      },
+      ". Chaṭṭhe ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "ālokabahulo"
+      },
+      "ti ñāṇālokabahulo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Yogabahulo"
+      },
+      "ti yoge bahulaṃ karoti. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Vedabahulo"
+      },
+      "ti pītipāmojjabahulo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Asantuṭṭhibahulo"
+      },
+      "ti ",
+      " kusaladhammesu asantuṭṭho. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Anikkhittadhuro"
+      },
+      "ti aṭṭhapitadhuro paggahitavīriyo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Uttari ca patāretī"
+      },
+      "ti sampati ca uttariñca vīriyaṃ karoteva. Sattamaṃ uttānameva."
+    ],
+    "innerText": "80. Chaṭṭhe ālokabahuloti ñāṇālokabahulo. Yogabahuloti yoge bahulaṃ karoti. Vedabahuloti pītipāmojjabahulo. Asantuṭṭhibahuloti kusaladhammesu asantuṭṭho. Anikkhittadhuroti aṭṭhapitadhuro paggahitavīriyo. Uttari ca patāretīti sampati ca uttariñca vīriyaṃ karoteva. Sattamaṃ uttānameva."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "8-10. Dutiyanirayasuttādivaṇṇanā"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "82-84"
+      },
+      ". Aṭṭhame ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "pagabbho"
+      },
+      "ti kāyapāgabbhiyādīhi samannāgato. Navamaṃ uttānatthameva. Dasame ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "vighātavā"
+      },
+      "ti mahicchataṃ nissāya uppannena lobhadukkhena dukkhito. Sesaṃ sabbattha uttānamevāti."
+    ],
+    "innerText": "82-84. Aṭṭhame pagabbhoti kāyapāgabbhiyādīhi samannāgato. Navamaṃ uttānatthameva. Dasame vighātavāti mahicchataṃ nissāya uppannena lobhadukkhena dukkhito. Sesaṃ sabbattha uttānamevāti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Arahattavaggo aṭṭhamo."
+  }
+]

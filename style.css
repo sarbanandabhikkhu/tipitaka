@@ -1,6 +1,10 @@
 @font-face {
-  font-family: "Roman-Script";
+  font-family: "Roman-Regular";
   src: url("fonts/Verajja-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Roman-Bold";
+  src: url("fonts/Verajja-Bold.ttf") format("truetype");
 }
 
 * {
@@ -9,13 +13,21 @@
   border: 0;
   outline: 0;
   box-sizing: border-box;
+  scroll-behavior: smooth;
+  -ms-overflow-style: none; /* Internet Explorer 10+ */
+  scrollbar-width: none; /* Firefox */
+}
+*::-webkit-scrollbar {
+  display: none; /* Safari and Chrome */
+}
+*::-webkit-scrollbar-thumb {
+  background: transparent; /* Optional: show position indicator in transparent */
 }
 
 body {
   width: 100vw;
-  padding: 10px;
   min-height: 100vh;
-  font-family: "Roman-Script", Sans-Serif, Verdana;
+  font-family: "Roman-Regular";
   font-size: 14px;
 }
 
@@ -32,14 +44,15 @@ body {
   text-align: left;
   line-height: 16px;
   background-color: transparent;
-  font-family: "Roman-Script, Sans-Serif, Verdana;
+  font-family: "Roman-Regular";
 }
 
 .container__tree button svg {
   width: 14px;
   height: 14px;
-  fill: orange;
   margin: 0 3px -2px 0;
+  pointer-events: none;
+  fill: orange;
 }
 
 .container__tree div {
@@ -61,6 +74,7 @@ body {
   width: 13px;
   height: 13px;
   margin: 0 3px -2px -1px;
+  pointer-events: none;
   fill: #0174fd;
 }
 
@@ -86,27 +100,143 @@ body {
   border-bottom: dotted #b3bbc5 1.4px;
 }
 
+/* breadcrumbs start */
 
-
-.tab__button_container {
+.container__breadcrumbs {
   width: 100%;
+  height: auto;
+}
+.container__breadcrumbs .breadcrumbs {
+  width: 100vw;
+  padding: 0px 10px;
   overflow-x: scroll;
+  white-space: nowrap;
+  vertical-align: middle;
+  background-color: #efefef;
 }
-.tab__button_container button {
+.container__breadcrumbs .breadcrumbs svg {
+  fill: orange;
+  height: 14px;
+  margin-bottom: -2px;
+}
+.container__breadcrumbs .breadcrumbs button {
+  height: 20px;
+  padding: 0 2px;
+  font-size: 14px;
+  line-height: 20px;
+  cursor: pointer;
+  font-family: "Roman-Regular";
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.container__breadcrumbs .breadcrumbs button:nth-child(odd) {
+  cursor: none;
+  color: orange;
+  font-weight: bold;
+  font-family: "Roman-Bold";
+}
+.container__breadcrumbs .breadcrumbs button:last-child {
+  color: #0174fd;
+  font-size: 13.5px;
+  font-family: "Roman-Bold";
+}
+.container__breadcrumbs .breads__content {
+  display: block;
+  padding: 5px 10px;
+}
+.container__breadcrumbs .folder {
+  width: 100%;
+  height: 16px;
+  border: none;
+  cursor: pointer;
+  text-align: left;
+  line-height: 16px;
+  background-color: transparent;
+  font-family: "Roman-Regular";
+}
+.container__breadcrumbs a,
+.container__breadcrumbs .file {
+  display: block;
+  width: 100%;
+  height: 16px;
+  font-size: 14px;
+  line-height: 14px;
+  text-decoration: none;
+}
+.container__breadcrumbs > button,
+.container__breadcrumbs .folder,
+.container__breadcrumbs .file {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+}
+
+.container__breadcrumbs > button svg,
+.container__breadcrumbs .folder svg {
+  width: 14px;
+  height: 14px;
+  margin: 0 3px -2px 0;
+  pointer-events: none;
+  fill: orange;
+}
+.container__breadcrumbs a svg,
+.container__breadcrumbs .file svg {
+  width: 13px;
+  height: 13px;
+  margin: 0 3px -2px -1px;
+  pointer-events: none;
+  fill: currentColor;
+}
+
+/* breadcrumbs end */
+
+/* tab start */
+
+.tab__buttons {
+  width: 100vw;
+  height: 20px;
+  padding: 0 10px;
+  text-align: left;
+  overflow-x: scroll;
+  white-space: nowrap;
+}
+.tab__buttons button {
+  max-width: 200px;
   min-width: 100px;
-  padding: 7px 10px;
-  font-size: 13px;
-  line-height: 13px;
+  padding: 0 5px;
+  text-align: left;
+  font-size: 14px;
+  line-height: 20px;
+  color: black;
+  background-color: transparent;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.tab__buttons button.active {
+  color: #0174fd;
+  background-color: #efeded;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+/*.tab__buttons button.active::after {*/
+/*  content: "☓";*/
+/*}*/
+.tab__contents div {
+  display: none;
+  padding: 10px;
+  min-height: 100vh;
+}
+.tab__contents div.active {
+  display: block;
+  background-color: #efefef;
 }
 
-.tab__content_container div {
- 
-}
+/* tab end */
 
-
-/*
- * Tipitaka Content stylesheet 
- */
+/* content start */
 
 p {
   margin-bottom: 15px;
@@ -137,11 +267,11 @@ p {
 
 .hangnum {
   width: 45px;
-  margin: 0;
+  margin-top: 1px;
+  font-size: 13px;
   text-indent: 0;
   text-align: right;
   position: absolute;
-  background: red;
 }
 
 /* Namo tassa, and nitthita -- no unique structural distinction */
@@ -190,31 +320,25 @@ p {
   font-weight: bold;
 }
 
-/* Gatha line 1 */
 .gatha1 {
   font-size: 14px;
   margin-left: 50px;
   margin-bottom: 0;
 }
-
-/* Gatha line 2 */
 .gatha2 {
   font-size: 14px;
   margin-left: 50px;
   margin-bottom: 0;
 }
-
-/* Gatha line 3 */
 .gatha3 {
   font-size: 14px;
   margin-left: 50px;
   margin-bottom: 0;
 }
-
-/* Gatha last line */
 .gathalast {
   font-size: 14px;
   margin-left: 50px;
   margin-bottom: 25px;
 }
 
+/* content end */

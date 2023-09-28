@@ -1,0 +1,30 @@
+[
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "chapter"
+    },
+    "innerText": "1. Dhanavaggavaṇṇanā"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "1-10"
+      },
+      ". Sattakanipātassa ",
+      " paṭhamo vaggo uttānattho."
+    ],
+    "innerText": "1-10. Sattakanipātassa paṭhamo vaggo uttānattho."
+  }
+]

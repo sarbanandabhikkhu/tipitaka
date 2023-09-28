@@ -1,0 +1,221 @@
+[
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "chapter"
+    },
+    "innerText": "1. Kodhapeyyālaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "181"
+      },
+      ". Ito ",
+      " paresu kujjhanalakkhaṇo ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "kodho"
+      },
+      ". Upanandhanalakkhaṇo ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "upanāho"
+      },
+      ". Sukatakaraṇamakkhanalakkhaṇo ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "makkho"
+      },
+      ". Yugaggāhalakkhaṇo ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "palāso"
+      },
+      ". Usūyanalakkhaṇā ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "issā"
+      },
+      ". Pañcamaccherabhāvo ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "macchariyaṃ"
+      },
+      ". Taṃ sabbampi maccharāyanalakkhaṇaṃ. Katapaṭicchādanalakkhaṇā ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "māyā"
+      },
+      ". Kerāṭikalakkhaṇaṃ ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "sāṭheyyaṃ"
+      },
+      ". Alajjanākāro ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "ahirikaṃ"
+      },
+      ". Upavādato abhāyanākāro ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "anottappaṃ. Akkodhā"
+      },
+      "dayo tesaṃ paṭipakkhavasena veditabbā."
+    ],
+    "innerText": "181. Ito paresu kujjhanalakkhaṇo kodho. Upanandhanalakkhaṇo upanāho. Sukatakaraṇamakkhanalakkhaṇo makkho. Yugaggāhalakkhaṇo palāso. Usūyanalakkhaṇā issā. Pañcamaccherabhāvo macchariyaṃ. Taṃ sabbampi maccharāyanalakkhaṇaṃ. Katapaṭicchādanalakkhaṇā māyā. Kerāṭikalakkhaṇaṃ sāṭheyyaṃ. Alajjanākāro ahirikaṃ. Upavādato abhāyanākāro anottappaṃ. Akkodhādayo tesaṃ paṭipakkhavasena veditabbā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "185"
+      },
+      ".",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Sekkhassa bhikkhuno"
+      },
+      "ti sattavidhassāpi sekkhassa upariupariguṇehi parihānāya saṃvattanti, puthujjanassa pana paṭhamataraṃyeva parihānāya saṃvattantīti veditabbā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Aparihānāyā"
+      },
+      "ti upariupariguṇehi aparihānatthāya."
+    ],
+    "innerText": "185.Sekkhassa bhikkhunoti sattavidhassāpi sekkhassa upariupariguṇehi parihānāya saṃvattanti, puthujjanassa pana paṭhamataraṃyeva parihānāya saṃvattantīti veditabbā. Aparihānāyāti upariupariguṇehi aparihānatthāya."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "187"
+      },
+      ".",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Yathābhataṃ nikkhitto"
+      },
+      "ti yathā ānetvā nikkhitto, evaṃ niraye patiṭṭhito vāti veditabbo."
+    ],
+    "innerText": "187.Yathābhataṃ nikkhittoti yathā ānetvā nikkhitto, evaṃ niraye patiṭṭhito vāti veditabbo."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "190"
+      },
+      ".",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Ekacco"
+      },
+      "ti yassete kodhādayo atthi, so ekacco nāma."
+    ],
+    "innerText": "190.Ekaccoti yassete kodhādayo atthi, so ekacco nāma."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Kodhapeyyālaṃ niṭṭhitaṃ."
+  }
+]

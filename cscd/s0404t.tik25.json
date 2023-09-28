@@ -1,0 +1,95 @@
+[
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "chapter"
+    },
+    "innerText": "(21) 1. Karajakāyavaggo"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "1-536. Paṭhamanirayasaggasuttādivaṇṇanā"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "211-746"
+      },
+      ". Pañcamassa paṭhamādīni uttānatthāni. Navame yasmiṃ santāne kāmāvacarakammaṃ mahaggatakammañca katūpacitaṃ vipākadāne laddhāvasaraṃ hutvā ṭhitaṃ, tesu kāmāvacarakammaṃ itaraṃ nīharitvā sayaṃ tattha ṭhatvā attano vipākaṃ dātuṃ na sakkoti, mahaggatakammameva ",
+      " pana itaraṃ paṭibāhitvā attano vipākaṃ dātuṃ sakkoti garubhāvato. Tenāha ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "‘‘taṃ mahogho parittaṃ udakaṃ viyā’’"
+      },
+      "tiādi. Ito paraṃ sabbattha uttānameva."
+    ],
+    "innerText": "211-746. Pañcamassa paṭhamādīni uttānatthāni. Navame yasmiṃ santāne kāmāvacarakammaṃ mahaggatakammañca katūpacitaṃ vipākadāne laddhāvasaraṃ hutvā ṭhitaṃ, tesu kāmāvacarakammaṃ itaraṃ nīharitvā sayaṃ tattha ṭhatvā attano vipākaṃ dātuṃ na sakkoti, mahaggatakammameva pana itaraṃ paṭibāhitvā attano vipākaṃ dātuṃ sakkoti garubhāvato. Tenāha ‘‘taṃ mahogho parittaṃ udakaṃ viyā’’tiādi. Ito paraṃ sabbattha uttānameva."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Paṭhamanirayasaggasuttādivaṇṇanā niṭṭhitā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Iti manorathapūraṇiyā aṅguttaranikāya-aṭṭhakathāya"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Dasakanipātavaṇṇanāya anuttānatthadīpanā samattā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Namo tassa bhagavato arahato sammāsambuddhassa"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "nikaya"
+    },
+    "innerText": "Aṅguttaranikāye"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "book"
+    },
+    "innerText": "Ekādasakanipāta-ṭīkā"
+  }
+]

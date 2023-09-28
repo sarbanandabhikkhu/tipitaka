@@ -1,0 +1,58 @@
+[
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "chapter"
+    },
+    "innerText": "Nissaggiyakaṇḍaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Dutiye ",
+      " idha bhājāpitāya laddhacīvaraṃ nissaggiyaṃ hoti, taṃ vinayakammaṃ katvāpi attanā na labbhati."
+    ],
+    "innerText": "Dutiye idha bhājāpitāya laddhacīvaraṃ nissaggiyaṃ hoti, taṃ vinayakammaṃ katvāpi attanā na labbhati."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Tatiye ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "‘‘samuṭṭhānādīni adinnādānasadisāni, idaṃ pana dukkhavedana’’"
+      },
+      "nti pāṭho."
+    ],
+    "innerText": "Tatiye ‘‘samuṭṭhānādīni adinnādānasadisāni, idaṃ pana dukkhavedana’’nti pāṭho."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Catutthe paṭhamaṃ viññattaṃ alabhitvā aññaṃ tato ūnatarampi labheyya, nissaggiyameva aṅgasampattito."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Nissaggiyavaṇṇanā niṭṭhitā."
+  }
+]

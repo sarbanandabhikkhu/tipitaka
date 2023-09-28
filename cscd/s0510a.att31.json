@@ -1,0 +1,112 @@
+[
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "chapter"
+    },
+    "innerText": "33. Umāpupphiyavaggo"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "1-10. Umāpupphiyattheraapadānādivaṇṇanā"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Tettiṃsatime ",
+      " vagge paṭhamadutiyatatiyacatutthapañcamachaṭṭhāpadānāni uttānāniyeva."
+    ],
+    "innerText": "Tettiṃsatime vagge paṭhamadutiyatatiyacatutthapañcamachaṭṭhāpadānāni uttānāniyeva."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "55"
+      },
+      ". Sattamāpadāne ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "samayaṃ agamāsaha"
+      },
+      "nti samūhaṃ samāgamaṭṭhānaṃ ahaṃ agamāsinti attho."
+    ],
+    "innerText": "55. Sattamāpadāne samayaṃ agamāsahanti samūhaṃ samāgamaṭṭhānaṃ ahaṃ agamāsinti attho."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "62"
+      },
+      ".",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Abbudanirabbudānī"
+      },
+      "ti ‘‘pakoṭisatasahassānaṃ sataṃ abbudaṃ, abbudasatasahassānaṃ sataṃ nirabbuda’’nti vuttattā āyunā abbudanirabbudāni gatamahāāyuvantā ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "manujādhipā"
+      },
+      " cakkavattino khattiyā aṭṭha aṭṭha hutvā kappānaṃ pañcavīsasahassamhi ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "āsiṃsu"
+      },
+      " ahesunti attho. Aṭṭhamanavamadasamāpadānāni pākaṭānevāti."
+    ],
+    "innerText": "62.Abbudanirabbudānīti ‘‘pakoṭisatasahassānaṃ sataṃ abbudaṃ, abbudasatasahassānaṃ sataṃ nirabbuda’’nti vuttattā āyunā abbudanirabbudāni gatamahāāyuvantā manujādhipā cakkavattino khattiyā aṭṭha aṭṭha hutvā kappānaṃ pañcavīsasahassamhi āsiṃsu ahesunti attho. Aṭṭhamanavamadasamāpadānāni pākaṭānevāti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Tettiṃsatimavaggavaṇṇanā samattā."
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "chapter"
+    },
+    "innerText": "7. Samasīsakathā"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Samasīsakathāvaṇṇanā"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "33"
+      },
+      ". Idāni ",
+      " pāṭihāriyakathānantaraṃ ādipāṭihāriyabhūtassa iddhipāṭihāriyasaṅgahitassa samasīsibhāvassa iddhipāṭihāriyabhāvadīpanatthaṃ ñāṇakathāya niddiṭṭhāpi samasīsakathā iddhipāṭihāriyasambandhena puna kathitā. Tassā atthavaṇṇanā tattha kathitāyevāti."
+    ],
+    "innerText": "33. Idāni pāṭihāriyakathānantaraṃ ādipāṭihāriyabhūtassa iddhipāṭihāriyasaṅgahitassa samasīsibhāvassa iddhipāṭihāriyabhāvadīpanatthaṃ ñāṇakathāya niddiṭṭhāpi samasīsakathā iddhipāṭihāriyasambandhena puna kathitā. Tassā atthavaṇṇanā tattha kathitāyevāti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Samasīsakathāvaṇṇanā niṭṭhitā."
+  }
+]

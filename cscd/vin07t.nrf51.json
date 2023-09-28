@@ -1,0 +1,156 @@
+[
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "chapter"
+    },
+    "innerText": "Mahāsaṅgāmaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "Voharantena jānitabbādivaṇṇanā"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "368-374"
+      },
+      ". Mahāsaṅgāme ",
+      " pāḷiyaṃ ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "saṅgāmāvacarenā"
+      },
+      "ti anuvijjakaṃ sandhāya vuttaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Vatthū"
+      },
+      "ti methunādivītikkamo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Nidāna"
+      },
+      "nti vesāliādipaññattiṭṭhānaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Puggalo akārako jānitabbo"
+      },
+      "ti ettha saṅghe vā gaṇe vā pariṇāyakabhūto puggaloti daṭṭhabbaṃ."
+    ],
+    "innerText": "368-374. Mahāsaṅgāme pāḷiyaṃ saṅgāmāvacarenāti anuvijjakaṃ sandhāya vuttaṃ. Vatthūti methunādivītikkamo. Nidānanti vesāliādipaññattiṭṭhānaṃ. Puggalo akārako jānitabboti ettha saṅghe vā gaṇe vā pariṇāyakabhūto puggaloti daṭṭhabbaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "375"
+      },
+      ".",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Vissaṭṭhisikkhāpada"
+      },
+      "nti nīlādidasannaṃ sukkānaṃ mocanavasena vuttaṃ sukkavissaṭṭhisikkhāpadaṃ. Tañhi telādimandavaṇṇānaṃ nīlādipacuravaṇṇānaṃ vasena ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "‘‘vaṇṇāvaṇṇā’’"
+      },
+      "ti vuttaṃ. Pacuratthe hi idha avaṇṇoti ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "a"
+      },
+      "-kāro."
+    ],
+    "innerText": "375.Vissaṭṭhisikkhāpadanti nīlādidasannaṃ sukkānaṃ mocanavasena vuttaṃ sukkavissaṭṭhisikkhāpadaṃ. Tañhi telādimandavaṇṇānaṃ nīlādipacuravaṇṇānaṃ vasena ‘‘vaṇṇāvaṇṇā’’ti vuttaṃ. Pacuratthe hi idha avaṇṇoti a-kāro."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "379"
+      },
+      ".",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Yāva akaniṭṭhabrahmāno dvidhā hontī"
+      },
+      "ti ettha avihādisuddhāvāsikā aññabhūmīsu ariyā dhammavādīpakkhaṃ eva bhajanti, itare duvidhampīti daṭṭhabbaṃ."
+    ],
+    "innerText": "379.Yāva akaniṭṭhabrahmāno dvidhā hontīti ettha avihādisuddhāvāsikā aññabhūmīsu ariyā dhammavādīpakkhaṃ eva bhajanti, itare duvidhampīti daṭṭhabbaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Voharantena jānitabbādivaṇṇanā niṭṭhitā."
+  }
+]

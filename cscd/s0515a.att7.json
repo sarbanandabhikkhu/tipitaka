@@ -1,0 +1,4903 @@
+[
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "chapter"
+    },
+    "innerText": "7. Tissametteyyasuttaniddesavaṇṇanā"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "49"
+      },
+      ". Sattame ",
+      " tissametteyyasutte ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "methunamanuyuttassā"
+      },
+      "ti methunadhammaṃ samāyuttassa. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Itī"
+      },
+      "ti evamāha. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Āyasmā"
+      },
+      "ti piyavacanametaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Tisso"
+      },
+      "ti nāmaṃ tassa therassa. Sopi hi tissoti nāmena. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Metteyyo"
+      },
+      "ti gottaṃ, gottavaseneva esa pākaṭo ahosi. Tasmā aṭṭhuppattiyaṃ (su. ni. aṭṭha. 2.821) vuttaṃ – ‘‘tissametteyyā nāma dve sahāyā’’ti. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Vighāta"
+      },
+      "nti upaghātaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Brūhī"
+      },
+      "ti ācikkha. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Mārisā"
+      },
+      "ti piyavacanametaṃ, niddukkhāti vuttaṃ hoti. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Sutvāna tava sāsana"
+      },
+      "nti tava vacanaṃ sutvā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Viveke sikkhissāmase"
+      },
+      "ti sahāyaṃ ārabbha dhammadesanaṃ yācanto bhaṇati, so pana sikkhitasikkhoyeva."
+    ],
+    "innerText": "49. Sattame tissametteyyasutte methunamanuyuttassāti methunadhammaṃ samāyuttassa. Itīti evamāha. Āyasmāti piyavacanametaṃ. Tissoti nāmaṃ tassa therassa. Sopi hi tissoti nāmena. Metteyyoti gottaṃ, gottavaseneva esa pākaṭo ahosi. Tasmā aṭṭhuppattiyaṃ (su. ni. aṭṭha. 2.821) vuttaṃ – ‘‘tissametteyyā nāma dve sahāyā’’ti. Vighātanti upaghātaṃ. Brūhīti ācikkha. Mārisāti piyavacanametaṃ, niddukkhāti vuttaṃ hoti. Sutvāna tava sāsananti tava vacanaṃ sutvā. Viveke sikkhissāmaseti sahāyaṃ ārabbha dhammadesanaṃ yācanto bhaṇati, so pana sikkhitasikkhoyeva."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Methunadhammo nāmā"
+      },
+      "ti idaṃ niddisitabbassa methunadhammassa upadesapadaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Asaddhammo"
+      },
+      "ti asataṃ nīcajanānaṃ dhammo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Gāmadhammo"
+      },
+      "ti gāmavāsīnaṃ sevanadhammo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Vasaladhammo"
+      },
+      "ti vasalānaṃ dhammo, kilesavassanato vā sayameva vasalo dhammoti vasaladhammo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Duṭṭhullo"
+      },
+      "ti duṭṭho ca kilesehi duṭṭhattā, thūlo ca anipuṇabhāvatoti duṭṭhullo. Yasmā ca tassa dhammassa parivārabhūtaṃ dassanampi gahaṇampi āmasanampi phusanampi ghaṭṭanampi duṭṭhullaṃ, tasmāpi duṭṭhullo so methunadhammo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Odakantiko"
+      },
+      "ti udakaṃ assa ante suddhatthaṃ ādiyatīti udakanto, udakantoyeva odakantiko. Raho paṭicchanne okāse kattabbatāya ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "rahasso"
+      },
+      ". Vinaye pana ‘‘duṭṭhullaṃ odakantikaṃ rahassa’’nti (pārā. 39) pāṭho. Tattha tīsu padesu ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "yo so"
+      },
+      "ti padaṃ parivattetvā yaṃ tanti ",
+      " katvā yojetabbaṃ ‘‘yaṃ taṃ duṭṭhullaṃ, so methunadhammo, yaṃ taṃ odakantikaṃ so methunadhammo, yaṃ taṃ rahassaṃ ",
+      ", so methunadhammo’’ti. Idha pana ‘‘yo so asaddhammo, so methunadhammo…pe… yo so rahasso, so methunadhammo’’ti evaṃ yojanā veditabbā. Dvayena dvayena samāpajjitabbato ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "dvayaṃdvayasamāpatti"
+      },
+      ". Tattha yojanā – yā sā dvayaṃdvayasamāpatti, so methunadhammo nāmāti. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Kiṃkāraṇā vuccati methunadhammo"
+      },
+      "ti kena kāraṇena kena pariyāyena methunadhammoti kathīyati. Taṃ kāraṇaṃ dassento ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "‘‘ubhinnaṃ rattāna’’"
+      },
+      "ntiādimāha. Tattha ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "ubhinnaṃ rattāna"
+      },
+      "nti ",
+      " dvinnaṃ itthipurisānaṃ rāgena rañjitānaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Sārattāna"
+      },
+      "nti visesena suṭṭhu rañjitānaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Avassutāna"
+      },
+      "nti kilesena tintānaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Pariyuṭṭhitāna"
+      },
+      "nti kusalācāraṃ pariyādiyitvā madditvā ṭhitānaṃ ‘‘magge corā pariyuṭṭhitā’’tiādīsu viya. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Pariyādinnacittāna"
+      },
+      "nti kusalacittaṃ pariyādiyitvā khepetvā ṭhitacittānaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Ubhinnaṃ sadisāna"
+      },
+      "nti dvinnaṃ kilesena sadisānaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Dhammo"
+      },
+      "ti sabhāvo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Taṃ kāraṇā"
+      },
+      "ti tena kāraṇena. Taṃ upamāya sādhento ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "‘‘ubho kalahakārakā’’"
+      },
+      "tiādimāha. Tattha ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "ubho kalahakārakā"
+      },
+      "ti pubbabhāge kalahakārakā dve. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Methunakāti vuccantī"
+      },
+      "ti sadisāti vuccanti. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Bhaṇḍanakārakā"
+      },
+      "ti tattha tattha gantvā bhaṇḍanaṃ karontā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Bhassakārakā"
+      },
+      "ti vācākalahaṃ karontā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Vivādakārakā"
+      },
+      "ti nānāvacanaṃ karontā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Adhikaraṇakārakā"
+      },
+      "ti vinicchayapāpuṇanavisesakāraṇaṃ karontā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Vādino"
+      },
+      "ti vādapaṭivādino. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Sallāpakā"
+      },
+      "ti vācaṃ kathentā ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "evameva"
+      },
+      "nti upamāsaṃsandanaṃ."
+    ],
+    "innerText": "Methunadhammo nāmāti idaṃ niddisitabbassa methunadhammassa upadesapadaṃ. Asaddhammoti asataṃ nīcajanānaṃ dhammo. Gāmadhammoti gāmavāsīnaṃ sevanadhammo. Vasaladhammoti vasalānaṃ dhammo, kilesavassanato vā sayameva vasalo dhammoti vasaladhammo. Duṭṭhulloti duṭṭho ca kilesehi duṭṭhattā, thūlo ca anipuṇabhāvatoti duṭṭhullo. Yasmā ca tassa dhammassa parivārabhūtaṃ dassanampi gahaṇampi āmasanampi phusanampi ghaṭṭanampi duṭṭhullaṃ, tasmāpi duṭṭhullo so methunadhammo. Odakantikoti udakaṃ assa ante suddhatthaṃ ādiyatīti udakanto, udakantoyeva odakantiko. Raho paṭicchanne okāse kattabbatāya rahasso. Vinaye pana ‘‘duṭṭhullaṃ odakantikaṃ rahassa’’nti (pārā. 39) pāṭho. Tattha tīsu padesu yo soti padaṃ parivattetvā yaṃ tanti katvā yojetabbaṃ ‘‘yaṃ taṃ duṭṭhullaṃ, so methunadhammo, yaṃ taṃ odakantikaṃ so methunadhammo, yaṃ taṃ rahassaṃ , so methunadhammo’’ti. Idha pana ‘‘yo so asaddhammo, so methunadhammo…pe… yo so rahasso, so methunadhammo’’ti evaṃ yojanā veditabbā. Dvayena dvayena samāpajjitabbato dvayaṃdvayasamāpatti. Tattha yojanā – yā sā dvayaṃdvayasamāpatti, so methunadhammo nāmāti. Kiṃkāraṇā vuccati methunadhammoti kena kāraṇena kena pariyāyena methunadhammoti kathīyati. Taṃ kāraṇaṃ dassento ‘‘ubhinnaṃ rattāna’’ntiādimāha. Tattha ubhinnaṃ rattānanti dvinnaṃ itthipurisānaṃ rāgena rañjitānaṃ. Sārattānanti visesena suṭṭhu rañjitānaṃ. Avassutānanti kilesena tintānaṃ. Pariyuṭṭhitānanti kusalācāraṃ pariyādiyitvā madditvā ṭhitānaṃ ‘‘magge corā pariyuṭṭhitā’’tiādīsu viya. Pariyādinnacittānanti kusalacittaṃ pariyādiyitvā khepetvā ṭhitacittānaṃ. Ubhinnaṃ sadisānanti dvinnaṃ kilesena sadisānaṃ. Dhammoti sabhāvo. Taṃ kāraṇāti tena kāraṇena. Taṃ upamāya sādhento ‘‘ubho kalahakārakā’’tiādimāha. Tattha ubho kalahakārakāti pubbabhāge kalahakārakā dve. Methunakāti vuccantīti sadisāti vuccanti. Bhaṇḍanakārakāti tattha tattha gantvā bhaṇḍanaṃ karontā. Bhassakārakāti vācākalahaṃ karontā. Vivādakārakāti nānāvacanaṃ karontā. Adhikaraṇakārakāti vinicchayapāpuṇanavisesakāraṇaṃ karontā. Vādinoti vādapaṭivādino. Sallāpakāti vācaṃ kathentā evamevanti upamāsaṃsandanaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Yuttassā"
+      },
+      "ti saññuttassa. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Payuttassā"
+      },
+      "ti ādarena yuttassa. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Āyuttassā"
+      },
+      "ti visesena yuttassa. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Samāyuttassā"
+      },
+      "ti ekato yuttassa. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Taccaritassā"
+      },
+      "ti taṃcaritaṃ karontassa. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Tabbahulassā"
+      },
+      "ti taṃbahulaṃ karontassa. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Taggarukassā"
+      },
+      "ti taṃgaruṃ karontassa. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Tanninnassā"
+      },
+      "ti tasmiṃ natacittassa. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Tappoṇassā"
+      },
+      "ti tasmiṃ natakāyassa. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Tappabbhārassā"
+      },
+      "ti ",
+      " tasmiṃ abhimukhakāyassa. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Tadadhimuttassā"
+      },
+      "ti tasmiṃ adhiharitassa. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Tadadhipateyyassā"
+      },
+      "ti taṃ adhipatiṃ jeṭṭhakaṃ katvā pavattassa."
+    ],
+    "innerText": "Yuttassāti saññuttassa. Payuttassāti ādarena yuttassa. Āyuttassāti visesena yuttassa. Samāyuttassāti ekato yuttassa. Taccaritassāti taṃcaritaṃ karontassa. Tabbahulassāti taṃbahulaṃ karontassa. Taggarukassāti taṃgaruṃ karontassa. Tanninnassāti tasmiṃ natacittassa. Tappoṇassāti tasmiṃ natakāyassa. Tappabbhārassāti tasmiṃ abhimukhakāyassa. Tadadhimuttassāti tasmiṃ adhiharitassa. Tadadhipateyyassāti taṃ adhipatiṃ jeṭṭhakaṃ katvā pavattassa."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Vighāta"
+      },
+      "nti niddesassa uddesavacanaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Vighāta"
+      },
+      "nti pīḷanaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Upaghāta"
+      },
+      "nti samīpaṃ katvā pīḷanaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Pīḷana"
+      },
+      "nti ghaṭṭanaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Ghaṭṭana"
+      },
+      "nti pīḷanaṃ. Sabbaṃ aññamaññavevacanaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Upaddava"
+      },
+      "nti hiṃsanaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Upasagga"
+      },
+      "nti tattha tattha upagantvā pīḷanākāraṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Brūhī"
+      },
+      "ti kathehi. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Ācikkhā"
+      },
+      "ti ",
+      " vissajjehi. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Desehī"
+      },
+      "ti dassehi. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Paññapehī"
+      },
+      "ti ñāpehi. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Paṭṭhapehī"
+      },
+      "ti ṭhapehi. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Vivarā"
+      },
+      "ti pākaṭaṃ karohi. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Vibhajā"
+      },
+      "ti bhājehi. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Uttānīkarohī"
+      },
+      "ti tīraṃ pāpehi. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Pakāsehī"
+      },
+      "ti pākaṭaṃ karohi."
+    ],
+    "innerText": "Vighātanti niddesassa uddesavacanaṃ. Vighātanti pīḷanaṃ. Upaghātanti samīpaṃ katvā pīḷanaṃ. Pīḷananti ghaṭṭanaṃ. Ghaṭṭananti pīḷanaṃ. Sabbaṃ aññamaññavevacanaṃ. Upaddavanti hiṃsanaṃ. Upasagganti tattha tattha upagantvā pīḷanākāraṃ. Brūhīti kathehi. Ācikkhāti vissajjehi. Desehīti dassehi. Paññapehīti ñāpehi. Paṭṭhapehīti ṭhapehi. Vivarāti pākaṭaṃ karohi. Vibhajāti bhājehi. Uttānīkarohīti tīraṃ pāpehi. Pakāsehīti pākaṭaṃ karohi."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Tuyhaṃ vacana"
+      },
+      "nti tava vācaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Byappatha"
+      },
+      "nti vacanaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Desana"
+      },
+      "nti ācikkhanaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Anusāsana"
+      },
+      "nti ovādaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Anusiṭṭha"
+      },
+      "nti anusāsanaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Sutvā"
+      },
+      "ti sotena sutvā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Suṇitvā"
+      },
+      "ti tasseva vevacanaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Uggahetvā"
+      },
+      "ti sammā gahetvā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Upadhārayitvā"
+      },
+      "ti anāsetvā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Upalakkhayitvā"
+      },
+      "ti sallakkhetvā."
+    ],
+    "innerText": "Tuyhaṃ vacananti tava vācaṃ. Byappathanti vacanaṃ. Desananti ācikkhanaṃ. Anusāsananti ovādaṃ. Anusiṭṭhanti anusāsanaṃ. Sutvāti sotena sutvā. Suṇitvāti tasseva vevacanaṃ. Uggahetvāti sammā gahetvā. Upadhārayitvāti anāsetvā. Upalakkhayitvāti sallakkhetvā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "50"
+      },
+      ".",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Mussate vāpi sāsana"
+      },
+      "nti pariyattipaṭipattito duvidhampi sāsanaṃ nassati. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Vāpī"
+      },
+      "ti padapūraṇamattaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Etaṃ tasmiṃ anariya"
+      },
+      "nti tasmiṃ puggale etaṃ anariyaṃ, yadidaṃ micchāpaṭipadā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Gāravādhivacana"
+      },
+      "nti guṇavisiṭṭhasabbasattuttamagarugāravādhivacanaṃ. Tenāhu porāṇā –"
+    ],
+    "innerText": "50.Mussate vāpi sāsananti pariyattipaṭipattito duvidhampi sāsanaṃ nassati. Vāpīti padapūraṇamattaṃ. Etaṃ tasmiṃ anariyanti tasmiṃ puggale etaṃ anariyaṃ, yadidaṃ micchāpaṭipadā. Gāravādhivacananti guṇavisiṭṭhasabbasattuttamagarugāravādhivacanaṃ. Tenāhu porāṇā –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      "‘‘Bhagavāti ",
+      " vacanaṃ seṭṭhaṃ, bhagavāti vacanamuttamaṃ;"
+    ],
+    "innerText": "‘‘Bhagavāti vacanaṃ seṭṭhaṃ, bhagavāti vacanamuttamaṃ;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "children": [
+      "Garu gāravayutto so, ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "bhagavā"
+      },
+      " tena vuccatī’’ti. (visuddhi. 1.142);"
+    ],
+    "innerText": "Garu gāravayutto so, bhagavā tena vuccatī’’ti. (visuddhi. 1.142);"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Catubbidhaṃ vā nāmaṃ āvatthikaṃ, liṅgikaṃ, nemittikaṃ, adhiccasamuppannanti. Adhiccasamuppannaṃ nāma lokiyavohārena ‘‘yadicchaka’’nti vuttaṃ hoti. Tattha vaccho, dammo, balībaddhoti evamādi ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "āvatthikaṃ,"
+      },
+      " daṇḍī, chattī, sikhī, karīti evamādi ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "liṅgikaṃ,"
+      },
+      " tevijjo, chaḷabhiññoti evamādi ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "nemittikaṃ,"
+      },
+      " sirivaḍḍhako, dhanavaḍḍhakoti evamādi ",
+      " vacanatthaṃ anapekkhitvā pavattaṃ ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "adhiccasamuppannaṃ"
+      },
+      ". Idaṃ pana ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "bhagavā"
+      },
+      "ti nāmaṃ nemittikaṃ, na mahāmāyāya, na suddhodanamahārājena, na asītiyā ñātisahassehi kataṃ, na sakkasantusitādīhi devatāvisesehi kataṃ. Vakkhati ca ‘‘bhagavāti netaṃ nāmaṃ mātarā kataṃ…pe… paṭilābhā sacchikā paññatti yadidaṃ bhagavā’’ti (mahāni. 84)."
+    ],
+    "innerText": "Catubbidhaṃ vā nāmaṃ āvatthikaṃ, liṅgikaṃ, nemittikaṃ, adhiccasamuppannanti. Adhiccasamuppannaṃ nāma lokiyavohārena ‘‘yadicchaka’’nti vuttaṃ hoti. Tattha vaccho, dammo, balībaddhoti evamādi āvatthikaṃ, daṇḍī, chattī, sikhī, karīti evamādi liṅgikaṃ, tevijjo, chaḷabhiññoti evamādi nemittikaṃ, sirivaḍḍhako, dhanavaḍḍhakoti evamādi vacanatthaṃ anapekkhitvā pavattaṃ adhiccasamuppannaṃ. Idaṃ pana bhagavāti nāmaṃ nemittikaṃ, na mahāmāyāya, na suddhodanamahārājena, na asītiyā ñātisahassehi kataṃ, na sakkasantusitādīhi devatāvisesehi kataṃ. Vakkhati ca ‘‘bhagavāti netaṃ nāmaṃ mātarā kataṃ…pe… paṭilābhā sacchikā paññatti yadidaṃ bhagavā’’ti (mahāni. 84)."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "‘‘Bhāgyavā bhaggavā yutto, bhagehi ca vibhattavā;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "children": [
+      "Bhattavā vantagamano, bhavesu ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "bhagavā"
+      },
+      " tato’’ti. (visuddhi. 1.144);"
+    ],
+    "innerText": "Bhattavā vantagamano, bhavesu bhagavā tato’’ti. (visuddhi. 1.144);"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Tattha –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "‘‘Vaṇṇāgamo vaṇṇavipariyāyo, dve cāpare vaṇṇavikāranāsā;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Dhātūnamatthātisayena yogo, taduccate pañcavidhaṃ nirutti’’nti. –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "unindented"
+    },
+    "children": [
+      "Evaṃ ",
+      " vuttaniruttilakkhaṇaṃ gahetvā padasiddhi veditabbā. Tattha ‘‘nakkhattarājāriva tārakāna’’nti ettha rakārāgamo viya avijjamānassa akkharassa āgamo ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "vaṇṇāgamo"
+      },
+      " nāma. ‘‘Hiṃsanā, hiṃso’’ti vattabbe ‘‘sīho’’ti viya vijjamānakkharānaṃ heṭṭhupariyavasena parivattanaṃ ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "vaṇṇavipariyāyo"
+      },
+      " nāma. ‘‘Nave channake dānaṃ diyyatī’’ti ettha akārassa ekārāpajjanatā viya aññakkharassa aññakkharāpajjanatā ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "vaṇṇavikāro"
+      },
+      " nāma. ‘‘Jīvanassa mūto jīvanamūto’’ti vattabbe ‘‘jīmūto’’ti vakāranakārānaṃ vināso viya vijjamānakkharavināso ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "vaṇṇavināso"
+      },
+      " nāma. ‘‘Pharusāhi vācāhi pakrubbamāno āsajja maṃ tvaṃ vadasi kumārā’’ti ettha pakrubbamānoti padassa abhibhavamānoti atthapaṭipādanaṃ viya tattha tattha yathāyogaṃ visesatthayogo ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "dhātūnaṃ atthātisayena yogo"
+      },
+      " nāma."
+    ],
+    "innerText": "Evaṃ vuttaniruttilakkhaṇaṃ gahetvā padasiddhi veditabbā. Tattha ‘‘nakkhattarājāriva tārakāna’’nti ettha rakārāgamo viya avijjamānassa akkharassa āgamo vaṇṇāgamo nāma. ‘‘Hiṃsanā, hiṃso’’ti vattabbe ‘‘sīho’’ti viya vijjamānakkharānaṃ heṭṭhupariyavasena parivattanaṃ vaṇṇavipariyāyo nāma. ‘‘Nave channake dānaṃ diyyatī’’ti ettha akārassa ekārāpajjanatā viya aññakkharassa aññakkharāpajjanatā vaṇṇavikāro nāma. ‘‘Jīvanassa mūto jīvanamūto’’ti vattabbe ‘‘jīmūto’’ti vakāranakārānaṃ vināso viya vijjamānakkharavināso vaṇṇavināso nāma. ‘‘Pharusāhi vācāhi pakrubbamāno āsajja maṃ tvaṃ vadasi kumārā’’ti ettha pakrubbamānoti padassa abhibhavamānoti atthapaṭipādanaṃ viya tattha tattha yathāyogaṃ visesatthayogo dhātūnaṃ atthātisayena yogo nāma."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Evaṃ ",
+      " niruttilakkhaṇaṃ gahetvā saddanayena vā pisodarādinissito patiṭṭhānīti pisodarādipakkhepalakkhaṇaṃ gahetvā yasmā lokiyalokuttarasukhābhinibbattakaṃ ",
+      " dānasīlādipārappattaṃ bhāgyamassa atthi, tasmā ‘‘bhāgyavā’’ti vattabbe ‘‘bhagavā’’ti vuccatīti ñātabbaṃ."
+    ],
+    "innerText": "Evaṃ niruttilakkhaṇaṃ gahetvā saddanayena vā pisodarādinissito patiṭṭhānīti pisodarādipakkhepalakkhaṇaṃ gahetvā yasmā lokiyalokuttarasukhābhinibbattakaṃ dānasīlādipārappattaṃ bhāgyamassa atthi, tasmā ‘‘bhāgyavā’’ti vattabbe ‘‘bhagavā’’ti vuccatīti ñātabbaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Yasmā pana lobhadosamohaviparītamanasikāraahirikānottappakodhūpanāhamakkhapaḷāsaissā- macchariyamāyāsāṭheyyathambhasārambhamānātimānamadapamādataṇhāavijjātividhākusalamūladuccarita- saṃkilesamalavisamasaññāvitakkapapañcacatubbidhavipariyesaāsavaganthaoghayogaagati- taṇhuppādupādānapañcacetokhīlavinibandhanīvaraṇābhinandanachavivādamūlataṇhākāyasattānusaya- aṭṭhamicchattanavataṇhāmūlakadasākusalakammapathadvāsaṭṭhidiṭṭhigataaṭṭhasatataṇhāvicaritappabhesabbadaratha- pariḷāhakilesasatasahassāni, saṅkhepato vā pañca kilesakhandhaabhisaṅkhāradevaputtamaccumāre abhañji, tasmā bhaggattā etesaṃ parissayānaṃ ‘‘bhaggavā’’ti vattabbe ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "‘‘bhagavā’’"
+      },
+      "ti vuccati. Āha cettha –"
+    ],
+    "innerText": "Yasmā pana lobhadosamohaviparītamanasikāraahirikānottappakodhūpanāhamakkhapaḷāsaissā- macchariyamāyāsāṭheyyathambhasārambhamānātimānamadapamādataṇhāavijjātividhākusalamūladuccarita- saṃkilesamalavisamasaññāvitakkapapañcacatubbidhavipariyesaāsavaganthaoghayogaagati- taṇhuppādupādānapañcacetokhīlavinibandhanīvaraṇābhinandanachavivādamūlataṇhākāyasattānusaya- aṭṭhamicchattanavataṇhāmūlakadasākusalakammapathadvāsaṭṭhidiṭṭhigataaṭṭhasatataṇhāvicaritappabhesabbadaratha- pariḷāhakilesasatasahassāni, saṅkhepato vā pañca kilesakhandhaabhisaṅkhāradevaputtamaccumāre abhañji, tasmā bhaggattā etesaṃ parissayānaṃ ‘‘bhaggavā’’ti vattabbe ‘‘bhagavā’’ti vuccati. Āha cettha –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "‘‘Bhaggarāgo bhaggadoso, bhaggamoho anāsavo;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "children": [
+      "Bhaggāssa pāpakā dhammā, ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "bhagavā"
+      },
+      " tena vuccatī’’ti. (pārā. aṭṭha. 1.96; visuddhi. 1.144);"
+    ],
+    "innerText": "Bhaggāssa pāpakā dhammā, bhagavā tena vuccatī’’ti. (pārā. aṭṭha. 1.96; visuddhi. 1.144);"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Bhāgyavantatāya cassa satapuññajalakkhaṇavarassa rūpakāyasampatti dīpitā hoti. Bhaggadosatāya dhammakāyasampatti. Tathā lokiyasarikkhakānaṃ bahumatabhāvo ",
+      ", gahaṭṭhapabbajitehi abhigamanīyatā, abhigatānañca nesaṃ kāyacittadukkhāpanayane paṭibalabhāvo, āmisadānadhammadānehi upakāritā, lokiyalokuttarasukhehi ca saññojanasamatthatā dīpitā hoti."
+    ],
+    "innerText": "Bhāgyavantatāya cassa satapuññajalakkhaṇavarassa rūpakāyasampatti dīpitā hoti. Bhaggadosatāya dhammakāyasampatti. Tathā lokiyasarikkhakānaṃ bahumatabhāvo , gahaṭṭhapabbajitehi abhigamanīyatā, abhigatānañca nesaṃ kāyacittadukkhāpanayane paṭibalabhāvo, āmisadānadhammadānehi upakāritā, lokiyalokuttarasukhehi ca saññojanasamatthatā dīpitā hoti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Yasmā ca loke issariyadhammayasasirikāmapayattesu chasu dhammesu bhagasaddo pavattati, paramañcassa sakacitte ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "issariyaṃ,"
+      },
+      " aṇimālaṅghimādikaṃ vā lokiyasammataṃ sabbākāraparipūraṃ atthi, tathā lokuttaro ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "dhammo,"
+      },
+      " lokattayabyāpako yathābhuccaguṇādhigato ativiya parisuddho ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "yaso,"
+      },
+      " rūpakāyadassanabyāvaṭajananayanappasādajananasamatthā sabbākāraparipūrā sabbaṅgapaccaṅga",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "sirī,"
+      },
+      " yaṃ yaṃ etena icchitaṃ patthitaṃ attahitaṃ parahitaṃ vā, tassa tassa tatheva abhinipphannattā ",
+      " icchiticchitatthanipphattisaññito ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "kāmo,"
+      },
+      " sabbalokagarubhāvappattihetubhūto sammāvāyāmasaṅkhāto ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "payatto"
+      },
+      " ca atthi, tasmā imehi bhagehi yuttattāpi ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "bhagā assa santī"
+      },
+      "ti iminā atthena ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "‘‘bhagavā’’"
+      },
+      "ti vuccati."
+    ],
+    "innerText": "Yasmā ca loke issariyadhammayasasirikāmapayattesu chasu dhammesu bhagasaddo pavattati, paramañcassa sakacitte issariyaṃ, aṇimālaṅghimādikaṃ vā lokiyasammataṃ sabbākāraparipūraṃ atthi, tathā lokuttaro dhammo, lokattayabyāpako yathābhuccaguṇādhigato ativiya parisuddho yaso, rūpakāyadassanabyāvaṭajananayanappasādajananasamatthā sabbākāraparipūrā sabbaṅgapaccaṅgasirī, yaṃ yaṃ etena icchitaṃ patthitaṃ attahitaṃ parahitaṃ vā, tassa tassa tatheva abhinipphannattā icchiticchitatthanipphattisaññito kāmo, sabbalokagarubhāvappattihetubhūto sammāvāyāmasaṅkhāto payatto ca atthi, tasmā imehi bhagehi yuttattāpi bhagā assa santīti iminā atthena ‘‘bhagavā’’ti vuccati."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Yasmā ",
+      " pana kusalādīhi bhedehi sabbadhamme, khandhāyatanadhātusaccaindriyapaṭiccasamuppādādīhi vā kusalādidhamme, pīḷanasaṅkhatasantāpavipariṇāmaṭṭhena vā ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "dukkhamariyasaccaṃ,"
+      },
+      " āyūhananidānasaṃyogapalibodhaṭṭhena ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "samudayaṃ,"
+      },
+      " nissaraṇavivekāsaṅkhataamataṭṭhena nirodhaṃ, niyyānikahetudassanādhipateyyaṭṭhena ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "maggaṃ"
+      },
+      " vibhattavā, vibhajitvā vivaritvā desitavāti vuttaṃ hoti, tasmā ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "‘‘vibhattavā’’"
+      },
+      "ti vattabbe ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "‘‘bhagavā’’"
+      },
+      "ti vuccati."
+    ],
+    "innerText": "Yasmā pana kusalādīhi bhedehi sabbadhamme, khandhāyatanadhātusaccaindriyapaṭiccasamuppādādīhi vā kusalādidhamme, pīḷanasaṅkhatasantāpavipariṇāmaṭṭhena vā dukkhamariyasaccaṃ, āyūhananidānasaṃyogapalibodhaṭṭhena samudayaṃ, nissaraṇavivekāsaṅkhataamataṭṭhena nirodhaṃ, niyyānikahetudassanādhipateyyaṭṭhena maggaṃ vibhattavā, vibhajitvā vivaritvā desitavāti vuttaṃ hoti, tasmā ‘‘vibhattavā’’ti vattabbe ‘‘bhagavā’’ti vuccati."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Yasmā ca esa dibbabrahmaariyavihāre kāyacittaupadhiviveke suññatappaṇihitānimittavimokkhe aññe ca lokiyalokuttare uttarimanussadhamme bhaji sevi bahulamakāsi, tasmā ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "‘‘bhattavā’’"
+      },
+      "ti vattabbe ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "‘‘bhagavā’’"
+      },
+      "ti vuccati."
+    ],
+    "innerText": "Yasmā ca esa dibbabrahmaariyavihāre kāyacittaupadhiviveke suññatappaṇihitānimittavimokkhe aññe ca lokiyalokuttare uttarimanussadhamme bhaji sevi bahulamakāsi, tasmā ‘‘bhattavā’’ti vattabbe ‘‘bhagavā’’ti vuccati."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Yasmā pana tīsu bhavesu taṇhāsaṅkhātaṃ gamanaṃ anena vantaṃ, tasmā ‘‘bhavesu vantagamano’’ti vattabbe bhavasaddato bhakāraṃ gamanasaddato gakāraṃ vantasaddato vakārañca dīghaṃ katvā ādāya ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "‘‘bhagavā’’"
+      },
+      "ti vuccati, yathā loke ‘‘mehanassa khassa mālā’’ti vattabbe ‘‘mekhalā’’ti vuccati."
+    ],
+    "innerText": "Yasmā pana tīsu bhavesu taṇhāsaṅkhātaṃ gamanaṃ anena vantaṃ, tasmā ‘‘bhavesu vantagamano’’ti vattabbe bhavasaddato bhakāraṃ gamanasaddato gakāraṃ vantasaddato vakārañca dīghaṃ katvā ādāya ‘‘bhagavā’’ti vuccati, yathā loke ‘‘mehanassa khassa mālā’’ti vattabbe ‘‘mekhalā’’ti vuccati."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Puna ",
+      " aparampi pariyāyaṃ niddisanto ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "‘‘api ca bhaggarāgoti bhagavā’’"
+      },
+      "tiādimāha. Tattha bhaggo rāgo assāti bhaggarāgo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Bhaggadosā"
+      },
+      "dīsupi eseva nayo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Kaṇḍako"
+      },
+      "ti vinivijjhanaṭṭhena kilesā eva. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Bhajī"
+      },
+      "ti uddesavasena vibhāgaṃ katvā bhājesi. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Vibhajī"
+      },
+      "ti niddesavasena vividhā bhājesi. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Pavibhajī"
+      },
+      "ti paṭiniddesavasena pakārena vibhaji. Ugghaṭitaññūnaṃ vasena ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "bhaji"
+      },
+      ". Vipañcitaññūnaṃ vasena ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "vibhaji"
+      },
+      ". Neyyānaṃ vasena ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "pavibhaji"
+      },
+      "."
+    ],
+    "innerText": "Puna aparampi pariyāyaṃ niddisanto ‘‘api ca bhaggarāgoti bhagavā’’tiādimāha. Tattha bhaggo rāgo assāti bhaggarāgo. Bhaggadosādīsupi eseva nayo. Kaṇḍakoti vinivijjhanaṭṭhena kilesā eva. Bhajīti uddesavasena vibhāgaṃ katvā bhājesi. Vibhajīti niddesavasena vividhā bhājesi. Pavibhajīti paṭiniddesavasena pakārena vibhaji. Ugghaṭitaññūnaṃ vasena bhaji. Vipañcitaññūnaṃ vasena vibhaji. Neyyānaṃ vasena pavibhaji."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Dhammaratana"
+      },
+      "nti –"
+    ],
+    "innerText": "Dhammaratananti –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "‘‘Cittīkataṃ mahagghañca, atulaṃ dullabhadassanaṃ;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Anomasattaparibhogaṃ, ratanaṃ tena vuccatī’’ti. (khu. pā. aṭṭha. 6.3; dī. ni. aṭṭha. 2.33) –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "unindented"
+    },
+    "children": [
+      "Evaṃ vaṇṇitaṃ dhammaratanaṃ tividhena bhājesi. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Bhavānaṃ"
+      },
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "antakaro"
+      },
+      "ti kāmabhavādīnaṃ navannaṃ bhavānaṃ paricchedaṃ pariyantaṃ parivaṭumaṃ kārako. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Bhāvitakāyo"
+      },
+      "ti vaḍḍhitakāyo. Tathā itaresupi. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Bhajī"
+      },
+      "ti sevi. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Araññavanapatthānī"
+      },
+      "ti gāmassa vā nagarassa vā indakhīlato bahi araññaṃ. Vanapatthāni manussūpacārātikkantāni ",
+      " vanasaṇḍāni. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Pantānī"
+      },
+      "ti yattha manussā na kasanti na vapanti dūrāni senāsanāni. Keci pana ‘‘vanapattānīti yasmā yattha byagghādayo atthi, taṃ vanaṃ te pālayanti rakkhanti, tasmā tehi rakkhitattā vanapattānī’’ti vadanti. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Senāsanānī"
+      },
+      "ti seti ceva āsati ca etthāti senāsanāni. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Appasaddānī"
+      },
+      "ti vacanasaddena appasaddāni. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Appanigghosānī"
+      },
+      "ti gāmanagaranigghosasaddena appanigghosāni. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Vijanavātānī"
+      },
+      "ti antosañcaraṇajanassa sarīravātena virahitāni. ‘‘Vijanavādānī’’tipi pāṭho, ‘‘antojanavādena virahitānī’’ti attho. ‘‘Vijanapātānī’’tipi pāṭho, ‘‘janasañcāravirahitānī’’ti attho. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Manussarāhasseyyakānī"
+      },
+      "ti manussānaṃ rahassakaraṇaṭṭhānāni. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Paṭisallānasāruppānī"
+      },
+      "ti vivekānurūpāni. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Bhāgī vā"
+      },
+      "ti ‘‘bhāgo cīvarādikoṭṭhāso assa atthī’’ti bhāgī. ‘‘Paṭilābhavasena attharasādibhāgo assa atthī’’ti bhāgī. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Attharasassā"
+      },
+      "ti hetuphalasampattisaṅkhātassa attharasassa. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Dhammarasassā"
+      },
+      "ti hetusampattisaṅkhātassa dhammarasassa. Vuttañhetaṃ ‘‘hetuphale ñāṇaṃ atthapaṭisambhidā, hetumhi ñāṇaṃ dhammapaṭisambhidā’’ti (vibha. 720). ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Vimuttirasassā"
+      },
+      "ti phalasampattisaṅkhātassa vimuttirasassa. Vuttampi cetaṃ ‘‘kiccasampattiatthena, raso nāma pavuccatī’’ti (paṭi. ma. aṭṭha. 1.1.2 mātikāvaṇṇanā; visuddhi. 1.8)."
+    ],
+    "innerText": "Evaṃ vaṇṇitaṃ dhammaratanaṃ tividhena bhājesi. Bhavānaṃantakaroti kāmabhavādīnaṃ navannaṃ bhavānaṃ paricchedaṃ pariyantaṃ parivaṭumaṃ kārako. Bhāvitakāyoti vaḍḍhitakāyo. Tathā itaresupi. Bhajīti sevi. Araññavanapatthānīti gāmassa vā nagarassa vā indakhīlato bahi araññaṃ. Vanapatthāni manussūpacārātikkantāni vanasaṇḍāni. Pantānīti yattha manussā na kasanti na vapanti dūrāni senāsanāni. Keci pana ‘‘vanapattānīti yasmā yattha byagghādayo atthi, taṃ vanaṃ te pālayanti rakkhanti, tasmā tehi rakkhitattā vanapattānī’’ti vadanti. Senāsanānīti seti ceva āsati ca etthāti senāsanāni. Appasaddānīti vacanasaddena appasaddāni. Appanigghosānīti gāmanagaranigghosasaddena appanigghosāni. Vijanavātānīti antosañcaraṇajanassa sarīravātena virahitāni. ‘‘Vijanavādānī’’tipi pāṭho, ‘‘antojanavādena virahitānī’’ti attho. ‘‘Vijanapātānī’’tipi pāṭho, ‘‘janasañcāravirahitānī’’ti attho. Manussarāhasseyyakānīti manussānaṃ rahassakaraṇaṭṭhānāni. Paṭisallānasāruppānīti vivekānurūpāni. Bhāgī vāti ‘‘bhāgo cīvarādikoṭṭhāso assa atthī’’ti bhāgī. ‘‘Paṭilābhavasena attharasādibhāgo assa atthī’’ti bhāgī. Attharasassāti hetuphalasampattisaṅkhātassa attharasassa. Dhammarasassāti hetusampattisaṅkhātassa dhammarasassa. Vuttañhetaṃ ‘‘hetuphale ñāṇaṃ atthapaṭisambhidā, hetumhi ñāṇaṃ dhammapaṭisambhidā’’ti (vibha. 720). Vimuttirasassāti phalasampattisaṅkhātassa vimuttirasassa. Vuttampi cetaṃ ‘‘kiccasampattiatthena, raso nāma pavuccatī’’ti (paṭi. ma. aṭṭha. 1.1.2 mātikāvaṇṇanā; visuddhi. 1.8)."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Catunnaṃ"
+      },
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "jhānāna"
+      },
+      "nti paṭhamajjhānādīnaṃ catunnaṃ jhānānaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Catunnaṃ appamaññāna"
+      },
+      "nti mettādīnaṃ pharaṇappamāṇavirahitānaṃ catunnaṃ brahmavihārānaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Catunnaṃ arūpasamāpattīna"
+      },
+      "nti ākāsānañcāyatanādīnaṃ catunnaṃ arūpajjhānānaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Aṭṭhannaṃ vimokkhāna"
+      },
+      "nti ‘‘rūpī rūpāni passatī’’tiādinā (dha. sa. 248) nayena vuttānaṃ ārammaṇavimuttānaṃ aṭṭhannaṃ vimokkhānaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Abhibhāyatanāna"
+      },
+      "nti ",
+      " ettha abhibhūtāni āyatanāni etesaṃ jhānānanti abhibhāyatanāni, jhānāni. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Āyatanānī"
+      },
+      "ti adhiṭṭhānaṭṭhena āyatanasaṅkhātāni kasiṇārammaṇāni. Ñāṇuttariko hi puggalo visadañāṇoti kiṃ ettha ārammaṇe samāpajjitabbaṃ, na mayi cittekaggatākaraṇe bhāro atthīti tāni ārammaṇāni abhibhavitvā samāpajjati. Saha nimittuppādenevettha appanaṃ nibbattetīti attho. Evaṃ uppāditāni jhānāni abhibhāyatanānīti vuccanti, tesaṃ aṭṭhannaṃ abhibhāyatanānaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Navannaṃ anupubbavihārasamāpattīna"
+      },
+      "nti pubbaṃ pubbaṃ anu anupubbaṃ, anupubbaṃ viharitabbato samāpajjitabbato anupubbavihārasamāpatti, anupaṭipāṭiyā samāpajjitabbāti attho, tāsaṃ navannaṃ anupubbavihārasamāpattīnaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Dasannaṃ saññābhāvanāna"
+      },
+      "nti girimānandasutte (a. ni. 10.60) āgatānaṃ aniccasaññādīnaṃ dasannaṃ saññābhāvanānaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Dasannaṃ kasiṇasamāpattīna"
+      },
+      "nti sakalaṭṭhena kasiṇasaṅkhātānaṃ pathavīkasiṇajjhānādīnaṃ dasannaṃ jhānānaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Ānāpānassatisamādhissā"
+      },
+      "ti ānāpānassatisampayuttasamādhissa ",
+      ". ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Asubhasamāpattiyā"
+      },
+      "ti asubhajjhānasamāpattiyā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Dasannaṃ tathāgatabalāna"
+      },
+      "nti dasabalabalānaṃ dasannaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Catunnaṃ vesārajjāna"
+      },
+      "nti visāradabhāvānaṃ catunnaṃ vesārajjānaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Catunnaṃ paṭisambhidāna"
+      },
+      "nti paṭisambhidāñāṇānaṃ catunnaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Channaṃ abhiññāṇāna"
+      },
+      "nti iddhividhādīnaṃ channaṃ abhiññāṇānaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Channaṃ buddhadhammāna"
+      },
+      "nti ‘‘sabbaṃ kāyakammaṃ ñāṇānuparivattī’’tiādinā (cūḷani. mogharājamāṇavapucchāniddesa 85; netti. 15) nayena upari āgatānaṃ channaṃ buddhadhammānaṃ."
+    ],
+    "innerText": "Catunnaṃjhānānanti paṭhamajjhānādīnaṃ catunnaṃ jhānānaṃ. Catunnaṃ appamaññānanti mettādīnaṃ pharaṇappamāṇavirahitānaṃ catunnaṃ brahmavihārānaṃ. Catunnaṃ arūpasamāpattīnanti ākāsānañcāyatanādīnaṃ catunnaṃ arūpajjhānānaṃ. Aṭṭhannaṃ vimokkhānanti ‘‘rūpī rūpāni passatī’’tiādinā (dha. sa. 248) nayena vuttānaṃ ārammaṇavimuttānaṃ aṭṭhannaṃ vimokkhānaṃ. Abhibhāyatanānanti ettha abhibhūtāni āyatanāni etesaṃ jhānānanti abhibhāyatanāni, jhānāni. Āyatanānīti adhiṭṭhānaṭṭhena āyatanasaṅkhātāni kasiṇārammaṇāni. Ñāṇuttariko hi puggalo visadañāṇoti kiṃ ettha ārammaṇe samāpajjitabbaṃ, na mayi cittekaggatākaraṇe bhāro atthīti tāni ārammaṇāni abhibhavitvā samāpajjati. Saha nimittuppādenevettha appanaṃ nibbattetīti attho. Evaṃ uppāditāni jhānāni abhibhāyatanānīti vuccanti, tesaṃ aṭṭhannaṃ abhibhāyatanānaṃ. Navannaṃ anupubbavihārasamāpattīnanti pubbaṃ pubbaṃ anu anupubbaṃ, anupubbaṃ viharitabbato samāpajjitabbato anupubbavihārasamāpatti, anupaṭipāṭiyā samāpajjitabbāti attho, tāsaṃ navannaṃ anupubbavihārasamāpattīnaṃ. Dasannaṃ saññābhāvanānanti girimānandasutte (a. ni. 10.60) āgatānaṃ aniccasaññādīnaṃ dasannaṃ saññābhāvanānaṃ. Dasannaṃ kasiṇasamāpattīnanti sakalaṭṭhena kasiṇasaṅkhātānaṃ pathavīkasiṇajjhānādīnaṃ dasannaṃ jhānānaṃ. Ānāpānassatisamādhissāti ānāpānassatisampayuttasamādhissa . Asubhasamāpattiyāti asubhajjhānasamāpattiyā. Dasannaṃ tathāgatabalānanti dasabalabalānaṃ dasannaṃ. Catunnaṃ vesārajjānanti visāradabhāvānaṃ catunnaṃ vesārajjānaṃ. Catunnaṃ paṭisambhidānanti paṭisambhidāñāṇānaṃ catunnaṃ. Channaṃ abhiññāṇānanti iddhividhādīnaṃ channaṃ abhiññāṇānaṃ. Channaṃ buddhadhammānanti ‘‘sabbaṃ kāyakammaṃ ñāṇānuparivattī’’tiādinā (cūḷani. mogharājamāṇavapucchāniddesa 85; netti. 15) nayena upari āgatānaṃ channaṃ buddhadhammānaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Tattha cīvarādayo bhāgyasampattivasena vuttā. Attharasatiko ",
+      " paṭivedhavasena vutto. Adhisīlatiko paṭipattivasena. Jhānattiko rūpārūpajjhānavasena. Vimokkhattiko samāpattivasena. Saññācatukko upacārappanāvasena. Satipaṭṭhānādayo sattatiṃsabodhipakkhiyadhammavasena. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Tathāgatabalāna"
+      },
+      "ntiādayo āveṇikadhammavasena vuttāti veditabbā."
+    ],
+    "innerText": "Tattha cīvarādayo bhāgyasampattivasena vuttā. Attharasatiko paṭivedhavasena vutto. Adhisīlatiko paṭipattivasena. Jhānattiko rūpārūpajjhānavasena. Vimokkhattiko samāpattivasena. Saññācatukko upacārappanāvasena. Satipaṭṭhānādayo sattatiṃsabodhipakkhiyadhammavasena. Tathāgatabalānantiādayo āveṇikadhammavasena vuttāti veditabbā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Ito ",
+      " paraṃ ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "bhagavāti netaṃ nāma"
+      },
+      "ntiādi ‘‘atthamanugatā ayaṃ paññattī’’ti ñāpanatthaṃ vuttaṃ. Tattha ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "samaṇā"
+      },
+      " pabbajjupagatā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Brāhmaṇā"
+      },
+      " bhovādino samitapāpabāhitapāpā vā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Devatā"
+      },
+      " sakkādayo brahmāno ca. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Vimokkhantika"
+      },
+      "nti vimokkho arahattamaggo, vimokkhassa anto arahattaphalaṃ, tasmiṃ vimokkhante bhavaṃ vimokkhantikaṃ nāmaṃ. Sabbaññubhāvo hi arahattamaggena sijjhati, arahattaphalādhigamena siddho hoti. Tasmā sabbaññubhāvo vimokkhante bhavo hoti. Taṃ nemittikampi nāmaṃ vimokkhante bhavaṃ nāma hoti. Tena vuttaṃ – ‘‘vimokkhantikametaṃ buddhānaṃ bhagavantāna’’nti. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Bodhiyā mūle saha sabbaññutaññāṇassa paṭilābhā"
+      },
+      "ti mahābodhirukkhamūle yathāvuttakkhaṇe sabbaññutaññāṇassa paṭilābhena saha. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Sacchikā paññattī"
+      },
+      "ti arahattaphalasacchikiriyāya sabbadhammasacchikiriyāya vā jātā paññatti. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Yadidaṃ bhagavā"
+      },
+      "ti yā ayaṃ bhagavāti paññatti."
+    ],
+    "innerText": "Ito paraṃ bhagavāti netaṃ nāmantiādi ‘‘atthamanugatā ayaṃ paññattī’’ti ñāpanatthaṃ vuttaṃ. Tattha samaṇā pabbajjupagatā. Brāhmaṇā bhovādino samitapāpabāhitapāpā vā. Devatā sakkādayo brahmāno ca. Vimokkhantikanti vimokkho arahattamaggo, vimokkhassa anto arahattaphalaṃ, tasmiṃ vimokkhante bhavaṃ vimokkhantikaṃ nāmaṃ. Sabbaññubhāvo hi arahattamaggena sijjhati, arahattaphalādhigamena siddho hoti. Tasmā sabbaññubhāvo vimokkhante bhavo hoti. Taṃ nemittikampi nāmaṃ vimokkhante bhavaṃ nāma hoti. Tena vuttaṃ – ‘‘vimokkhantikametaṃ buddhānaṃ bhagavantāna’’nti. Bodhiyā mūle saha sabbaññutaññāṇassa paṭilābhāti mahābodhirukkhamūle yathāvuttakkhaṇe sabbaññutaññāṇassa paṭilābhena saha. Sacchikā paññattīti arahattaphalasacchikiriyāya sabbadhammasacchikiriyāya vā jātā paññatti. Yadidaṃ bhagavāti yā ayaṃ bhagavāti paññatti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Dvīhi kāraṇehī"
+      },
+      "ti dvīhi koṭṭhāsehi. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Pariyattisāsana"
+      },
+      "nti tepiṭakaṃ buddhavacanaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Paṭipattī"
+      },
+      "ti paṭipajjati etāyāti paṭipatti. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Yaṃ tassa pariyāpuṭa"
+      },
+      "nti tena puggalena yaṃ pariyāpuṭaṃ sajjhāyitaṃ karaṇatthe sāmivacanaṃ. ‘‘Pariyāpuṭṭa’’ntipi pāṭho. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Sutta"
+      },
+      "nti ubhatovibhaṅganiddesakhandhakaparivārā, suttanipāte maṅgalasutta- (khu. pā. 5.1 ādayo; su. ni. 261 ādayo) ratanasutta- (khu. pā. 6.1 ādayo) tuvaṭakasuttāni (su. ni. 921 ādayo), aññampi ca suttanāmakaṃ tathāgatavacanaṃ suttanti veditabbaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Geyya"
+      },
+      "nti sabbampi sagāthakaṃ suttaṃ geyyanti veditabbaṃ, visesena saṃyuttake sakalopi sagāthāvaggo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Veyyākaraṇa"
+      },
+      "nti ",
+      " sakalaṃ abhidhammapiṭakaṃ niggāthakaṃ suttaṃ, yañca aññampi aṭṭhahi aṅgehi asaṅgahitaṃ buddhavacanaṃ ",
+      ", taṃ ‘‘veyyākaraṇa’’nti veditabbaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Gāthā"
+      },
+      "ti dhammapadaṃ, theragāthā, therīgāthā, suttanipāte nosuttanāmikā suddhikagāthā ca ‘‘gāthā’’ti veditabbā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Udāna"
+      },
+      "nti somanassañāṇamayikagāthāpaṭisaṃyuttā dveasīti suttantā ‘‘udāna’’nti veditabbaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Itivuttaka"
+      },
+      "nti ‘‘vuttañhetaṃ bhagavatā’’tiādinayappavattā (itivu. 1 ādayo) dasuttarasatasuttantā ‘‘itivuttaka’’nti veditabbaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Jātaka"
+      },
+      "nti apaṇṇakajātakādīni (jā. 1.1.1) paṇṇāsādhikāni pañcajātakasatāni ‘‘jātaka’’nti veditabbaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Abbhutadhamma"
+      },
+      "nti ‘‘cattārome ",
+      ", bhikkhave, acchariyā abbhutadhammā ānande’’tiādinayappavattā (dī. ni. 2.209; a. ni. 4.129) sabbepi acchariyaabbhutadhammapaṭisaṃyuttā suttantā ‘‘abbhutadhamma’’nti veditabbaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Vedalla"
+      },
+      "nti cūḷavedalla- (ma. ni. 1.460 ādayo) mahāvedalla- (ma. ni. 1.449 ādayo) sammādiṭṭhi- (ma. ni. 1.89 ādayo) sakkapañha- (dī. ni. 2.344 ādayo) saṅkhārabhājaniyamahāpuṇṇamasuttādayo (ma. ni. 3.85 ādayo) sabbepi vedañca tuṭṭhiñca laddhā laddhā pucchitasuttantā ‘‘vedalla’’nti veditabbaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Idaṃ pariyattisāsana"
+      },
+      "nti idaṃ vuttappakāraṃ tepiṭakaṃ buddhavacanaṃ pariyāpuṇitabbaṭṭhena pariyatti, anusāsanaṭṭhena sāsananti katvā pariyattisāsanaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Tampi mussatī"
+      },
+      "ti tampi pariyattisāsanaṃ nassati. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Sammussatī"
+      },
+      "ti ādito nassati. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Paribāhiro hotī"
+      },
+      "ti parammukho hoti."
+    ],
+    "innerText": "Dvīhi kāraṇehīti dvīhi koṭṭhāsehi. Pariyattisāsananti tepiṭakaṃ buddhavacanaṃ. Paṭipattīti paṭipajjati etāyāti paṭipatti. Yaṃ tassa pariyāpuṭanti tena puggalena yaṃ pariyāpuṭaṃ sajjhāyitaṃ karaṇatthe sāmivacanaṃ. ‘‘Pariyāpuṭṭa’’ntipi pāṭho. Suttanti ubhatovibhaṅganiddesakhandhakaparivārā, suttanipāte maṅgalasutta- (khu. pā. 5.1 ādayo; su. ni. 261 ādayo) ratanasutta- (khu. pā. 6.1 ādayo) tuvaṭakasuttāni (su. ni. 921 ādayo), aññampi ca suttanāmakaṃ tathāgatavacanaṃ suttanti veditabbaṃ. Geyyanti sabbampi sagāthakaṃ suttaṃ geyyanti veditabbaṃ, visesena saṃyuttake sakalopi sagāthāvaggo. Veyyākaraṇanti sakalaṃ abhidhammapiṭakaṃ niggāthakaṃ suttaṃ, yañca aññampi aṭṭhahi aṅgehi asaṅgahitaṃ buddhavacanaṃ , taṃ ‘‘veyyākaraṇa’’nti veditabbaṃ. Gāthāti dhammapadaṃ, theragāthā, therīgāthā, suttanipāte nosuttanāmikā suddhikagāthā ca ‘‘gāthā’’ti veditabbā. Udānanti somanassañāṇamayikagāthāpaṭisaṃyuttā dveasīti suttantā ‘‘udāna’’nti veditabbaṃ. Itivuttakanti ‘‘vuttañhetaṃ bhagavatā’’tiādinayappavattā (itivu. 1 ādayo) dasuttarasatasuttantā ‘‘itivuttaka’’nti veditabbaṃ. Jātakanti apaṇṇakajātakādīni (jā. 1.1.1) paṇṇāsādhikāni pañcajātakasatāni ‘‘jātaka’’nti veditabbaṃ. Abbhutadhammanti ‘‘cattārome , bhikkhave, acchariyā abbhutadhammā ānande’’tiādinayappavattā (dī. ni. 2.209; a. ni. 4.129) sabbepi acchariyaabbhutadhammapaṭisaṃyuttā suttantā ‘‘abbhutadhamma’’nti veditabbaṃ. Vedallanti cūḷavedalla- (ma. ni. 1.460 ādayo) mahāvedalla- (ma. ni. 1.449 ādayo) sammādiṭṭhi- (ma. ni. 1.89 ādayo) sakkapañha- (dī. ni. 2.344 ādayo) saṅkhārabhājaniyamahāpuṇṇamasuttādayo (ma. ni. 3.85 ādayo) sabbepi vedañca tuṭṭhiñca laddhā laddhā pucchitasuttantā ‘‘vedalla’’nti veditabbaṃ. Idaṃ pariyattisāsananti idaṃ vuttappakāraṃ tepiṭakaṃ buddhavacanaṃ pariyāpuṇitabbaṭṭhena pariyatti, anusāsanaṭṭhena sāsananti katvā pariyattisāsanaṃ. Tampi mussatīti tampi pariyattisāsanaṃ nassati. Sammussatīti ādito nassati. Paribāhiro hotīti parammukho hoti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Katamaṃ paṭipattisāsana"
+      },
+      "nti lokuttaradhammato pubbabhāgo tadatthaṃ paṭipajjīyatīti paṭipatti. Sāsīyanti ettha veneyyāti sāsanaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Sammāpaṭipadā"
+      },
+      "tiādayo vuttanayā eva."
+    ],
+    "innerText": "Katamaṃ paṭipattisāsananti lokuttaradhammato pubbabhāgo tadatthaṃ paṭipajjīyatīti paṭipatti. Sāsīyanti ettha veneyyāti sāsanaṃ. Sammāpaṭipadātiādayo vuttanayā eva."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Pāṇampi hanatī"
+      },
+      "ti jīvitindriyampi ghāteti. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Adinnampi ādiyatī"
+      },
+      "ti parapariggahitampi vatthuṃ gaṇhāti. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Sandhimpi chindatī"
+      },
+      "ti gharasandhimpi chindati. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Nillopampi haratī"
+      },
+      "ti gāme paharitvā mahāvilopampi karoti. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Ekāgārikampi"
+      },
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "karotī"
+      },
+      "ti paṇṇāsamattehipi saṭṭhimattehipi parivāretvā jīvaggāhaṃ gahetvāpi dhanaṃ āharāpeti. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Paripanthepi tiṭṭhatī"
+      },
+      "ti panthadūhanakammaṃ karoti. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Paradārampi gacchatī"
+      },
+      "ti paradāresu cārittaṃ āpajjati. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Musāpi bhaṇatī"
+      },
+      "ti atthabhañjanakaṃ musāpi vadati. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Anariyadhammo"
+      },
+      "ti anariyasabhāvo."
+    ],
+    "innerText": "Pāṇampi hanatīti jīvitindriyampi ghāteti. Adinnampi ādiyatīti parapariggahitampi vatthuṃ gaṇhāti. Sandhimpi chindatīti gharasandhimpi chindati. Nillopampi haratīti gāme paharitvā mahāvilopampi karoti. Ekāgārikampikarotīti paṇṇāsamattehipi saṭṭhimattehipi parivāretvā jīvaggāhaṃ gahetvāpi dhanaṃ āharāpeti. Paripanthepi tiṭṭhatīti panthadūhanakammaṃ karoti. Paradārampi gacchatīti paradāresu cārittaṃ āpajjati. Musāpi bhaṇatīti atthabhañjanakaṃ musāpi vadati. Anariyadhammoti anariyasabhāvo."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "51"
+      },
+      ".",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Eko pubbe caritvānā"
+      },
+      "ti pabbajjāsaṅkhātena vā gaṇāvavassaggaṭṭhena vā pubbe loke viharitvā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Yānaṃ bhantaṃva taṃ loke, hīnamāhu puthujjana"
+      },
+      "nti taṃ vibbhantakaṃ puggalaṃ yathā hatthiyānādiyānaṃ adantaṃ visamampi ārohati, ārohanakampi bhañjati, papātepi papatati, evaṃ ",
+      " kāyaduccaritādivisamārohanena nirayādīsu, atthabhañjanena jātipapātādīsu papatanena ca yānaṃ bhantaṃva hīnaṃ puthujjanañca āhūti."
+    ],
+    "innerText": "51.Eko pubbe caritvānāti pabbajjāsaṅkhātena vā gaṇāvavassaggaṭṭhena vā pubbe loke viharitvā. Yānaṃ bhantaṃva taṃ loke, hīnamāhu puthujjananti taṃ vibbhantakaṃ puggalaṃ yathā hatthiyānādiyānaṃ adantaṃ visamampi ārohati, ārohanakampi bhañjati, papātepi papatati, evaṃ kāyaduccaritādivisamārohanena nirayādīsu, atthabhañjanena jātipapātādīsu papatanena ca yānaṃ bhantaṃva hīnaṃ puthujjanañca āhūti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Pabbajjāsaṅkhātena vā"
+      },
+      "ti pabbajjākoṭṭhāsena vā ‘‘pabbajito samaṇo’’ti gaṇanāropanena vā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Gaṇāvavassaggaṭṭhena vā"
+      },
+      "ti gaṇasaṅgaṇikārāmataṃ vissajjetvā vassaggaṭṭhena vā."
+    ],
+    "innerText": "Pabbajjāsaṅkhātena vāti pabbajjākoṭṭhāsena vā ‘‘pabbajito samaṇo’’ti gaṇanāropanena vā. Gaṇāvavassaggaṭṭhena vāti gaṇasaṅgaṇikārāmataṃ vissajjetvā vassaggaṭṭhena vā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Eko"
+      },
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "paṭikkamatī"
+      },
+      "ti ekakova gāmato nivattati. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Yo nisevatī"
+      },
+      "ti niddesassa uddesapadaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Aparena samayenā"
+      },
+      "ti aññasmiṃ kāle aparabhāge. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Buddha"
+      },
+      "nti sabbaññubuddhaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Dhamma"
+      },
+      "nti svākkhātatādiguṇayuttaṃ dhammaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Saṅgha"
+      },
+      "nti suppaṭipannatādiguṇayuttaṃ saṅghaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Sikkha"
+      },
+      "nti adhisīlādisikkhitabbaṃ sikkhaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Paccakkhāyā"
+      },
+      "ti buddhādiṃ paṭikkhipitvā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Hīnāyā"
+      },
+      "ti hīnatthāya gihibhāvāya. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Āvattitvā"
+      },
+      "ti nivattitvā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Sevati"
+      },
+      " ekavāraṃ sevati. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Nisevati"
+      },
+      " anekavidhena sevati. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Saṃsevati"
+      },
+      " allīyitvā sevati. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Paṭisevati"
+      },
+      " punappunaṃ sevati."
+    ],
+    "innerText": "Ekopaṭikkamatīti ekakova gāmato nivattati. Yo nisevatīti niddesassa uddesapadaṃ. Aparena samayenāti aññasmiṃ kāle aparabhāge. Buddhanti sabbaññubuddhaṃ. Dhammanti svākkhātatādiguṇayuttaṃ dhammaṃ. Saṅghanti suppaṭipannatādiguṇayuttaṃ saṅghaṃ. Sikkhanti adhisīlādisikkhitabbaṃ sikkhaṃ. Paccakkhāyāti buddhādiṃ paṭikkhipitvā. Hīnāyāti hīnatthāya gihibhāvāya. Āvattitvāti nivattitvā. Sevati ekavāraṃ sevati. Nisevati anekavidhena sevati. Saṃsevati allīyitvā sevati. Paṭisevati punappunaṃ sevati."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Bhanta"
+      },
+      "nti vibbhantaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Adanta"
+      },
+      "nti dantabhāvaṃ anupanītaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Akārita"
+      },
+      "nti susikkhitakiriyaṃ asikkhāpitaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Avinīta"
+      },
+      "nti na vinītaṃ ācārasampattiyā asikkhitaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Uppathaṃ gaṇhātī"
+      },
+      "ti vuttappakāraṃ yānaṃ adantātiyuttaṃ bhantaṃ visamamaggaṃ upeti. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Visamaṃ khāṇumpi pāsāṇampi abhiruhatī"
+      },
+      "ti visamaṃ hutvā ṭhitaṃ kharakhāṇumpi tathā ",
+      " pabbatapāsāṇampi ārohati. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Yānampi ārohanakampi bhañjatī"
+      },
+      "ti vayhādiyānaṃ ārohantassa pājentassa hatthapādādimpi bhindati. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Papātepi papatatī"
+      },
+      "ti ekatocchinnapabbhārapapātepi pāteti. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "So vibbhantako"
+      },
+      "ti so paṭikkantako. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Bhantayānapaṭibhāgo"
+      },
+      "ti anavaṭṭhitayānasadiso. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Uppathaṃ gaṇhātī"
+      },
+      "ti kusalakammapathato paṭikkamitvā apāyapathabhūtaṃ uppathaṃ micchāmaggaṃ upeti. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Visamaṃ kāyakammaṃ abhiruhatī"
+      },
+      "ti samassa paṭipakkhaṃ kāyaduccaritasaṅkhātaṃ visamaṃ kāyakammaṃ ārohati. Sesesupi eseva nayo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Niraye attānaṃ bhañjatī"
+      },
+      "ti nirassādasaṅkhāte niraye attabhāvaṃ cuṇṇavicuṇṇaṃ karoti. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Manussaloke attānaṃ bhañjatī"
+      },
+      "ti vividhakammakāraṇavasena bhañjati. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Devaloke attānaṃ bhañjatī"
+      },
+      "ti piyavippayogādidukkhavasena. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Jātipapātampi papatatī"
+      },
+      "ti jātipapātepi pāteti. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Jarāpapātā"
+      },
+      "dīsupi eseva nayo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Manussaloke"
+      },
+      "ti idha adhippetalokameva dasseti."
+    ],
+    "innerText": "Bhantanti vibbhantaṃ. Adantanti dantabhāvaṃ anupanītaṃ. Akāritanti susikkhitakiriyaṃ asikkhāpitaṃ. Avinītanti na vinītaṃ ācārasampattiyā asikkhitaṃ. Uppathaṃ gaṇhātīti vuttappakāraṃ yānaṃ adantātiyuttaṃ bhantaṃ visamamaggaṃ upeti. Visamaṃ khāṇumpi pāsāṇampi abhiruhatīti visamaṃ hutvā ṭhitaṃ kharakhāṇumpi tathā pabbatapāsāṇampi ārohati. Yānampi ārohanakampi bhañjatīti vayhādiyānaṃ ārohantassa pājentassa hatthapādādimpi bhindati. Papātepi papatatīti ekatocchinnapabbhārapapātepi pāteti. So vibbhantakoti so paṭikkantako. Bhantayānapaṭibhāgoti anavaṭṭhitayānasadiso. Uppathaṃ gaṇhātīti kusalakammapathato paṭikkamitvā apāyapathabhūtaṃ uppathaṃ micchāmaggaṃ upeti. Visamaṃ kāyakammaṃ abhiruhatīti samassa paṭipakkhaṃ kāyaduccaritasaṅkhātaṃ visamaṃ kāyakammaṃ ārohati. Sesesupi eseva nayo. Niraye attānaṃ bhañjatīti nirassādasaṅkhāte niraye attabhāvaṃ cuṇṇavicuṇṇaṃ karoti. Manussaloke attānaṃ bhañjatīti vividhakammakāraṇavasena bhañjati. Devaloke attānaṃ bhañjatīti piyavippayogādidukkhavasena. Jātipapātampi papatatīti jātipapātepi pāteti. Jarāpapātādīsupi eseva nayo. Manussaloketi idha adhippetalokameva dasseti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Puthujjanā"
+      },
+      "ti niddesassa uddesapadaṃ. Tattha puthujjanāti –"
+    ],
+    "innerText": "Puthujjanāti niddesassa uddesapadaṃ. Tattha puthujjanāti –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      "Puthūnaṃ ",
+      " jananādīhi, kāraṇehi puthujjano;"
+    ],
+    "innerText": "Puthūnaṃ jananādīhi, kāraṇehi puthujjano;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Puthujjanantogadhattā, puthuvāyaṃ jano iti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "So ",
+      " hi puthūnaṃ nānappakārānaṃ kilesādīnaṃ jananādīhipi kāraṇehi puthujjano. Taṃ vibhāgato dassetuṃ ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "‘‘puthu kilese janentī’’"
+      },
+      "tiādimāha. Tattha bahūnaṃ nānappakārānaṃ sakkāyadiṭṭhīnaṃ avihatattā vā tā janenti, tāhi janitāti vā puthujjanā. Avihatamevatthaṃ janasaddo vadati. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Puthu satthārānaṃ mukhullokikā"
+      },
+      "ti ettha puthū nānājanā satthupaṭiññā etesanti puthujjanāti vacanattho. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Puthu sabbagatīhi avuṭṭhitā"
+      },
+      "ti ettha janetabbā janayanti etthāti janā, gatiyo. Puthū janā etesanti puthujjanā. Ito pare jāyanti etehīti janā, abhisaṅkhārādayo. Te etesaṃ vijjantīti puthujjanā. Abhisaṅkharaṇādiattho eva vā janasaddo daṭṭhabbo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Nānāsantāpehi santapantī"
+      },
+      "ti rāgaggiādayo santāpā. Te eva vā sabbepi vā kilesā pariḷāhā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Puthu"
+      },
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "pañcasu kāmaguṇesū"
+      },
+      "ti ettha jāyatīti jano, rāgo gedhoti evamādiko, puthu jano etesanti puthujjanā. Puthu jātā rattāti evaṃ rāgādiattho eva vā janasaddo daṭṭhabbo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Palibuddhā"
+      },
+      "ti sambaddhā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Āvutā"
+      },
+      "ti āvaritā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Nivutā"
+      },
+      "ti vāritā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Ovutā"
+      },
+      "ti uparito pihitā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Pihitā"
+      },
+      "ti heṭṭhābhāgena pihitā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Paṭicchannā"
+      },
+      "ti apākaṭā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Paṭikujjitā"
+      },
+      "ti adhomukhagatā."
+    ],
+    "innerText": "So hi puthūnaṃ nānappakārānaṃ kilesādīnaṃ jananādīhipi kāraṇehi puthujjano. Taṃ vibhāgato dassetuṃ ‘‘puthu kilese janentī’’tiādimāha. Tattha bahūnaṃ nānappakārānaṃ sakkāyadiṭṭhīnaṃ avihatattā vā tā janenti, tāhi janitāti vā puthujjanā. Avihatamevatthaṃ janasaddo vadati. Puthu satthārānaṃ mukhullokikāti ettha puthū nānājanā satthupaṭiññā etesanti puthujjanāti vacanattho. Puthu sabbagatīhi avuṭṭhitāti ettha janetabbā janayanti etthāti janā, gatiyo. Puthū janā etesanti puthujjanā. Ito pare jāyanti etehīti janā, abhisaṅkhārādayo. Te etesaṃ vijjantīti puthujjanā. Abhisaṅkharaṇādiattho eva vā janasaddo daṭṭhabbo. Nānāsantāpehi santapantīti rāgaggiādayo santāpā. Te eva vā sabbepi vā kilesā pariḷāhā. Puthupañcasu kāmaguṇesūti ettha jāyatīti jano, rāgo gedhoti evamādiko, puthu jano etesanti puthujjanā. Puthu jātā rattāti evaṃ rāgādiattho eva vā janasaddo daṭṭhabbo. Palibuddhāti sambaddhā. Āvutāti āvaritā. Nivutāti vāritā. Ovutāti uparito pihitā. Pihitāti heṭṭhābhāgena pihitā. Paṭicchannāti apākaṭā. Paṭikujjitāti adhomukhagatā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Atha vā puthūnaṃ vā gaṇanapathamatītānaṃ ariyadhammaparammukhānaṃ nīcadhammasamācārānaṃ janānaṃ antogadhattāpi puthujjanā. Puthu vā ayaṃ visuṃyeva saṅkhaṃ gato, visaṃsaṭṭho sīlasutādiguṇayuttehi ariyehi janotipi puthujjano."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Evaṃ ye te –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "‘‘Duve puthujjanā vuttā, buddhenādiccabandhunā;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Andho puthujjano eko, kalyāṇeko puthujjano’’ti. –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "unindented"
+    },
+    "innerText": "Dveva puthujjanā vuttā, tesu andhaputhujjano vutto hotīti veditabbo."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "52"
+      },
+      ".",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Yaso kitti cā"
+      },
+      "ti lābhasakkāro pasaṃsā ca. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Pubbe"
+      },
+      "ti pabbajitabhāve. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Hāyate vāpi tassa sā"
+      },
+      "ti tassa vibbhantakassa sato so ",
+      " ca yaso sā ca kitti hāyati. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Etampi disvā"
+      },
+      "ti ",
+      " etampi pubbe yasakittīnaṃ lābhaṃ pacchā ca hāniṃ disvā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Sikkhetha methunaṃ vippahātave"
+      },
+      "ti tisso sikkhāyo sikkhetha. Kiṃ kāraṇā? ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Methunaṃ vippahātave,"
+      },
+      " methunappahānatthāyāti vuttaṃ hoti."
+    ],
+    "innerText": "52.Yaso kitti cāti lābhasakkāro pasaṃsā ca. Pubbeti pabbajitabhāve. Hāyate vāpi tassa sāti tassa vibbhantakassa sato so ca yaso sā ca kitti hāyati. Etampi disvāti etampi pubbe yasakittīnaṃ lābhaṃ pacchā ca hāniṃ disvā. Sikkhetha methunaṃ vippahātaveti tisso sikkhāyo sikkhetha. Kiṃ kāraṇā? Methunaṃ vippahātave, methunappahānatthāyāti vuttaṃ hoti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Kittivaṇṇagato"
+      },
+      "ti bhagavā kittivaṇṇo, kittisaddañceva guṇañca ukkhipitvā vadanto hotīti attho. Cittaṃ nānānayena kathanaṃ assa atthīti ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "cittakathī. Kalyāṇapaṭibhāno"
+      },
+      "ti sundarapañño."
+    ],
+    "innerText": "Kittivaṇṇagatoti bhagavā kittivaṇṇo, kittisaddañceva guṇañca ukkhipitvā vadanto hotīti attho. Cittaṃ nānānayena kathanaṃ assa atthīti cittakathī. Kalyāṇapaṭibhānoti sundarapañño."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Hāyatī"
+      },
+      "ti niddesassa uddesapadaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Parihāyatī"
+      },
+      "ti samantato hāyati. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Paridhaṃsatī"
+      },
+      "ti adhopathaviṃ patati. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Paripatatī"
+      },
+      "ti ",
+      " samantato apagacchati. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Antaradhāyatī"
+      },
+      "ti adassanaṃ yāti. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Vippalujjatī"
+      },
+      "ti ucchijjati."
+    ],
+    "innerText": "Hāyatīti niddesassa uddesapadaṃ. Parihāyatīti samantato hāyati. Paridhaṃsatīti adhopathaviṃ patati. Paripatatīti samantato apagacchati. Antaradhāyatīti adassanaṃ yāti. Vippalujjatīti ucchijjati."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Khuddako sīlakkhandho"
+      },
+      "ti thullaccayādi. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Mahanto sīlakkhandho"
+      },
+      "ti pārājikasaṃṅghādiseso."
+    ],
+    "innerText": "Khuddako sīlakkhandhoti thullaccayādi. Mahanto sīlakkhandhoti pārājikasaṃṅghādiseso."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Methunadhammassa pahānāyā"
+      },
+      "ti tadaṅgādipahānena pajahanatthāya. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Vūpasamāyā"
+      },
+      "ti malānaṃ vūpasamanatthāya. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Paṭinissaggāyā"
+      },
+      "ti pakkhandanapariccāgapaṭinissaggatthāya. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Paṭipassaddhiyā"
+      },
+      "ti paṭipassaddhisaṅkhātassa phalassa atthāya."
+    ],
+    "innerText": "Methunadhammassa pahānāyāti tadaṅgādipahānena pajahanatthāya. Vūpasamāyāti malānaṃ vūpasamanatthāya. Paṭinissaggāyāti pakkhandanapariccāgapaṭinissaggatthāya. Paṭipassaddhiyāti paṭipassaddhisaṅkhātassa phalassa atthāya."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "53"
+      },
+      ". Yo hi methunaṃ na vippajahati ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "saṅkappehi…pe… tathāvidho"
+      },
+      ". Tattha ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "pareto"
+      },
+      "ti samannāgato. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Paresaṃ nigghosa"
+      },
+      "nti upajjhāyādīnaṃ nindāvacanaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Maṅku hotī"
+      },
+      "ti dummano hoti."
+    ],
+    "innerText": "53. Yo hi methunaṃ na vippajahati saṅkappehi…pe… tathāvidho. Tattha paretoti samannāgato. Paresaṃ nigghosanti upajjhāyādīnaṃ nindāvacanaṃ. Maṅku hotīti dummano hoti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Kāmasaṅkappenā"
+      },
+      "ti kāmapaṭisaṃyuttena vitakkena. Upariṭṭhepi eseva nayo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Phuṭṭho"
+      },
+      "ti vitakkehi phusito. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Pareto"
+      },
+      "ti aparihīno. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Samohito"
+      },
+      "ti sammā ohito anto paviṭṭho. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Kapaṇo viyā"
+      },
+      "ti duggatamanusso viya. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Mando viyā"
+      },
+      "ti aññāṇī viya. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Momūho viyā"
+      },
+      "ti sammohabhūto viya. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Jhāyatī"
+      },
+      "ti cinteti. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Pajjhāyatī"
+      },
+      "ti bhusaṃ cinteti. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Nijjhāyatī"
+      },
+      "ti anekavidhena cinteti. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Apajjhāyatī"
+      },
+      "ti tato apagantvā cinteti. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Ulūko"
+      },
+      "ti ulūkasakuṇo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Rukkhasākhāya"
+      },
+      "nti rukkhe uṭṭhitasākhāya, viṭape vā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Mūsikaṃ magayamāno"
+      },
+      "ti mūsikaṃ gavesamāno, ‘‘maggayamāno’’tipi paṭhanti. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Kotthū"
+      },
+      "ti siṅgālo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Biḷāro"
+      },
+      "ti babbu. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Sandhisamalasaṅkaṭire"
+      },
+      "ti ",
+      " dvinnaṃ gharānaṃ antare ca udakaniddhamanacikkhallakacavaranikkhipanaṭṭhāne ca thaṇḍile ca. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Vahacchinno"
+      },
+      "ti piṭṭhigīvamaṃsacchinno. Ito parā gāthā pākaṭasambandhā eva."
+    ],
+    "innerText": "Kāmasaṅkappenāti kāmapaṭisaṃyuttena vitakkena. Upariṭṭhepi eseva nayo. Phuṭṭhoti vitakkehi phusito. Paretoti aparihīno. Samohitoti sammā ohito anto paviṭṭho. Kapaṇo viyāti duggatamanusso viya. Mando viyāti aññāṇī viya. Momūho viyāti sammohabhūto viya. Jhāyatīti cinteti. Pajjhāyatīti bhusaṃ cinteti. Nijjhāyatīti anekavidhena cinteti. Apajjhāyatīti tato apagantvā cinteti. Ulūkoti ulūkasakuṇo. Rukkhasākhāyanti rukkhe uṭṭhitasākhāya, viṭape vā. Mūsikaṃ magayamānoti mūsikaṃ gavesamāno, ‘‘maggayamāno’’tipi paṭhanti. Kotthūti siṅgālo. Biḷāroti babbu. Sandhisamalasaṅkaṭireti dvinnaṃ gharānaṃ antare ca udakaniddhamanacikkhallakacavaranikkhipanaṭṭhāne ca thaṇḍile ca. Vahacchinnoti piṭṭhigīvamaṃsacchinno. Ito parā gāthā pākaṭasambandhā eva."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "54"
+      },
+      ". Tāsu ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "satthānī"
+      },
+      "ti kāyaduccaritādīni. Tāni hi attano paresañca chedanaṭṭhena ‘‘satthānī’’ti vuccanti. Tesu vāyaṃ visesena tāva ādito musāvacanasatthāneva karoti, ‘‘iminā kāraṇenāhaṃ vibbhanto’’ti bhaṇanto. Tenevāha – ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "‘‘esa khvassa mahāgedho"
+      },
+      ", ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "mosavajjaṃ pagāhatī’’"
+      },
+      "ti. Tattha",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": " esa khvassā"
+      },
+      "ti esa kho assa.",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": " Mahāgedho"
+      },
+      "ti mahābandhanaṃ. Katamoti ce? Yadidaṃ mosavajjaṃ pagāhati, svāyaṃ musāvādajjhogāho ‘‘mahāgedho’’ti veditabbo."
+    ],
+    "innerText": "54. Tāsu satthānīti kāyaduccaritādīni. Tāni hi attano paresañca chedanaṭṭhena ‘‘satthānī’’ti vuccanti. Tesu vāyaṃ visesena tāva ādito musāvacanasatthāneva karoti, ‘‘iminā kāraṇenāhaṃ vibbhanto’’ti bhaṇanto. Tenevāha – ‘‘esa khvassa mahāgedho, mosavajjaṃ pagāhatī’’ti. Tattha esa khvassāti esa kho assa. Mahāgedhoti mahābandhanaṃ. Katamoti ce? Yadidaṃ mosavajjaṃ pagāhati, svāyaṃ musāvādajjhogāho ‘‘mahāgedho’’ti veditabbo."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Tīṇi satthānī"
+      },
+      "ti tayo chedakā. Kāyaduccaritaṃ ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "kāyasatthaṃ. Vacīsatthā"
+      },
+      "dīsupi eseva nayo. Taṃ vibhāgato dassetuṃ ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "‘‘tividhaṃ kāyaduccaritaṃ kāyasattha’’"
+      },
+      "nti āha. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Sampajānamusā bhāsatī"
+      },
+      "ti jānanto tucchaṃ vācaṃ bhāsati. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Abhirato ahaṃ bhante ahosiṃ pabbajjāyā"
+      },
+      "ti sāsane pabbajjāya anabhirativirahito ahaṃ āsiṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Mātā me posetabbā"
+      },
+      "ti mātā mayā posetabbā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Tenamhi vibbhantoti bhaṇatī"
+      },
+      "ti tena kāraṇena paṭikkanto asmītipi katheti. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Pitā me posetabbo"
+      },
+      "tiādīsupi eseva nayo."
+    ],
+    "innerText": "Tīṇi satthānīti tayo chedakā. Kāyaduccaritaṃ kāyasatthaṃ. Vacīsatthādīsupi eseva nayo. Taṃ vibhāgato dassetuṃ ‘‘tividhaṃ kāyaduccaritaṃ kāyasattha’’nti āha. Sampajānamusā bhāsatīti jānanto tucchaṃ vācaṃ bhāsati. Abhirato ahaṃ bhante ahosiṃ pabbajjāyāti sāsane pabbajjāya anabhirativirahito ahaṃ āsiṃ. Mātā me posetabbāti mātā mayā posetabbā. Tenamhi vibbhantoti bhaṇatīti tena kāraṇena paṭikkanto asmītipi katheti. Pitā me posetabbotiādīsupi eseva nayo."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Eso tassa mahāgedho"
+      },
+      "ti tassa puggalassa eso mahābandho. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Mahāvana"
+      },
+      "nti mahantaṃ duṭṭhavanaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Gahana"
+      },
+      "nti duratikkamaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Kantāro"
+      },
+      "ti corakantārādisadiso. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Visamo"
+      },
+      "ti kaṇṭakavisamo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Kuṭilo"
+      },
+      "ti vaṅkakaṭakasadiso. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Paṅko"
+      },
+      "ti pallalasadiso. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Palipo"
+      },
+      "ti kaddamasadiso. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Palibodho"
+      },
+      "ti mahādukkho. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Mahābandhana"
+      },
+      "nti mahantaṃ dumocayabandhanaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Yadidaṃ sampajānamusāvādo"
+      },
+      "ti yo ayaṃ sampajānamusāvādo."
+    ],
+    "innerText": "Eso tassa mahāgedhoti tassa puggalassa eso mahābandho. Mahāvananti mahantaṃ duṭṭhavanaṃ. Gahananti duratikkamaṃ. Kantāroti corakantārādisadiso. Visamoti kaṇṭakavisamo. Kuṭiloti vaṅkakaṭakasadiso. Paṅkoti pallalasadiso. Palipoti kaddamasadiso. Palibodhoti mahādukkho. Mahābandhananti mahantaṃ dumocayabandhanaṃ. Yadidaṃ sampajānamusāvādoti yo ayaṃ sampajānamusāvādo."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Sabhaggato vā"
+      },
+      "ti sabhāyaṃ ṭhito vā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Parisaggato vā"
+      },
+      "ti gāmaparisāyaṃ ṭhito vā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Ñātimajjhagato vā"
+      },
+      "ti dāyādānaṃ majjhe ṭhito vā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Pūgamajjhagato vā"
+      },
+      "ti senīnaṃ majjhe ṭhito vā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Rājakulamajjhagato vā"
+      },
+      "ti rājakulassa majjhe mahāvinicchaye ṭhito vā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Abhinīto"
+      },
+      "ti pucchanatthāya nīto. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Sakkhipuṭṭho"
+      },
+      "ti sakkhiṃ katvā pucchito. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Ehambho purisā"
+      },
+      "ti ",
+      " ālapanametaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Attahetu vā parahetu vā"
+      },
+      "ti attano vā parassa vā hatthapādādihetu vā dhanahetu vā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Āmisakiñcikkhahetu vā"
+      },
+      "ti ettha ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "āmisa"
+      },
+      "nti lābho adhippeto. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Kiñcikkha"
+      },
+      "nti yaṃ vā taṃ vā appamattakaṃ, antamaso tittiravaṭṭakasappipiṇḍanavanītapiṇḍādimattakassapi lābhassa hetūti ",
+      " attho. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Sampajānamusā bhāsatī"
+      },
+      "ti jānantoyeva musāvādaṃ karoti."
+    ],
+    "innerText": "Sabhaggato vāti sabhāyaṃ ṭhito vā. Parisaggato vāti gāmaparisāyaṃ ṭhito vā. Ñātimajjhagato vāti dāyādānaṃ majjhe ṭhito vā. Pūgamajjhagato vāti senīnaṃ majjhe ṭhito vā. Rājakulamajjhagato vāti rājakulassa majjhe mahāvinicchaye ṭhito vā. Abhinītoti pucchanatthāya nīto. Sakkhipuṭṭhoti sakkhiṃ katvā pucchito. Ehambho purisāti ālapanametaṃ. Attahetu vā parahetu vāti attano vā parassa vā hatthapādādihetu vā dhanahetu vā. Āmisakiñcikkhahetu vāti ettha āmisanti lābho adhippeto. Kiñcikkhanti yaṃ vā taṃ vā appamattakaṃ, antamaso tittiravaṭṭakasappipiṇḍanavanītapiṇḍādimattakassapi lābhassa hetūti attho. Sampajānamusā bhāsatīti jānantoyeva musāvādaṃ karoti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Puna aññaṃ pariyāyaṃ dassento ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "‘‘api ca tīhākārehi musāvādo hoti, pubbevassa hotī’’"
+      },
+      "tiādimāha. Tattha ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "tīhākārehī"
+      },
+      "ti sampajānamusāvādassa aṅgabhūtehi tīhi kāraṇehi. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Pubbevassa"
+      },
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "hotī"
+      },
+      "ti pubbabhāgeyeva assa puggalassa evaṃ hoti ‘‘musā bhaṇissa’’nti. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Bhaṇantassa hotī"
+      },
+      "ti bhaṇamānassa hoti. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Bhaṇitassa hotī"
+      },
+      "ti bhaṇite assa hoti. Yaṃ vattabbaṃ tasmiṃ vutte hotīti attho. Atha vā ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "bhaṇitassā"
+      },
+      "ti vuttavato niṭṭhitavacanassa hotīti. Yo evaṃ pubbabhāgepi jānāti, bhaṇantopi jānāti, pacchāpi jānāti ‘‘musā mayā bhaṇita’’nti, so evaṃ vadanto musāvādakammunā bajjhatīti ayamettha attho dassito. Kiñcāpi dassito, atha kho ayamettha viseso – pucchā tāva hoti, ‘‘musā bhaṇissa’’nti pubbabhāgo atthi, ‘‘musā mayā bhaṇita’’nti pacchābhāgo natthi. Vuttamattameva hi koci pamussati kiṃ tassa musāvādo hoti, na hotīti? Sā evaṃ ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "aṭṭhakathāsu"
+      },
+      " vissajjitā – pubbabhāge ‘‘musā bhaṇissa’’nti ca, bhaṇantassa ‘‘musā bhaṇāmī’’ti ca jānato pacchābhāge ‘‘musā mayā bhaṇita’’nti na sakkā na bhavituṃ, sacepi na hoti, musāvādoyeva. Purimameva hi aṅgadvayaṃ pamāṇaṃ. Yassāpi pubbabhāge ‘‘musā bhaṇissa’’nti ābhogo natthi, bhaṇanto pana ‘‘musā bhaṇāmī’’ti jānāti. Bhaṇitepi ‘‘musā mayā bhaṇita’’nti jānāti. So musāvādena na kāretabbo. Pubbabhāgo hi pamāṇataro. Tasmiṃ asati davā bhaṇitaṃ vā, ravā bhaṇitaṃ vā hotīti."
+    ],
+    "innerText": "Puna aññaṃ pariyāyaṃ dassento ‘‘api ca tīhākārehi musāvādo hoti, pubbevassa hotī’’tiādimāha. Tattha tīhākārehīti sampajānamusāvādassa aṅgabhūtehi tīhi kāraṇehi. Pubbevassahotīti pubbabhāgeyeva assa puggalassa evaṃ hoti ‘‘musā bhaṇissa’’nti. Bhaṇantassa hotīti bhaṇamānassa hoti. Bhaṇitassa hotīti bhaṇite assa hoti. Yaṃ vattabbaṃ tasmiṃ vutte hotīti attho. Atha vā bhaṇitassāti vuttavato niṭṭhitavacanassa hotīti. Yo evaṃ pubbabhāgepi jānāti, bhaṇantopi jānāti, pacchāpi jānāti ‘‘musā mayā bhaṇita’’nti, so evaṃ vadanto musāvādakammunā bajjhatīti ayamettha attho dassito. Kiñcāpi dassito, atha kho ayamettha viseso – pucchā tāva hoti, ‘‘musā bhaṇissa’’nti pubbabhāgo atthi, ‘‘musā mayā bhaṇita’’nti pacchābhāgo natthi. Vuttamattameva hi koci pamussati kiṃ tassa musāvādo hoti, na hotīti? Sā evaṃ aṭṭhakathāsu vissajjitā – pubbabhāge ‘‘musā bhaṇissa’’nti ca, bhaṇantassa ‘‘musā bhaṇāmī’’ti ca jānato pacchābhāge ‘‘musā mayā bhaṇita’’nti na sakkā na bhavituṃ, sacepi na hoti, musāvādoyeva. Purimameva hi aṅgadvayaṃ pamāṇaṃ. Yassāpi pubbabhāge ‘‘musā bhaṇissa’’nti ābhogo natthi, bhaṇanto pana ‘‘musā bhaṇāmī’’ti jānāti. Bhaṇitepi ‘‘musā mayā bhaṇita’’nti jānāti. So musāvādena na kāretabbo. Pubbabhāgo hi pamāṇataro. Tasmiṃ asati davā bhaṇitaṃ vā, ravā bhaṇitaṃ vā hotīti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Ettha ca taṃñāṇatā ca ñāṇasamodhānañca pariccajitabbaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Taṃñāṇatā pariccajitabbā"
+      },
+      "ti yena cittena ‘‘musā bhaṇissa’’nti jānāti, teneva ‘‘musā bhaṇāmī’’ti ca, ‘‘musā mayā bhaṇita’’nti ca jānātīti evaṃ ekacitteneva tīsu khaṇesu jānātīti ayaṃ taṃñāṇatā pariccajitabbā. Na ",
+      " hi sakkā teneva cittena taṃ cittaṃ jānituṃ, yathā na sakkā teneva asinā so asi chinditunti. Purimaṃ purimaṃ pana cittaṃ pacchimassa pacchimassa cittassa tathā uppattiyā paccayo hutvā nirujjhati. Tenetaṃ vuccati –"
+    ],
+    "innerText": "Ettha ca taṃñāṇatā ca ñāṇasamodhānañca pariccajitabbaṃ. Taṃñāṇatā pariccajitabbāti yena cittena ‘‘musā bhaṇissa’’nti jānāti, teneva ‘‘musā bhaṇāmī’’ti ca, ‘‘musā mayā bhaṇita’’nti ca jānātīti evaṃ ekacitteneva tīsu khaṇesu jānātīti ayaṃ taṃñāṇatā pariccajitabbā. Na hi sakkā teneva cittena taṃ cittaṃ jānituṃ, yathā na sakkā teneva asinā so asi chinditunti. Purimaṃ purimaṃ pana cittaṃ pacchimassa pacchimassa cittassa tathā uppattiyā paccayo hutvā nirujjhati. Tenetaṃ vuccati –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      "‘‘Pamāṇaṃ ",
+      " pubbabhāgova, tasmiṃ sati na hessati;"
+    ],
+    "innerText": "‘‘Pamāṇaṃ pubbabhāgova, tasmiṃ sati na hessati;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Sesadvayanti nattheta, miti vācā tivaṅgikā’’ti. (pārā. aṭṭha. 2.200);"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Ñāṇasamodhānaṃ pariccajitabbanti etāni tīṇi cittāni ekakkhaṇe uppajjantīti na gahetabbāni. Idañhi cittaṃ nāma –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "‘‘Aniruddhamhi paṭhame, na uppajjati pacchimaṃ;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Nirantaruppajjanato, ekaṃ viya pakāsatī’’ti. (pārā. aṭṭha. 2.200);"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Ito ",
+      " paraṃ pana yvāyaṃ ajānaṃyeva ‘‘jānāmī’’tiādinā nayena sampajānamusā bhaṇati, yasmā so ‘‘idaṃ abhūta’’nti evaṃdiṭṭhiko hoti, tassa hi attheva ayaṃ laddhi. Tathā ‘‘idaṃ abhūta’’nti evamassa khamati ceva ruccati ca. Evamassa saññā, evaṃsabhāvameva cassa cittaṃ ‘‘idaṃ abhūta’’nti. Yadā pana musā vattukāmo hoti, tadā taṃ diṭṭhiṃ vā diṭṭhiyā saha khantiṃ vā diṭṭhikhantīhi saddhiṃ ruciṃ vā diṭṭhikhantirucīhi saddhiṃ saññaṃ vā diṭṭhikhantirucisaññāhi saddhiṃ bhāvaṃ vā vinidhāya nikkhipitvā paṭicchādetvā abhūtaṃ katvā bhaṇati. Tasmā tesampivasena aṅgabhedaṃ dassetuṃ ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "‘‘api ca catūhākārehī’’"
+      },
+      "tiādi vuttaṃ."
+    ],
+    "innerText": "Ito paraṃ pana yvāyaṃ ajānaṃyeva ‘‘jānāmī’’tiādinā nayena sampajānamusā bhaṇati, yasmā so ‘‘idaṃ abhūta’’nti evaṃdiṭṭhiko hoti, tassa hi attheva ayaṃ laddhi. Tathā ‘‘idaṃ abhūta’’nti evamassa khamati ceva ruccati ca. Evamassa saññā, evaṃsabhāvameva cassa cittaṃ ‘‘idaṃ abhūta’’nti. Yadā pana musā vattukāmo hoti, tadā taṃ diṭṭhiṃ vā diṭṭhiyā saha khantiṃ vā diṭṭhikhantīhi saddhiṃ ruciṃ vā diṭṭhikhantirucīhi saddhiṃ saññaṃ vā diṭṭhikhantirucisaññāhi saddhiṃ bhāvaṃ vā vinidhāya nikkhipitvā paṭicchādetvā abhūtaṃ katvā bhaṇati. Tasmā tesampivasena aṅgabhedaṃ dassetuṃ ‘‘api ca catūhākārehī’’tiādi vuttaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Ettha ca ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "vinidhāya diṭṭhi"
+      },
+      "nti balavadhammavinidhānavasenetaṃ vuttaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Vinidhāya khanti"
+      },
+      "ntiādīni tato dubbaladubbalānaṃ vinidhānavasena. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Vinidhāya sañña"
+      },
+      "nti idaṃ panettha sabbadubbaladhammavinidhānavasena. Saññāmattampi nāma avinidhāya sampajānamusā bhāsissatīti netaṃ ṭhānaṃ vijjati."
+    ],
+    "innerText": "Ettha ca vinidhāya diṭṭhinti balavadhammavinidhānavasenetaṃ vuttaṃ. Vinidhāya khantintiādīni tato dubbaladubbalānaṃ vinidhānavasena. Vinidhāya saññanti idaṃ panettha sabbadubbaladhammavinidhānavasena. Saññāmattampi nāma avinidhāya sampajānamusā bhāsissatīti netaṃ ṭhānaṃ vijjati."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "55"
+      },
+      ".",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Mandova parikissatī"
+      },
+      "ti pāṇavadhādīni karonto tatonidānañca dukkhamanubhonto bhogapariyesanārakkhaṇāni ca karonto momūho viya parikilissati."
+    ],
+    "innerText": "55.Mandova parikissatīti pāṇavadhādīni karonto tatonidānañca dukkhamanubhonto bhogapariyesanārakkhaṇāni ca karonto momūho viya parikilissati."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Tamenaṃ rājāno gahetvā vividhā kammakāraṇā kārentī"
+      },
+      "ti na rājāno karonti, rājādhīnapurisā nānāvidhāni kammakāraṇāni karonti. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Kasāhipi"
+      },
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "tāḷentī"
+      },
+      "ti kasādaṇḍakehipi vitajjenti. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Vettehī"
+      },
+      "ti vettalatāhi. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Addhadaṇḍakehī"
+      },
+      "ti ",
+      " muggarehi, pahārasādhanatthaṃ vā catuhatthadaṇḍaṃ dvedhā chetvā gahitadaṇḍakehi. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Bilaṅgathālika"
+      },
+      "nti kañjiyaukkhalikakammakāraṇaṃ. Taṃ ",
+      " karontā sīsakapālaṃ uppāṭetvā tattaṃ ayoguḷaṃ saṇḍāsena gahetvā tattha pakkhipanti, tena matthaluṅgaṃ pakkuṭṭhitvā upari uttarati. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Saṅkhamuṇḍika"
+      },
+      "nti saṅkhamuṇḍakammakāraṇaṃ. Taṃ karontā uttaroṭṭhaubhatokaṇṇacūḷikagalavāṭakaparicchedena cammaṃ chinditvā sabbakese ekato gaṇṭhiṃ katvā daṇḍakena veṭhetvā uppāṭenti, saha kesehi cammaṃ uṭṭhahati. Tato sīsakaṭāhaṃ thūlasakkharāhi ghaṃsitvā dhovantā saṅkhavaṇṇaṃ karonti. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Rāhumukha"
+      },
+      "nti rāhumukhakammakāraṇaṃ. Taṃ karontā saṅkunā mukhaṃ vivaritvā antomukhe dīpaṃ jālenti, kaṇṇacūḷikāhi vā paṭṭhāya mukhaṃ nikhādanena khananti, lohitaṃ paggharitvā mukhaṃ pūreti."
+    ],
+    "innerText": "Tamenaṃ rājāno gahetvā vividhā kammakāraṇā kārentīti na rājāno karonti, rājādhīnapurisā nānāvidhāni kammakāraṇāni karonti. Kasāhipitāḷentīti kasādaṇḍakehipi vitajjenti. Vettehīti vettalatāhi. Addhadaṇḍakehīti muggarehi, pahārasādhanatthaṃ vā catuhatthadaṇḍaṃ dvedhā chetvā gahitadaṇḍakehi. Bilaṅgathālikanti kañjiyaukkhalikakammakāraṇaṃ. Taṃ karontā sīsakapālaṃ uppāṭetvā tattaṃ ayoguḷaṃ saṇḍāsena gahetvā tattha pakkhipanti, tena matthaluṅgaṃ pakkuṭṭhitvā upari uttarati. Saṅkhamuṇḍikanti saṅkhamuṇḍakammakāraṇaṃ. Taṃ karontā uttaroṭṭhaubhatokaṇṇacūḷikagalavāṭakaparicchedena cammaṃ chinditvā sabbakese ekato gaṇṭhiṃ katvā daṇḍakena veṭhetvā uppāṭenti, saha kesehi cammaṃ uṭṭhahati. Tato sīsakaṭāhaṃ thūlasakkharāhi ghaṃsitvā dhovantā saṅkhavaṇṇaṃ karonti. Rāhumukhanti rāhumukhakammakāraṇaṃ. Taṃ karontā saṅkunā mukhaṃ vivaritvā antomukhe dīpaṃ jālenti, kaṇṇacūḷikāhi vā paṭṭhāya mukhaṃ nikhādanena khananti, lohitaṃ paggharitvā mukhaṃ pūreti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Jotimālika"
+      },
+      "nti sakalasarīraṃ telapilotikāya veṭhetvā ālimpenti. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Hatthapajjotika"
+      },
+      "nti hatthe telapilotikāya veṭhetvā dīpaṃ viya pajjālenti. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Erakavattika"
+      },
+      "nti erakavattakammakāraṇaṃ. Taṃ karontā heṭṭhāgīvato paṭṭhāya cammavaṭṭe kantitvā gopphake pātenti. Atha naṃ yottehi bandhitvā kaḍḍhanti. So attano cammavaṭṭe akkamitvā akkamitvā patati. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Cirakavāsika"
+      },
+      "nti cirakavāsikakammakāraṇaṃ. Taṃ karontā tatheva cammavaṭṭe kantitvā kaṭiyaṃ ṭhapenti, kaṭito paṭṭhāya kantitvā gopphakesu ṭhapenti, uparimehi heṭṭhimasarīraṃ cirakanivāsananivatthaṃ viya hoti. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Eṇeyyaka"
+      },
+      "nti eṇeyyakakammakāraṇaṃ. Taṃ karontā ubhosu kapparesu ca ubhosu jaṇṇukesu ca ayavalayāni datvā ayasūlāni koṭṭenti, so catūhi ayasūlehi bhūmiyaṃ patiṭṭhahati. Atha naṃ parivāretvā aggiṃ karonti. ‘‘Eṇeyyako jotipariggaho yathā’’ti āgataṭṭhānepi idameva vuttaṃ. Taṃ sandhito sandhito sūlāni apanetvā catūhi aṭṭhikoṭīhiyeva ṭhapenti. Evarūpā kammakāraṇā nāma natthi."
+    ],
+    "innerText": "Jotimālikanti sakalasarīraṃ telapilotikāya veṭhetvā ālimpenti. Hatthapajjotikanti hatthe telapilotikāya veṭhetvā dīpaṃ viya pajjālenti. Erakavattikanti erakavattakammakāraṇaṃ. Taṃ karontā heṭṭhāgīvato paṭṭhāya cammavaṭṭe kantitvā gopphake pātenti. Atha naṃ yottehi bandhitvā kaḍḍhanti. So attano cammavaṭṭe akkamitvā akkamitvā patati. Cirakavāsikanti cirakavāsikakammakāraṇaṃ. Taṃ karontā tatheva cammavaṭṭe kantitvā kaṭiyaṃ ṭhapenti, kaṭito paṭṭhāya kantitvā gopphakesu ṭhapenti, uparimehi heṭṭhimasarīraṃ cirakanivāsananivatthaṃ viya hoti. Eṇeyyakanti eṇeyyakakammakāraṇaṃ. Taṃ karontā ubhosu kapparesu ca ubhosu jaṇṇukesu ca ayavalayāni datvā ayasūlāni koṭṭenti, so catūhi ayasūlehi bhūmiyaṃ patiṭṭhahati. Atha naṃ parivāretvā aggiṃ karonti. ‘‘Eṇeyyako jotipariggaho yathā’’ti āgataṭṭhānepi idameva vuttaṃ. Taṃ sandhito sandhito sūlāni apanetvā catūhi aṭṭhikoṭīhiyeva ṭhapenti. Evarūpā kammakāraṇā nāma natthi."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Baḷisamaṃsika"
+      },
+      "nti ",
+      " ubhatomukhehi baḷisehi paharitvā cammamaṃsanhārūni uppāṭenti. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Kahāpaṇika"
+      },
+      "nti sakalasarīraṃ tiṇhāhi vāsīhi koṭito paṭṭhāya kahāpaṇamattaṃ kahāpaṇamattaṃ pātentā koṭṭenti. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Khārāpatacchika"
+      },
+      "nti sarīraṃ ",
+      " tattha tattha āvudhehi paharitvā kocchehi khāraṃ ghaṃsenti, cammamaṃsanhārūni paggharitvā pasavanti, aṭṭhikasaṅkhalikāva tiṭṭhati. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Palighaparivattika"
+      },
+      "nti ekena passena nipajjāpetvā kaṇṇacchiddena ayasūlaṃ koṭṭetvā pathaviyā ekābaddhaṃ karonti. Atha naṃ pāde gahetvā āviñchanti. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Palālapīṭhaka"
+      },
+      "nti chekā kāraṇikā chavicammaṃ acchinditvā nisadapotakāhi aṭṭhīni chinditvā kesesu gahetvā ukkhipanti, maṃsarāsiyeva hoti. Atha naṃ keseheva pariyonandhitvā gaṇhanti, palālapīṭhaṃ viya katvā paliveṭhenti. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Sunakhehipī"
+      },
+      "ti katipayāni divasāni āhāraṃ adatvā chātasunakhehi khādāpenti. Te muhuttena aṭṭhisaṅkhalikameva karonti. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Evampi kissatī"
+      },
+      "ti evampi vighātaṃ pāpuṇāti. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Parikissatī"
+      },
+      "ti sabbabhāgena vighātaṃ pāpuṇāti. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Parikilissatī"
+      },
+      "ti upatāpaṃ pāpuṇāti."
+    ],
+    "innerText": "Baḷisamaṃsikanti ubhatomukhehi baḷisehi paharitvā cammamaṃsanhārūni uppāṭenti. Kahāpaṇikanti sakalasarīraṃ tiṇhāhi vāsīhi koṭito paṭṭhāya kahāpaṇamattaṃ kahāpaṇamattaṃ pātentā koṭṭenti. Khārāpatacchikanti sarīraṃ tattha tattha āvudhehi paharitvā kocchehi khāraṃ ghaṃsenti, cammamaṃsanhārūni paggharitvā pasavanti, aṭṭhikasaṅkhalikāva tiṭṭhati. Palighaparivattikanti ekena passena nipajjāpetvā kaṇṇacchiddena ayasūlaṃ koṭṭetvā pathaviyā ekābaddhaṃ karonti. Atha naṃ pāde gahetvā āviñchanti. Palālapīṭhakanti chekā kāraṇikā chavicammaṃ acchinditvā nisadapotakāhi aṭṭhīni chinditvā kesesu gahetvā ukkhipanti, maṃsarāsiyeva hoti. Atha naṃ keseheva pariyonandhitvā gaṇhanti, palālapīṭhaṃ viya katvā paliveṭhenti. Sunakhehipīti katipayāni divasāni āhāraṃ adatvā chātasunakhehi khādāpenti. Te muhuttena aṭṭhisaṅkhalikameva karonti. Evampi kissatīti evampi vighātaṃ pāpuṇāti. Parikissatīti sabbabhāgena vighātaṃ pāpuṇāti. Parikilissatīti upatāpaṃ pāpuṇāti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Puna aññaṃ kāraṇaṃ dassento ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "‘‘atha vā kāmataṇhāya abhibhūto’’"
+      },
+      "tiādimāha. Tattha ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "kāmataṇhāyā"
+      },
+      "ti pañcakāmaguṇikalobhena. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Abhibhūto"
+      },
+      "ti tena maddito. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Pariyādinnacitto"
+      },
+      "ti kusalācāraṃ khepetvā gahitacitto. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Bhoge pariyesanto"
+      },
+      "ti dhanaṃ gavesamāno. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Nāvāya mahāsamuddaṃ pakkhandatī"
+      },
+      "ti taraṇīsaṅkhātāya nāvāya mahantaṃ loṇasāgaraṃ pavisati. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Sītassa purakkhato"
+      },
+      "ti sītaṃ purato katvā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Uṇhassa purakkhato"
+      },
+      "ti uṇhaṃ purato katvā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Ḍaṃsā"
+      },
+      "ti piṅgalamakkhikā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Makasā"
+      },
+      "ti makasā eva. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Pīḷiyamāno"
+      },
+      "ti ḍaṃsādisamphassehi vihesiyamāno. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Khuppipāsāya miyyamāno"
+      },
+      "ti khuddāpipāsāya maramāno. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Tigumbaṃ gacchatī"
+      },
+      "tiādīni ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "mūlapadaṃ gacchatī"
+      },
+      "tipariyosānāni catuvīsati padāni raṭṭhanāmena vuttāni. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Marukantāraṃ"
+      },
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "gacchatī"
+      },
+      "ti vālukakantāraṃ tārakasaññāya gacchati ",
+      ". ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Jaṇṇupatha"
+      },
+      "nti jāṇūhi gantabbamaggaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Ajapatha"
+      },
+      "nti ajehi gantabbamaggaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Meṇḍapathe"
+      },
+      "pi eseva nayo."
+    ],
+    "innerText": "Puna aññaṃ kāraṇaṃ dassento ‘‘atha vā kāmataṇhāya abhibhūto’’tiādimāha. Tattha kāmataṇhāyāti pañcakāmaguṇikalobhena. Abhibhūtoti tena maddito. Pariyādinnacittoti kusalācāraṃ khepetvā gahitacitto. Bhoge pariyesantoti dhanaṃ gavesamāno. Nāvāya mahāsamuddaṃ pakkhandatīti taraṇīsaṅkhātāya nāvāya mahantaṃ loṇasāgaraṃ pavisati. Sītassa purakkhatoti sītaṃ purato katvā. Uṇhassa purakkhatoti uṇhaṃ purato katvā. Ḍaṃsāti piṅgalamakkhikā. Makasāti makasā eva. Pīḷiyamānoti ḍaṃsādisamphassehi vihesiyamāno. Khuppipāsāya miyyamānoti khuddāpipāsāya maramāno. Tigumbaṃ gacchatītiādīni mūlapadaṃ gacchatītipariyosānāni catuvīsati padāni raṭṭhanāmena vuttāni. Marukantāraṃgacchatīti vālukakantāraṃ tārakasaññāya gacchati . Jaṇṇupathanti jāṇūhi gantabbamaggaṃ. Ajapathanti ajehi gantabbamaggaṃ. Meṇḍapathepi eseva nayo."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Saṅkupatha"
+      },
+      "nti khāṇuke koṭṭetvā tehi uggamitabbaṃ khāṇumaggaṃ, taṃ gacchanto pabbatapāde ṭhatvā ayasiṅghāṭakaṃ yottena bandhitvā uddhaṃ khipitvā pabbate laggāpetvā yottenāruyha vajiraggena lohadaṇḍena pabbataṃ vijjhitvā khāṇukaṃ koṭṭetvā tattha ṭhatvā siṅghāṭakaṃ ākaḍḍhitvā puna upari laggāpetvā tattha ṭhito cammayottaṃ olambetvā taṃ ādāya otaritvā heṭṭhimakhāṇuke bandhitvā vāmahatthena yottaṃ gahetvā dakkhiṇahatthena muggaraṃ ādāya yottaṃ paharitvā khāṇukaṃ nīharitvā puna ",
+      " abhiruhati. Etenupāyena pabbatamatthakaṃ abhiruyha parato otaranto purimanayeneva paṭhamaṃ pabbatamatthake khāṇukaṃ koṭṭetvā cammapasibbake yottaṃ bandhitvā khāṇuke veṭhetvā sayaṃ antopasibbake nisīditvā makkaṭakānaṃ suttavissajjanākārena yottaṃ viniveṭhetvā otarati. Tena vuttaṃ – ‘‘khāṇuke koṭṭetvā tehi uggamitabbaṃ khāṇumagga’’nti. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Chattapatha"
+      },
+      "nti cammachattena vātaṃ gāhāpetvā sakuṇehi viya otaritabbaṃ maggaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Vaṃsapatha"
+      },
+      "nti veṇugumbachedanasatthena chinditvā rukkhaṃ pharasunā koṭṭetvā maggaṃ karonto veḷuvane nisseṇiṃ katvā veḷugumbe āruyha veḷuṃ chinditvā aparassa veḷugumbassa upari pātetvā veḷugumbamatthakeneva gantabbaṃ maggaṃ sandhāya ‘‘vaṃsapathaṃ gacchatī’’ti vuttanti veditabbaṃ."
+    ],
+    "innerText": "Saṅkupathanti khāṇuke koṭṭetvā tehi uggamitabbaṃ khāṇumaggaṃ, taṃ gacchanto pabbatapāde ṭhatvā ayasiṅghāṭakaṃ yottena bandhitvā uddhaṃ khipitvā pabbate laggāpetvā yottenāruyha vajiraggena lohadaṇḍena pabbataṃ vijjhitvā khāṇukaṃ koṭṭetvā tattha ṭhatvā siṅghāṭakaṃ ākaḍḍhitvā puna upari laggāpetvā tattha ṭhito cammayottaṃ olambetvā taṃ ādāya otaritvā heṭṭhimakhāṇuke bandhitvā vāmahatthena yottaṃ gahetvā dakkhiṇahatthena muggaraṃ ādāya yottaṃ paharitvā khāṇukaṃ nīharitvā puna abhiruhati. Etenupāyena pabbatamatthakaṃ abhiruyha parato otaranto purimanayeneva paṭhamaṃ pabbatamatthake khāṇukaṃ koṭṭetvā cammapasibbake yottaṃ bandhitvā khāṇuke veṭhetvā sayaṃ antopasibbake nisīditvā makkaṭakānaṃ suttavissajjanākārena yottaṃ viniveṭhetvā otarati. Tena vuttaṃ – ‘‘khāṇuke koṭṭetvā tehi uggamitabbaṃ khāṇumagga’’nti. Chattapathanti cammachattena vātaṃ gāhāpetvā sakuṇehi viya otaritabbaṃ maggaṃ. Vaṃsapathanti veṇugumbachedanasatthena chinditvā rukkhaṃ pharasunā koṭṭetvā maggaṃ karonto veḷuvane nisseṇiṃ katvā veḷugumbe āruyha veḷuṃ chinditvā aparassa veḷugumbassa upari pātetvā veḷugumbamatthakeneva gantabbaṃ maggaṃ sandhāya ‘‘vaṃsapathaṃ gacchatī’’ti vuttanti veditabbaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Gavesanto na vindati, alābhamūlakampi dukkhaṃ domanassaṃ paṭisaṃvedetī"
+      },
+      "ti avindanamūlakampi kāyikacetasikaṃ dukkhaṃ paṭilabhati."
+    ],
+    "innerText": "Gavesanto na vindati, alābhamūlakampi dukkhaṃ domanassaṃ paṭisaṃvedetīti avindanamūlakampi kāyikacetasikaṃ dukkhaṃ paṭilabhati."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Laddhā"
+      },
+      "ti labhitvā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Ārakkhamūlaka"
+      },
+      "nti rakkhaṇamūlakampi. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Kinti me bhoge"
+      },
+      "ti kena upāyena mama bhoge. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Neva rājāno hareyyuṃ…pe… na appiyā dāyādā hareyyu"
+      },
+      "nti. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Gopayato"
+      },
+      "ti mañjūsādīhi gopayantassa. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Vippalujjantī"
+      },
+      "ti vinassanti."
+    ],
+    "innerText": "Laddhāti labhitvā. Ārakkhamūlakanti rakkhaṇamūlakampi. Kinti me bhogeti kena upāyena mama bhoge. Neva rājāno hareyyuṃ…pe… na appiyā dāyādā hareyyunti. Gopayatoti mañjūsādīhi gopayantassa. Vippalujjantīti vinassanti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "56"
+      },
+      ".",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Etamādīnavaṃ"
+      },
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "ñatvā, muni pubbāpare idhā"
+      },
+      "ti etaṃ ‘‘yaso kitti ca yā pubbe, hāyate vāpi tassa sā’’ti ito pabhuti vutte pubbāpare idha imasmiṃ sāsane pubbato apare samaṇabhāvato vibbhantakabhāve ādīnavaṃ muni ñatvā."
+    ],
+    "innerText": "56.Etamādīnavaṃñatvā, muni pubbāpare idhāti etaṃ ‘‘yaso kitti ca yā pubbe, hāyate vāpi tassa sā’’ti ito pabhuti vutte pubbāpare idha imasmiṃ sāsane pubbato apare samaṇabhāvato vibbhantakabhāve ādīnavaṃ muni ñatvā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Daḷhaṃ kareyyā"
+      },
+      "ti niddesapadassa uddesapadaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Thiraṃ kareyyā"
+      },
+      "ti asithilaṃ kareyya. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Daḷhaṃ samādāno assā"
+      },
+      "ti thirapaṭiñño bhaveyya. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Avaṭṭhitasamādāno"
+      },
+      "ti sanniṭṭhānapaṭiñño."
+    ],
+    "innerText": "Daḷhaṃ kareyyāti niddesapadassa uddesapadaṃ. Thiraṃ kareyyāti asithilaṃ kareyya. Daḷhaṃ samādāno assāti thirapaṭiñño bhaveyya. Avaṭṭhitasamādānoti sanniṭṭhānapaṭiñño."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "57"
+      },
+      ".",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Etaṃ"
+      },
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "ariyānamuttama"
+      },
+      "nti yadidaṃ vivekacariyā, etaṃ buddhādīnaṃ ariyānaṃ uttamaṃ. Tasmā vivekaṃyeva sikkhethāti adhippāyo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Na tena seṭṭho maññethā"
+      },
+      "ti tena ca vivekena attānaṃ ‘‘seṭṭho aha’’nti na maññeyya, tena mānathaddho na bhaveyyāti vuttaṃ hoti."
+    ],
+    "innerText": "57.Etaṃariyānamuttamanti yadidaṃ vivekacariyā, etaṃ buddhādīnaṃ ariyānaṃ uttamaṃ. Tasmā vivekaṃyeva sikkhethāti adhippāyo. Na tena seṭṭho maññethāti tena ca vivekena attānaṃ ‘‘seṭṭho aha’’nti na maññeyya, tena mānathaddho na bhaveyyāti vuttaṃ hoti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Unnati"
+      },
+      "nti ",
+      " ussāpanaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Unnama"
+      },
+      "nti uggantvā paṭṭhapanaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Māna"
+      },
+      "nti ahaṃkāraṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Thāma"
+      },
+      "nti balakkāraṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Thambha"
+      },
+      "nti thaddhakaraṇaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Thaddho"
+      },
+      "ti amaddavo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Patthaddho"
+      },
+      "ti visesena amaddavo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Paggahitasiro"
+      },
+      "ti uṭṭhitasīso. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Sāmantā"
+      },
+      "ti na ārakā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Āsanne"
+      },
+      "ti na dūre. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Avidūre"
+      },
+      "ti samīpe. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Upakaṭṭhe"
+      },
+      "ti santike."
+    ],
+    "innerText": "Unnatinti ussāpanaṃ. Unnamanti uggantvā paṭṭhapanaṃ. Mānanti ahaṃkāraṃ. Thāmanti balakkāraṃ. Thambhanti thaddhakaraṇaṃ. Thaddhoti amaddavo. Patthaddhoti visesena amaddavo. Paggahitasiroti uṭṭhitasīso. Sāmantāti na ārakā. Āsanneti na dūre. Avidūreti samīpe. Upakaṭṭheti santike."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "58"
+      },
+      ".",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Rittassā"
+      },
+      "ti vivittassa, kāyaduccaritādīhi virahitassa. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Oghatiṇṇassa pihayanti, kāmesu gadhitā pajā"
+      },
+      "ti vatthukāmesu laggā sattā tassa caturoghatiṇṇassa pihayanti iṇāyikā viya āṇaṇyassāti arahattanikūṭena desanaṃ niṭṭhāpesi."
+    ],
+    "innerText": "58.Rittassāti vivittassa, kāyaduccaritādīhi virahitassa. Oghatiṇṇassa pihayanti, kāmesu gadhitā pajāti vatthukāmesu laggā sattā tassa caturoghatiṇṇassa pihayanti iṇāyikā viya āṇaṇyassāti arahattanikūṭena desanaṃ niṭṭhāpesi."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Rittassā"
+      },
+      "ti sabbakilesehi tucchassa. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Vivittassā"
+      },
+      "ti suññassa. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Pavivittassā"
+      },
+      "ti ekakassa. Idāni yehi ritto hoti, te dassento ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "‘‘kāyaduccaritena rittassā’’"
+      },
+      "tiādimāha. Tattha kilesapaṭipāṭiyā maggapaṭipāṭiyāti dvidhā rittatā veditabbā. Kilesapaṭipāṭiyā tāva rāgo moho thambho sārambho māno madoti, imehi chahi kilesehi arahattamaggena ritto hoti; doso kodho upanāho pamādoti, imehi catūhi kilesehi anāgāmimaggena ",
+      " ritto hoti; atimāno makkho paḷāso issā macchariyaṃ māyā sāṭheyyanti, imehi sattahi sotāpattimaggena ritto hoti."
+    ],
+    "innerText": "Rittassāti sabbakilesehi tucchassa. Vivittassāti suññassa. Pavivittassāti ekakassa. Idāni yehi ritto hoti, te dassento ‘‘kāyaduccaritena rittassā’’tiādimāha. Tattha kilesapaṭipāṭiyā maggapaṭipāṭiyāti dvidhā rittatā veditabbā. Kilesapaṭipāṭiyā tāva rāgo moho thambho sārambho māno madoti, imehi chahi kilesehi arahattamaggena ritto hoti; doso kodho upanāho pamādoti, imehi catūhi kilesehi anāgāmimaggena ritto hoti; atimāno makkho paḷāso issā macchariyaṃ māyā sāṭheyyanti, imehi sattahi sotāpattimaggena ritto hoti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Maggapaṭipāṭiyā pana sotāpattimaggena atimāno makkho paḷāso issā macchariyaṃ māyā sāṭheyyanti; imehi sattahi ritto hoti, anāgāmimaggena doso kodho upanāho pamādoti, imehi catūhi ritto hoti; arahattamaggena rāgo moho thambho sārambho māno madoti, imehi chahi ritto hoti. Tīṇi duccaritāni sabbakilesehītiādinā nayena avasesāpi yathāyogaṃ yojetabbā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Vatthukāme"
+      },
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "parijānitvā"
+      },
+      "ti tebhūmake vatthukāme ñātatīraṇapariññāhi samāpanavasena jānitvā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Kilesakāme pahāyā"
+      },
+      "ti chandādayo kilesakāme pahānapariññāya jahitvā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Byantiṃ karitvā"
+      },
+      "ti vigatantaṃ vigatakoṭiṃ karitvā."
+    ],
+    "innerText": "Vatthukāmeparijānitvāti tebhūmake vatthukāme ñātatīraṇapariññāhi samāpanavasena jānitvā. Kilesakāme pahāyāti chandādayo kilesakāme pahānapariññāya jahitvā. Byantiṃ karitvāti vigatantaṃ vigatakoṭiṃ karitvā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Kāmoghaṃ"
+      },
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "tiṇṇassā"
+      },
+      "ti anāgāmimaggena avasānasaṅkhātaṃ kāmoghaṃ taritvā ṭhitassa. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Bhavogha"
+      },
+      "nti arahattamaggena. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Diṭṭhogha"
+      },
+      "nti sotāpattimaggena. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Avijjogha"
+      },
+      "nti arahattamaggena. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Sabbaṃ saṃsārapatha"
+      },
+      "nti sabbakhandhadhātuāyatanapaṭipāṭisaṅkhātaṃ pathaṃ arahattamaggeneva taritvā ṭhitassa. Sotāpattimaggena ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "uttiṇṇassa"
+      },
+      ". Sakadāgāmimaggena ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "nittiṇṇassa"
+      },
+      ". Anāgāmimaggena kāmadhātuṃ ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "atikkantassa"
+      },
+      ". Arahattamaggena sabbabhavaṃ ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "samatikkantassa"
+      },
+      ". Phalasamāpattivasena ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "vītivattassa. Pāraṃgatassā"
+      },
+      "tiādīni nibbānavasena vuttāni. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Yathā iṇāyikā āṇaṇya"
+      },
+      "nti pavaḍḍhakaiṇaṃ ādāya vicarantā āṇaṇyaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Patthentī"
+      },
+      "ti patthanaṃ uppādenti. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Ābādhikā ārogya"
+      },
+      "nti pittādirogāturo bhesajjakiriyāya taṃrogavūpasamanatthaṃ ārogyaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Yathā bandhanabaddhā"
+      },
+      "ti nakkhattadivase bandhanāgāre baddhapurisā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Yathā dāsā bhujissa"
+      },
+      "nti yasmā bhujissā purisā yaṃ icchanti, taṃ karonti, na naṃ koci balakkārena tato nivatteti, tasmā dāsā bhujissabhāvaṃ patthenti. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Yathā kantāraddhānapakkhandā"
+      },
+      "ti yasmā balavanto purisā hatthabhāraṃ gahetvā sajjāvudhā saparivārā ",
+      " kantāraṃ paṭipajjanti, te corā dūratova disvā palāyanti. Te sotthinā kantāraṃ nittharitvā khemantaṃ patvā haṭṭhatuṭṭhā honti. Tasmā kantārapakkhandā khemantabhūmiṃ patthenti. Desanāpariyosāne tisso sotāpattiphalaṃ patvā pacchā pabbajitvā arahattaṃ sacchākāsi."
+    ],
+    "innerText": "Kāmoghaṃtiṇṇassāti anāgāmimaggena avasānasaṅkhātaṃ kāmoghaṃ taritvā ṭhitassa. Bhavoghanti arahattamaggena. Diṭṭhoghanti sotāpattimaggena. Avijjoghanti arahattamaggena. Sabbaṃ saṃsārapathanti sabbakhandhadhātuāyatanapaṭipāṭisaṅkhātaṃ pathaṃ arahattamaggeneva taritvā ṭhitassa. Sotāpattimaggena uttiṇṇassa. Sakadāgāmimaggena nittiṇṇassa. Anāgāmimaggena kāmadhātuṃ atikkantassa. Arahattamaggena sabbabhavaṃ samatikkantassa. Phalasamāpattivasena vītivattassa. Pāraṃgatassātiādīni nibbānavasena vuttāni. Yathā iṇāyikā āṇaṇyanti pavaḍḍhakaiṇaṃ ādāya vicarantā āṇaṇyaṃ. Patthentīti patthanaṃ uppādenti. Ābādhikā ārogyanti pittādirogāturo bhesajjakiriyāya taṃrogavūpasamanatthaṃ ārogyaṃ. Yathā bandhanabaddhāti nakkhattadivase bandhanāgāre baddhapurisā. Yathā dāsā bhujissanti yasmā bhujissā purisā yaṃ icchanti, taṃ karonti, na naṃ koci balakkārena tato nivatteti, tasmā dāsā bhujissabhāvaṃ patthenti. Yathā kantāraddhānapakkhandāti yasmā balavanto purisā hatthabhāraṃ gahetvā sajjāvudhā saparivārā kantāraṃ paṭipajjanti, te corā dūratova disvā palāyanti. Te sotthinā kantāraṃ nittharitvā khemantaṃ patvā haṭṭhatuṭṭhā honti. Tasmā kantārapakkhandā khemantabhūmiṃ patthenti. Desanāpariyosāne tisso sotāpattiphalaṃ patvā pacchā pabbajitvā arahattaṃ sacchākāsi."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Saddhammapajjotikāya mahāniddesaṭṭhakathāya"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Tissametteyyasuttaniddesavaṇṇanā niṭṭhitā."
+  }
+]

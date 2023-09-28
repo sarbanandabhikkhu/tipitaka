@@ -1,0 +1,56 @@
+[
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "chapter"
+    },
+    "innerText": "(13) 3. Parisuddhavaggavaṇṇanā"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "123"
+      },
+      ". Tatiyassa ",
+      " paṭhame ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "parisuddhā"
+      },
+      "ti nimmalā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Pariyodātā"
+      },
+      "ti pabhassarā. Dutiyādīni uttānatthānevāti."
+    ],
+    "innerText": "123. Tatiyassa paṭhame parisuddhāti nimmalā. Pariyodātāti pabhassarā. Dutiyādīni uttānatthānevāti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Parisuddhavaggo tatiyo."
+  }
+]

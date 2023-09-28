@@ -1,0 +1,45 @@
+[
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "chapter"
+    },
+    "innerText": "(28) 8. Rāgapeyyālavaṇṇanā"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "274-783"
+      },
+      ". Rāgapeyyālaṃ arahattaṃ pāpetvā kathitaṃ. Sesaṃ sabbattha uttānatthamevāti."
+    ],
+    "innerText": "274-783. Rāgapeyyālaṃ arahattaṃ pāpetvā kathitaṃ. Sesaṃ sabbattha uttānatthamevāti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Manorathapūraṇiyā aṅguttaranikāya-aṭṭhakathāya"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Catukkanipātassa saṃvaṇṇanā niṭṭhitā."
+  }
+]

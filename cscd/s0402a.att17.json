@@ -1,0 +1,522 @@
+[
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "chapter"
+    },
+    "innerText": "3. Vinayapeyyālaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "201"
+      },
+      ".",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Dveme"
+      },
+      ", ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "bhikkhave, atthavase paṭiccā"
+      },
+      "ti, bhikkhave, dve atthe nissāya dve kāraṇāni sandhāya. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Sikkhāpadaṃ paññatta"
+      },
+      "nti sikkhākoṭṭhāso ṭhapito. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Saṅghasuṭṭhutāyā"
+      },
+      "ti saṅghassa suṭṭhubhāvāya, ‘‘suṭṭhu, bhante’’ti vatvā sampaṭicchanatthāyāti attho. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Saṅghaphāsutāyā"
+      },
+      "ti saṅghassa phāsuvihāratthāya. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Dummaṅkūna"
+      },
+      "nti dussīlānaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Pesalāna"
+      },
+      "nti pīyasīlānaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Diṭṭhadhammikānaṃ āsavāna"
+      },
+      "nti diṭṭhadhamme imasmiṃyeva attabhāve vītikkamapaccayā paṭiladdhabbānaṃ vadhabandhanādidukkhadhammasaṅkhātānaṃ āsavānaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Saṃvarāyā"
+      },
+      "ti pidahanatthāya. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Samparāyikāna"
+      },
+      "nti ",
+      " tathārūpānaṃyeva apāyadukkhasaṅkhātānaṃ samparāye uppajjanakaāsavānaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Paṭighātāyā"
+      },
+      "ti paṭisedhanatthāya. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Verāna"
+      },
+      "nti akusalaverānampi puggalaverānampi. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Vajjāna"
+      },
+      "nti dosānaṃ. Te eva vā dukkhadhammā vajjanīyattā idha vajjāti adhippetā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Bhayāna"
+      },
+      "nti cittutrāsabhayānampi bhayahetūnaṃ tesaṃyeva dukkhadhammānampi. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Akusalāna"
+      },
+      "nti akkhamaṭṭhena akusalasaṅkhātānaṃ dukkhadhammānaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Gihīnaṃ anukampāyā"
+      },
+      "ti gihīsu ujjhāyantesu paññattasikkhāpadaṃ gihīnaṃ anukampāya paññattaṃ nāma. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Pāpicchānaṃ pakkhupacchedāyā"
+      },
+      "ti pāpicchā pakkhaṃ nissāya saṅghaṃ bhindeyyunti tesaṃ pakkhupacchedanatthāya. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Appasannānaṃ pasādāyā"
+      },
+      "ti pubbe appasannānampi paṇḍitamanussānaṃ sikkhāpadapaññattisampadaṃ disvā pasāduppattiatthāya. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Pasannānaṃ bhiyyobhāvāyā"
+      },
+      "ti pasannānaṃ uparūparipasādabhāvāya. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Saddhammaṭṭhitiyā"
+      },
+      "ti saddhammassa ciraṭṭhitatthaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Vinayānuggahāyā"
+      },
+      "ti pañcavidhassāpi vinayassa anuggaṇhanatthāya."
+    ],
+    "innerText": "201.Dveme, bhikkhave, atthavase paṭiccāti, bhikkhave, dve atthe nissāya dve kāraṇāni sandhāya. Sikkhāpadaṃ paññattanti sikkhākoṭṭhāso ṭhapito. Saṅghasuṭṭhutāyāti saṅghassa suṭṭhubhāvāya, ‘‘suṭṭhu, bhante’’ti vatvā sampaṭicchanatthāyāti attho. Saṅghaphāsutāyāti saṅghassa phāsuvihāratthāya. Dummaṅkūnanti dussīlānaṃ. Pesalānanti pīyasīlānaṃ. Diṭṭhadhammikānaṃ āsavānanti diṭṭhadhamme imasmiṃyeva attabhāve vītikkamapaccayā paṭiladdhabbānaṃ vadhabandhanādidukkhadhammasaṅkhātānaṃ āsavānaṃ. Saṃvarāyāti pidahanatthāya. Samparāyikānanti tathārūpānaṃyeva apāyadukkhasaṅkhātānaṃ samparāye uppajjanakaāsavānaṃ. Paṭighātāyāti paṭisedhanatthāya. Verānanti akusalaverānampi puggalaverānampi. Vajjānanti dosānaṃ. Te eva vā dukkhadhammā vajjanīyattā idha vajjāti adhippetā. Bhayānanti cittutrāsabhayānampi bhayahetūnaṃ tesaṃyeva dukkhadhammānampi. Akusalānanti akkhamaṭṭhena akusalasaṅkhātānaṃ dukkhadhammānaṃ. Gihīnaṃ anukampāyāti gihīsu ujjhāyantesu paññattasikkhāpadaṃ gihīnaṃ anukampāya paññattaṃ nāma. Pāpicchānaṃ pakkhupacchedāyāti pāpicchā pakkhaṃ nissāya saṅghaṃ bhindeyyunti tesaṃ pakkhupacchedanatthāya. Appasannānaṃ pasādāyāti pubbe appasannānampi paṇḍitamanussānaṃ sikkhāpadapaññattisampadaṃ disvā pasāduppattiatthāya. Pasannānaṃ bhiyyobhāvāyāti pasannānaṃ uparūparipasādabhāvāya. Saddhammaṭṭhitiyāti saddhammassa ciraṭṭhitatthaṃ. Vinayānuggahāyāti pañcavidhassāpi vinayassa anuggaṇhanatthāya."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "202-230"
+      },
+      ".",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Pātimokkhaṃ paññatta"
+      },
+      "nti bhikkhupātimokkhaṃ bhikkhunipātimokkhanti duvidhaṃ pātimokkhaṃ paññattaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Pātimokkhuddeso"
+      },
+      "ti ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "bhikkhūnaṃ pañca, bhikkhunīnaṃ cattāroti nava pātimokkhuddesā paññattā. Pātimokkhaṭṭhapana"
+      },
+      "nti uposathaṭṭhapanaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Pavāraṇā paññattā"
+      },
+      "ti cātuddasikā pannarasikāti dve pavāraṇā paññattā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Pavāraṇaṭṭhapanaṃ paññatta"
+      },
+      "nti sāpattikassa bhikkhuno pavāraṇā uttiyā vattamānāya pavāraṇaṭṭhapanaṃ paññattaṃ. Tajjanīyakammādīsu ",
+      " bhikkhū vācāsattīhi vitudantānaṃ paṇḍukalohitakānaṃ bhikkhūnaṃ ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "tajjanīyakammaṃ"
+      },
+      " (cūḷava. 1 ādayo) paññattaṃ. Bālassa ",
+      " abyattassa seyyasakassa ",
+      " bhikkhuno ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "niyassakammaṃ"
+      },
+      " paññattaṃ. Kuladūsake assajipunabbasuke bhikkhū ārabbha ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "pabbājanīyakammaṃ"
+      },
+      " (cūḷava. 21 ādayo) paññattaṃ. Gihīnaṃ akkosakassa sudhammattherassa ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "paṭisāraṇīyakammaṃ"
+      },
+      " (cūḷava. 33 ādayo) paññattaṃ. Āpattiyā adassanādīsu ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "ukkhepanīyakammaṃ"
+      },
+      " paññattaṃ. Garukāpattiṃ āpannassa paṭicchannāya āpattiyā ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "parivāsadānaṃ"
+      },
+      " paññattaṃ. Parivāse antarāpattiṃ āpannassa ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "mūlāya paṭikassanaṃ"
+      },
+      " paññattaṃ. Paṭicchannāyapi appaṭicchannāyapi āpattiyā ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "mānattadānaṃ"
+      },
+      " paññattaṃ. Ciṇṇamānattassa ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "abbhānaṃ"
+      },
+      " paññattaṃ. Sammā vattantassa ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "osāraṇīyaṃ"
+      },
+      " paññattaṃ. Asammāvattanādīsu ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "nissāraṇīyaṃ"
+      },
+      " paññattaṃ."
+    ],
+    "innerText": "202-230.Pātimokkhaṃ paññattanti bhikkhupātimokkhaṃ bhikkhunipātimokkhanti duvidhaṃ pātimokkhaṃ paññattaṃ. Pātimokkhuddesoti bhikkhūnaṃ pañca, bhikkhunīnaṃ cattāroti nava pātimokkhuddesā paññattā. Pātimokkhaṭṭhapananti uposathaṭṭhapanaṃ. Pavāraṇā paññattāti cātuddasikā pannarasikāti dve pavāraṇā paññattā. Pavāraṇaṭṭhapanaṃ paññattanti sāpattikassa bhikkhuno pavāraṇā uttiyā vattamānāya pavāraṇaṭṭhapanaṃ paññattaṃ. Tajjanīyakammādīsu bhikkhū vācāsattīhi vitudantānaṃ paṇḍukalohitakānaṃ bhikkhūnaṃ tajjanīyakammaṃ (cūḷava. 1 ādayo) paññattaṃ. Bālassa abyattassa seyyasakassa bhikkhuno niyassakammaṃ paññattaṃ. Kuladūsake assajipunabbasuke bhikkhū ārabbha pabbājanīyakammaṃ (cūḷava. 21 ādayo) paññattaṃ. Gihīnaṃ akkosakassa sudhammattherassa paṭisāraṇīyakammaṃ (cūḷava. 33 ādayo) paññattaṃ. Āpattiyā adassanādīsu ukkhepanīyakammaṃ paññattaṃ. Garukāpattiṃ āpannassa paṭicchannāya āpattiyā parivāsadānaṃ paññattaṃ. Parivāse antarāpattiṃ āpannassa mūlāya paṭikassanaṃ paññattaṃ. Paṭicchannāyapi appaṭicchannāyapi āpattiyā mānattadānaṃ paññattaṃ. Ciṇṇamānattassa abbhānaṃ paññattaṃ. Sammā vattantassa osāraṇīyaṃ paññattaṃ. Asammāvattanādīsu nissāraṇīyaṃ paññattaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Ehibhikkhūpasampadā saraṇagamanūpasampadā ovādūpasampadā pañhābyākaraṇūpasampadā ñatticatutthakammūpasampadā garudhammūpasampadā ubhatosaṅghe upasampadā dūtena upasampadāti aṭṭhavidhā ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "upasampadā"
+      },
+      " paññattā. Ñattikammaṃ nava ṭhānāni gacchatīti evaṃ navaṭṭhānikaṃ ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "ñattikammaṃ"
+      },
+      " paññattaṃ. Ñattidutiyakammaṃ satta ṭhānāni gacchatīti evaṃ sattaṭṭhānikameva ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "ñattidutiyakammaṃ"
+      },
+      " paññattaṃ. Ñatticatutthakammaṃ satta ṭhānāni gacchatīti evaṃ sattaṭṭhānikameva ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "ñatticatutthakammaṃ"
+      },
+      " paññattaṃ. Paṭhamapārājikādīnaṃ paṭhamapaññatti ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "apaññatte paññattaṃ"
+      },
+      ". Tesaṃyeva anupaññatti ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "paññatte anupaññattaṃ"
+      },
+      ". Dhammasammukhatā vinayasammukhatā saṅghasammukhatā puggalasammukhatāti imassa catubbidhassa sammukhībhāvassa vasena ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "sammukhāvinayo"
+      },
+      " paññatto. Sativepullappattassa khīṇāsavassa acodanatthāya ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "sativinayo"
+      },
+      " paññatto. Ummattakassa ",
+      " bhikkhuno ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "amūḷhavinayo"
+      },
+      " paññatto. Appaṭiññāya cuditakassa āpattiyā ataraṇatthaṃ ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "paṭiññātakaraṇaṃ"
+      },
+      " paññattaṃ. Bahutarānaṃ dhammavādīnaṃ laddhiṃ gahetvā adhikaraṇavūpasamanatthaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Yebhuyyasikā"
+      },
+      " paññattā. Pāpussannassa puggalassa niggaṇhanatthaṃ ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "tassapāpiyasikā"
+      },
+      " paññattā. Bhaṇḍanādivasena bahuṃ assāmaṇakaṃ katvā āpattiṃ āpannānaṃ bhikkhūnaṃ ṭhapetvā thullavajjaṃ ṭhapetvā gihipaṭisaṃyuttañca avasesāpattīnaṃ vūpasamanatthāya ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "tiṇavatthārako"
+      },
+      " paññatto."
+    ],
+    "innerText": "Ehibhikkhūpasampadā saraṇagamanūpasampadā ovādūpasampadā pañhābyākaraṇūpasampadā ñatticatutthakammūpasampadā garudhammūpasampadā ubhatosaṅghe upasampadā dūtena upasampadāti aṭṭhavidhā upasampadā paññattā. Ñattikammaṃ nava ṭhānāni gacchatīti evaṃ navaṭṭhānikaṃ ñattikammaṃ paññattaṃ. Ñattidutiyakammaṃ satta ṭhānāni gacchatīti evaṃ sattaṭṭhānikameva ñattidutiyakammaṃ paññattaṃ. Ñatticatutthakammaṃ satta ṭhānāni gacchatīti evaṃ sattaṭṭhānikameva ñatticatutthakammaṃ paññattaṃ. Paṭhamapārājikādīnaṃ paṭhamapaññatti apaññatte paññattaṃ. Tesaṃyeva anupaññatti paññatte anupaññattaṃ. Dhammasammukhatā vinayasammukhatā saṅghasammukhatā puggalasammukhatāti imassa catubbidhassa sammukhībhāvassa vasena sammukhāvinayo paññatto. Sativepullappattassa khīṇāsavassa acodanatthāya sativinayo paññatto. Ummattakassa bhikkhuno amūḷhavinayo paññatto. Appaṭiññāya cuditakassa āpattiyā ataraṇatthaṃ paṭiññātakaraṇaṃ paññattaṃ. Bahutarānaṃ dhammavādīnaṃ laddhiṃ gahetvā adhikaraṇavūpasamanatthaṃ. Yebhuyyasikā paññattā. Pāpussannassa puggalassa niggaṇhanatthaṃ tassapāpiyasikā paññattā. Bhaṇḍanādivasena bahuṃ assāmaṇakaṃ katvā āpattiṃ āpannānaṃ bhikkhūnaṃ ṭhapetvā thullavajjaṃ ṭhapetvā gihipaṭisaṃyuttañca avasesāpattīnaṃ vūpasamanatthāya tiṇavatthārako paññatto."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Vinayapeyyālaṃ niṭṭhitaṃ."
+  }
+]

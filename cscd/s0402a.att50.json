@@ -1,0 +1,295 @@
+[
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "chapter"
+    },
+    "innerText": "(15) 5. Ābhāvaggo"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "1. Ābhāsuttavaṇṇanā"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "141"
+      },
+      ". Pañcamassa ",
+      " paṭhame ābhāsanavasena candova ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "candābhā"
+      },
+      ". Sesapadesupi eseva nayo."
+    ],
+    "innerText": "141. Pañcamassa paṭhame ābhāsanavasena candova candābhā. Sesapadesupi eseva nayo."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "2-5. Pabhāsuttādivaṇṇanā"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "142-145"
+      },
+      ". Dutiyādīsupi pabhāsanavasena candova ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "candappabhā"
+      },
+      ". Ālokanavasena candova ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "candāloko"
+      },
+      ". Obhāsanavasena candova ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "candobhāso"
+      },
+      ". Pajjotanavasena candova ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "candapajjoto"
+      },
+      "ti. Evaṃ sabbapadesupi attho veditabbo."
+    ],
+    "innerText": "142-145. Dutiyādīsupi pabhāsanavasena candova candappabhā. Ālokanavasena candova candāloko. Obhāsanavasena candova candobhāso. Pajjotanavasena candova candapajjototi. Evaṃ sabbapadesupi attho veditabbo."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "6. Paṭhamakālasuttavaṇṇanā"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "146"
+      },
+      ". Chaṭṭhe ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "kālā"
+      },
+      "ti yuttappayuttakālā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Kālena dhammassavana"
+      },
+      "nti yuttappayuttakāle dhammassavanaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Dhammasākacchā"
+      },
+      "ti pañhapucchanavissajjanavasena pavattā saṃsandanakathā."
+    ],
+    "innerText": "146. Chaṭṭhe kālāti yuttappayuttakālā. Kālena dhammassavananti yuttappayuttakāle dhammassavanaṃ. Dhammasākacchāti pañhapucchanavissajjanavasena pavattā saṃsandanakathā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "7. Dutiyakālasuttavaṇṇanā"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "147"
+      },
+      ". Sattame ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "kālā"
+      },
+      "ti tasmiṃ tasmiṃ kāle dhammassavanādivasena pavattānaṃ kusaladhammānaṃ etaṃ adhivacanaṃ. Te bhāviyanti ceva anuparivattiyanti ca. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Āsavānaṃ"
+      },
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "khaya"
+      },
+      "nti arahattaṃ. Aṭṭhamaṃ uttānatthameva."
+    ],
+    "innerText": "147. Sattame kālāti tasmiṃ tasmiṃ kāle dhammassavanādivasena pavattānaṃ kusaladhammānaṃ etaṃ adhivacanaṃ. Te bhāviyanti ceva anuparivattiyanti ca. Āsavānaṃkhayanti arahattaṃ. Aṭṭhamaṃ uttānatthameva."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "subhead"
+    },
+    "innerText": "9-10. Sucaritasuttādivaṇṇanā"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "149-150"
+      },
+      ". Navame ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "saṇhā vācā"
+      },
+      "ti mudukavācā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Mantabhāsā"
+      },
+      "ti mantasaṅkhātāya paññāya paricchinditvā kathitakathā. Dasame ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "sīlasāro"
+      },
+      "ti sārasampāpakaṃ sīlaṃ. Sesesupi eseva nayo."
+    ],
+    "innerText": "149-150. Navame saṇhā vācāti mudukavācā. Mantabhāsāti mantasaṅkhātāya paññāya paricchinditvā kathitakathā. Dasame sīlasāroti sārasampāpakaṃ sīlaṃ. Sesesupi eseva nayo."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Ābhāvaggo pañcamo."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Tatiyapaṇṇāsakaṃ niṭṭhitaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "4. Catutthapaṇṇāsakaṃ"
+  }
+]

@@ -1,0 +1,131 @@
+[
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "chapter"
+    },
+    "innerText": "17-18. Peyyālavaggādivaṇṇanā"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "164-184"
+      },
+      ".",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Samanuñño"
+      },
+      "ti ",
+      " samānajjhāsayo. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Rāgassā"
+      },
+      "ti pañcakāmaguṇikarāgassa. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Abhiññāyā"
+      },
+      "ti abhijānanatthaṃ. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Suññato samādhī"
+      },
+      "tiādīhi tīhipi samādhīhi vipassanāva kathitā. Vipassanā hi niccābhinivesa-niccanimitta-niccapaṇidhiādīnaṃ abhāvā imāni nāmāni labhati. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Pariññāyā"
+      },
+      "ti parijānanatthaṃ. Sesapadesupi eseva nayoti."
+    ],
+    "innerText": "164-184.Samanuññoti samānajjhāsayo. Rāgassāti pañcakāmaguṇikarāgassa. Abhiññāyāti abhijānanatthaṃ. Suññato samādhītiādīhi tīhipi samādhīhi vipassanāva kathitā. Vipassanā hi niccābhinivesa-niccanimitta-niccapaṇidhiādīnaṃ abhāvā imāni nāmāni labhati. Pariññāyāti parijānanatthaṃ. Sesapadesupi eseva nayoti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Peyyālavaggādi niṭṭhitā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Manorathapūraṇiyā aṅguttaranikāya-aṭṭhakathāya"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Tikanipātassa saṃvaṇṇanā niṭṭhitā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Namo tassa bhagavato arahato sammāsambuddhassa"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "nikaya"
+    },
+    "innerText": "Aṅguttaranikāye"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "book"
+    },
+    "innerText": "Catukkanipāta-aṭṭhakathā"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "title"
+    },
+    "innerText": "1. Paṭhamapaṇṇāsakaṃ"
+  }
+]

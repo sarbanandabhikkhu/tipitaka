@@ -1,5 +1,9 @@
-import filetree from "./utils/filetree.js";
-import content from "./utils/content.js";
+// import filetree from "./lib/filetree.js";
+import breadcrumbs from "./lib/breadcrumbs.js";
+import content from "./lib/content.js";
+
+// https://sarbanandabhikkhu.github.io/tipitaka-xml/lib/clickWord.js
+import dictionaries from "./lib/dictionaries.js";
 
 document.addEventListener("DOMContentLoaded", () => {
   const header = document.createElement("header");
@@ -11,6 +15,8 @@ document.addEventListener("DOMContentLoaded", () => {
   document.body.appendChild(aside);
   document.body.appendChild(main);
 
-  filetree.init();
+  // filetree.init();
+  breadcrumbs.init();
   content.init();
+  dictionaries.init();
 });

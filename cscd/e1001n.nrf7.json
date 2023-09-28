@@ -1,0 +1,197 @@
+[
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "chapter"
+    },
+    "innerText": "Puttakaṇḍa"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "281"
+      },
+      "."
+    ],
+    "innerText": "281."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      " Abhijātaṃ ",
+      " anujātaṃ, puttamicchanti paṇḍitā;"
+    ],
+    "innerText": "Abhijātaṃ anujātaṃ, puttamicchanti paṇḍitā;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Avajātaṃ na icchanti, yo hoti kulagandhano."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "282"
+      },
+      "."
+    ],
+    "innerText": "282."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      " Pañcaṭṭhānāni ",
+      " sampassaṃ, puttamicchanti paṇḍitā;"
+    ],
+    "innerText": "Pañcaṭṭhānāni sampassaṃ, puttamicchanti paṇḍitā;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Bhato vā no bharissati, kiccaṃ vā no karissati."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "283"
+      },
+      "."
+    ],
+    "innerText": "283."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Kulavaṃso ciraṃ tiṭṭhe, dāyajjaṃ paṭipajjati;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Atha vā pana petānaṃ, dakkhinaṃ anupadassati."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "284"
+      },
+      "."
+    ],
+    "innerText": "284."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      " Bahuputte ",
+      " pitā eko, avassaṃ poseti sadā;"
+    ],
+    "innerText": "Bahuputte pitā eko, avassaṃ poseti sadā;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Bahuputtā na sakkonti, posetuṃ pitarekakaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "285"
+      },
+      "."
+    ],
+    "innerText": "285."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Puttaṃ vā bhātaraṃ duṭṭhu, anusāseyya no jahe;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Kinnu chejjaṃ karaṃ pādaṃ, littaṃ asucinā siyā."
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "chapter"
+    },
+    "children": [
+      "Juhotyā’dayo ",
+      " sadvibhāvaluttavikaraṇā."
+    ],
+    "innerText": "Juhotyā’dayo sadvibhāvaluttavikaraṇā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "hangnum"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "100"
+      },
+      "."
+    ],
+    "innerText": "100."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Hū dāne’(pi ca) ādāne havyadāne (ca vattate,)"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Hā cāge kamu yātrāyaṃ dā dāne dhā (ca) dhāraṇe;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Avikaraṇabhūvādayo samattā."
+  }
+]

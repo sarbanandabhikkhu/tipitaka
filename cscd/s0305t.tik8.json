@@ -1,0 +1,38 @@
+[
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "chapter"
+    },
+    "innerText": "9. Jhānasaṃyuttavaṇṇanā"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "923"
+      },
+      ". Jhānasaṃyuttaṃ ",
+      " suviññeyyameva, missakanti vadanti."
+    ],
+    "innerText": "923. Jhānasaṃyuttaṃ suviññeyyameva, missakanti vadanti."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Jhānasaṃyuttavaṇṇanā niṭṭhitā."
+  }
+]

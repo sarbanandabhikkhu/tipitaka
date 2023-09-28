@@ -1,0 +1,92 @@
+[
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "chapter"
+    },
+    "innerText": "2. Akusalapeyyālaṃ"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "191-200"
+      },
+      ".",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Sāvajjā"
+      },
+      "ti ",
+      " sadosā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Anavajjā"
+      },
+      "ti niddosā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Dukkhudrayā"
+      },
+      "ti dukkhavaḍḍhikā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Sukhudriyā"
+      },
+      "ti sukhavaḍḍhikā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Sabyābajjhā"
+      },
+      "ti sadukkhā. ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Abyābajjhā"
+      },
+      "ti niddukkhā. Ettāvatā vaṭṭavivaṭṭameva kathitaṃ."
+    ],
+    "innerText": "191-200.Sāvajjāti sadosā. Anavajjāti niddosā. Dukkhudrayāti dukkhavaḍḍhikā. Sukhudriyāti sukhavaḍḍhikā. Sabyābajjhāti sadukkhā. Abyābajjhāti niddukkhā. Ettāvatā vaṭṭavivaṭṭameva kathitaṃ."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "centered"
+    },
+    "innerText": "Akusalapeyyālaṃ niṭṭhitaṃ."
+  }
+]

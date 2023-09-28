@@ -1,0 +1,197 @@
+[
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "chapter"
+    },
+    "innerText": "Tannissayo"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Kiṃ nissāya kato"
+      },
+      "ti etassapi pañhassa attho ācariyeneva pakāsito. Vuttañhi ettha ganthārambhe –"
+    ],
+    "innerText": "Kiṃ nissāya katoti etassapi pañhassa attho ācariyeneva pakāsito. Vuttañhi ettha ganthārambhe –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "indent"
+    },
+    "children": [
+      "‘‘Mahāvihāravāsīnaṃ, desanānayanissita’’nti ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[visuddhi. 1.2]"
+      },
+      "."
+    ],
+    "innerText": "‘‘Mahāvihāravāsīnaṃ, desanānayanissita’’nti [visuddhi. 1.2]."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "innerText": "Tathā nigamanepi –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "‘‘Tesaṃ sīlādibhedānaṃ, atthānaṃ yo vinicchayo;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "Pañcannampi nikāyānaṃ,"
+      },
+      " vutto aṭṭhakathānaye."
+    ],
+    "innerText": "Pañcannampi nikāyānaṃ, vutto aṭṭhakathānaye."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Samāharitvā taṃ sabbaṃ, yebhuyyena sanicchayo;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "children": [
+      "Sabbasaṅkaradosehi, mutto yasmā pakāsito’’ti ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[dī. ni. aṭṭha. 1.ganthārambhakathā]"
+      },
+      "."
+    ],
+    "innerText": "Sabbasaṅkaradosehi, mutto yasmā pakāsito’’ti [dī. ni. aṭṭha. 1.ganthārambhakathā]."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Iminā ",
+      " pana vacanena ayamattho pākaṭo hoti – ‘‘visuddhimaggaṃ kurumāno ācariyo mahāvihāravāsīnaṃ desanānayasaṅkhātā pañcannampi nikāyānaṃ porāṇaṭṭhakathāyo nissāya tāsu vuttaṃ gahetabbaṃ sabbaṃ vinicchayaṃ samāharitvā akāsī’’ti. Tasmā yā yā ettha padavaṇṇanā vā vinicchayo vā sādhakavatthu vā dassīyati, taṃ sabbaṃ tassa tassa niddhāritapāḷipadassanikāyasaṃvaṇṇanābhūtāya porāṇasīhaḷaṭṭhakathāto ānetvā bhāsāparivattanavaseneva dassitanti veditabbaṃ. Ayampi hi visuddhimaggo na kevalaṃ attano ñāṇappabhāvena kato, visuṃ pakaraṇabhāvena ca, atha kho catunnampi āgamaṭṭhakathānaṃ ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "bld"
+        },
+        "innerText": "avayavabhāveneva"
+      },
+      " kato. Vuttañhi tāsaṃ nigamane –"
+    ],
+    "innerText": "Iminā pana vacanena ayamattho pākaṭo hoti – ‘‘visuddhimaggaṃ kurumāno ācariyo mahāvihāravāsīnaṃ desanānayasaṅkhātā pañcannampi nikāyānaṃ porāṇaṭṭhakathāyo nissāya tāsu vuttaṃ gahetabbaṃ sabbaṃ vinicchayaṃ samāharitvā akāsī’’ti. Tasmā yā yā ettha padavaṇṇanā vā vinicchayo vā sādhakavatthu vā dassīyati, taṃ sabbaṃ tassa tassa niddhāritapāḷipadassanikāyasaṃvaṇṇanābhūtāya porāṇasīhaḷaṭṭhakathāto ānetvā bhāsāparivattanavaseneva dassitanti veditabbaṃ. Ayampi hi visuddhimaggo na kevalaṃ attano ñāṇappabhāvena kato, visuṃ pakaraṇabhāvena ca, atha kho catunnampi āgamaṭṭhakathānaṃ avayavabhāveneva kato. Vuttañhi tāsaṃ nigamane –"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "‘‘Ekūnasaṭṭhimatto, visuddhimaggopi bhāṇavārehi;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Atthappakāsanatthāya, āgamānaṃ kato yasmā."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Tasmā tena sahāyaṃ, aṭṭhakathā bhāṇavāragaṇanāya;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "children": [
+      "Suparimitaparicchinnaṃ, cattālīsasataṃ hotī’’tiādi ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[dī. ni. aṭṭha. 3.nigamanakathā]"
+      },
+      "."
+    ],
+    "innerText": "Suparimitaparicchinnaṃ, cattālīsasataṃ hotī’’tiādi [dī. ni. aṭṭha. 3.nigamanakathā]."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      "Yā pana visuddhimagge maggāmaggañāṇadassanavisuddhiniddese ‘‘ayaṃ tāva visuddhikathāyaṃ nayo. Ariyavaṃsakathāyaṃ panā’’tiādinā ",
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "note"
+        },
+        "innerText": "[visuddhi. 2.717]"
+      },
+      " dve kathā vuttā, tāpi mahāvihāravāsīnaṃ desanānaye antogadhā imassa visuddhimaggassa nissayāyevāti veditabbāti."
+    ],
+    "innerText": "Yā pana visuddhimagge maggāmaggañāṇadassanavisuddhiniddese ‘‘ayaṃ tāva visuddhikathāyaṃ nayo. Ariyavaṃsakathāyaṃ panā’’tiādinā [visuddhi. 2.717] dve kathā vuttā, tāpi mahāvihāravāsīnaṃ desanānaye antogadhā imassa visuddhimaggassa nissayāyevāti veditabbāti."
+  }
+]

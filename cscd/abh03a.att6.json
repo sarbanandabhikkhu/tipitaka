@@ -1,0 +1,98 @@
+[
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "chapter"
+    },
+    "innerText": "Kathāvatthu-aṭṭhakathā"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      "Nisinno ",
+      " devalokasmiṃ, devasaṅghapurakkhato;"
+    ],
+    "innerText": "Nisinno devalokasmiṃ, devasaṅghapurakkhato;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Sadevakassa lokassa, satthā appaṭipuggalo."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Sabbapaññattikusalo, paññattiparidīpanaṃ;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Vatvā puggalapaññattiṃ, loke uttamapuggalo."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Yaṃ puggalakathādīnaṃ, kathānaṃ vatthubhāvato;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Kathāvatthuppakaraṇaṃ, saṅkhepena adesayī."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "children": [
+      "Mātikāṭhapaneneva ",
+      ", ṭhapitassa surālaye;"
+    ],
+    "innerText": "Mātikāṭhapaneneva , ṭhapitassa surālaye;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Tassa moggaliputtena, vibhattassa mahītale."
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gatha1"
+    },
+    "innerText": "Idāni yasmā sampatto, atthasaṃvaṇṇanākkamo;"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "gathalast"
+    },
+    "innerText": "Tasmā naṃ vaṇṇayissāmi, taṃ suṇātha samāhitāti."
+  }
+]

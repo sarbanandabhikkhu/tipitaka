@@ -1,0 +1,30 @@
+[
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "chapter"
+    },
+    "innerText": "(27) 7. Kammapathavaggavaṇṇanā"
+  },
+  {
+    "tagName": "p",
+    "attributes": {
+      "name": "class",
+      "value": "bodytext"
+    },
+    "children": [
+      {
+        "tagName": "span",
+        "attributes": {
+          "name": "class",
+          "value": "paranum"
+        },
+        "innerText": "264-273"
+      },
+      ". Kammapathavaggepi ",
+      " dasapi kammapathā lokiyalokuttaramissakāva kathitā."
+    ],
+    "innerText": "264-273. Kammapathavaggepi dasapi kammapathā lokiyalokuttaramissakāva kathitā."
+  }
+]
