@@ -1,0 +1,134 @@
+.layout__container {
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+}
+
+.layout__container > header {
+  grid-area: h;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: rgba(240, 240, 240, 0.9);
+  backdrop-filter: blur(25px) saturate(2.5);
+}
+.layout__container > header .menu-icon,
+.layout__container > header .item-icon {
+  width: 35px;
+  height: 30px;
+  padding: 3px 10px;
+  margin-bottom: -3px;
+}
+
+.layout__container > nav {
+  grid-area: n;
+  background-color: rgba(255, 255, 255, 0.9);
+  backdrop-filter: blur(25px) saturate(2.5);
+}
+.layout__container > .navigation .nav-header {
+  width: 100%;
+  height: 30px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  background-color: rgba(240, 240, 240, 0.9);
+  backdrop-filter: blur(25px) saturate(2.5);
+}
+
+.layout__container > main {
+  grid-area: m;
+  overflow-y: scroll;
+  background-color: rgba(255, 255, 255, 0.9);
+  backdrop-filter: blur(25px) saturate(2.5);
+}
+
+.layout__container > footer {
+  grid-area: f;
+  background-color: #8cffa0;
+}
+
+@media only screen and (orientation: portrait) {
+  .layout__container {
+    grid-template-areas:
+      "h h h h h h h h h h"
+      "m m m m m m m m m m"
+      "f f f f f f f f f f";
+    grid-template-rows: 30px auto 0;
+  }
+
+  .layout__container > nav {
+    position: fixed;
+    z-index: 999;
+    width: 300px;
+    height: 100vh;
+    left: -300px;
+    transition: left 0.1s cubic-bezier(0.36, -0.01, 0, 0.77);
+  }
+
+  .layout__container > .navigation .nav-closer {
+    position: absolute;
+    top: 0;
+    left: 300px;
+    width: 0;
+    height: 100vh;
+    opacity: 0;
+    background-color: rgba(0, 0, 0, 0.1);
+    transition: opacity 0.1s ease-in;
+  }
+}
+
+@media only screen and (orientation: landscape) {
+  .layout__container {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    grid-template-areas:
+      "n n n h h h h h h h"
+      "n n n m m m m m m m"
+      "f f f f f f f f f f";
+    grid-template-rows: 30px auto 20px;
+  }
+
+  .layout__container > nav {
+    width: 100%;
+    background-color: rgba(245, 245, 245, 0.9);
+    backdrop-filter: blur(25px) saturate(2.5);
+  }
+  .layout__container > .navigation .nav-header {
+  }
+  .layout__container > header .nav-opener,
+  .layout__container > .navigation .nav-closer {
+    display: none;
+  }
+  .layout__container > main {
+    height: calc(100% - 50px);
+    overflow-y: scroll;
+  }
+  .layout__container > footer {
+  }
+}
+
+@media only screen and (min-width: 960px) {
+  /* styles for browsers larger than 960px; */
+}
+@media only screen and (min-width: 1440px) {
+  /* styles for browsers larger than 1440px; */
+}
+@media only screen and (min-width: 2000px) {
+  /* for sumo sized (mac) screens */
+}
+@media only screen and (max-device-width: 480px) {
+  /* styles for mobile browsers smaller than 480px; (iPhone) */
+}
+@media only screen and (device-width: 768px) {
+  /* default iPad screens */
+}
+/* different techniques for iPad screening */
+@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation: portrait) {
+  /* For portrait layouts only */
+}
+
+@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation: landscape) {
+  /* For landscape layouts only */
+}

@@ -1,0 +1,138 @@
+{
+  "name": "Tipiṭaka (CSCD)",
+  "short_name": "Tipitaka",
+  "theme_color": "#C9A401",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "display_override": [],
+  "id": ".",
+  "scope": ".",
+  "start_url": ".",
+  "icons": [
+    {
+      "src": "./assets/dhammawheel.svg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "./assets/dhammawheel.svg",
+      "type": "image/svg+xml",
+      "sizes": "48x48"
+    },
+    {
+      "src": "./assets/dhammawheel.svg",
+      "type": "image/svg+xml",
+      "sizes": "72x72"
+    },
+    {
+      "src": "./assets/dhamma-wheel.svg",
+      "type": "image/svg+xml",
+      "sizes": "96x96"
+    },
+    {
+      "src": "./assets/dhammawheel.svg",
+      "type": "image/svg+xml",
+      "sizes": "128x128"
+    },
+    {
+      "src": "./assets/dhammawheel.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./assets/dhammawheel.svg",
+      "type": "image/svg+xml",
+      "sizes": "384x384"
+    },
+    {
+      "src": "./assets/dhammawheel.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/512-maskable.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/1024.png",
+      "type": "image/png",
+      "sizes": "1024x1024",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Home page",
+      "short_name": "Home",
+      "description": "Go to Home page",
+      "url": "./",
+      "icons": [
+        {
+          "src": "./assets/dhammawheel.svg",
+          "type": "image/svg+xml",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "About page",
+      "short_name": "About",
+      "description": "Go to About page",
+      "url": "./about",
+      "icons": [
+        {
+          "src": "./assets/file.svg",
+          "type": "image/svg+xml",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Contact page",
+      "short_name": "Contact",
+      "description": "Go to Contact page",
+      "url": "./contact",
+      "icons": [
+        {
+          "src": "./assets/document.svg",
+          "type": "image/svg+xml",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "The Pāḷi Tipiṭaka",
+      "short_name": "Pāḷi Tipiṭaka",
+      "description": "Go to Pāḷi Tipiṭaka Website",
+      "url": "https://tipitaka.org/",
+      "icons": [
+        {
+          "src": "./assets/dhammawheel.svg",
+          "type": "image/svg+xml",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "./assets/screenshot01.png",
+      "type": "image/png",
+      "sizes": "1080x2131"
+    },
+    {
+      "src": "./assets/screenshot02.png",
+      "type": "image/png",
+      "sizes": "1080x2131"
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "play",
+      "url": "https://play.google.com/store/apps/details?id=BuddhistMonk"
+    }
+  ]
+}
