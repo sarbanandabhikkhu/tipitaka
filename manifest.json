@@ -1,66 +1,78 @@
 {
   "name": "Tipiṭaka (CSCD)",
-  "short_name": "Tipitaka",
-  "theme_color": "#C9A401",
-  "background_color": "#ffffff",
+  "short_name": "Tipiṭaka",
+  "theme_color": "#c9a401",
+  "background_color": "#c9a401",
   "display": "standalone",
   "display_override": [],
-  "id": ".",
-  "scope": ".",
-  "start_url": ".",
+  "id": "./?source=pwa",
+  "start_url": "./?source=pwa", // https://sarbanandabhikkhu.github.io/
+  "scope": "./", // https://sarbanandabhikkhu.github.io/tipitaka/
+  "lang": "en",
+  "dir": "ltr",
   "icons": [
     {
-      "src": "./assets/dhammawheel.svg",
+      "src": "./assets/png/favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/svg+xml"
+      "type": "image/x-icon"
     },
     {
-      "src": "./assets/dhammawheel.svg",
-      "type": "image/svg+xml",
+      "src": "./assets/png/favicon.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/png/logo-x48.png",
+      "type": "image/png",
       "sizes": "48x48"
     },
     {
-      "src": "./assets/dhammawheel.svg",
-      "type": "image/svg+xml",
+      "src": "./assets/png/logo-x72.png",
+      "type": "image/png",
       "sizes": "72x72"
     },
     {
-      "src": "./assets/dhamma-wheel.svg",
-      "type": "image/svg+xml",
+      "src": "./assets/png/logo-x96.png",
+      "type": "image/png",
       "sizes": "96x96"
     },
     {
-      "src": "./assets/dhammawheel.svg",
-      "type": "image/svg+xml",
+      "src": "./assets/png/logo-x128.png",
+      "type": "image/png",
       "sizes": "128x128"
     },
     {
-      "src": "./assets/dhammawheel.svg",
-      "type": "image/svg+xml",
+      "src": "./assets/png/logo-x192.png",
+      "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "./assets/dhammawheel.svg",
-      "type": "image/svg+xml",
+      "src": "./assets/png/logo-x384.png",
+      "type": "image/png",
       "sizes": "384x384"
     },
     {
-      "src": "./assets/dhammawheel.svg",
-      "type": "image/svg+xml",
-      "sizes": "512x512",
-      "purpose": "any"
+      "src": "./assets/png/logo-x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
     },
     {
-      "src": "/icons/512-maskable.png",
+      "src": "./assets/png/maskable.png",
       "type": "image/png",
-      "sizes": "512x512",
+      "sizes": "1024x1024",
       "purpose": "maskable"
     },
     {
-      "src": "icons/1024.png",
+      "src": "./assets/png/adaptive.png",
       "type": "image/png",
       "sizes": "1024x1024",
-      "purpose": "any maskable"
+      "purpose": "maskable"
+    },
+    {
+      "src": "./assets/png/logo.png",
+      "type": "image/png",
+      "sizes": "1024x1024",
+      "purpose": "any"
     }
   ],
   "shortcuts": [
@@ -68,11 +80,11 @@
       "name": "Home page",
       "short_name": "Home",
       "description": "Go to Home page",
-      "url": "./",
+      "url": "./?source=pwa",
       "icons": [
         {
           "src": "./assets/dhammawheel.svg",
-          "type": "image/svg+xml",
+          "type": "image/png",
           "sizes": "192x192"
         }
       ]
@@ -81,11 +93,11 @@
       "name": "About page",
       "short_name": "About",
       "description": "Go to About page",
-      "url": "./about",
+      "url": "./about?source=pwa",
       "icons": [
         {
           "src": "./assets/file.svg",
-          "type": "image/svg+xml",
+          "type": "image/png",
           "sizes": "192x192"
         }
       ]
@@ -94,45 +106,134 @@
       "name": "Contact page",
       "short_name": "Contact",
       "description": "Go to Contact page",
-      "url": "./contact",
+      "url": "./contact?source=pwa",
       "icons": [
         {
           "src": "./assets/document.svg",
-          "type": "image/svg+xml",
-          "sizes": "192x192"
-        }
-      ]
-    },
-    {
-      "name": "The Pāḷi Tipiṭaka",
-      "short_name": "Pāḷi Tipiṭaka",
-      "description": "Go to Pāḷi Tipiṭaka Website",
-      "url": "https://tipitaka.org/",
-      "icons": [
-        {
-          "src": "./assets/dhammawheel.svg",
-          "type": "image/svg+xml",
+          "type": "image/png",
           "sizes": "192x192"
         }
       ]
     }
   ],
+  "categories": [
+    "buddha",
+    "buddhism",
+    "buddhist",
+    "theravada",
+    "tipiṭaka",
+    "pāḷi",
+    "canon",
+    "sanskrit",
+    "scripture",
+    "literature",
+    "wisdom",
+    "insight",
+    "mindfulness",
+    "maditation",
+    "vipassana",
+    "buddhist monk"
+  ],
+  "description": "This Application provides a digital reproduction of the authenticated Tipitaka texts from the Chaṭṭha Saṅgāyana CD. This application made by SarbaNanda Bhikkhu based on Pāḷi Tipiṭaka published by Vipassana Research Institute. The Pāḷi Tipiṭaka is presented in roman scripts to bengali and chakma scripts, so that the words of the Buddha are easily read available for all bengali and chakma communities.\nThis is a Progressive Web Application which will work in offline. This project is currently under development so it may not work properly.\n\nThanks All.\n— SarbaNanda Bhikkhu",
   "screenshots": [
     {
-      "src": "./assets/screenshot01.png",
+      "src": "./assets/png/splashscreen.png",
       "type": "image/png",
-      "sizes": "1080x2131"
+      "sizes": "1080x2123",
+      "form_factor": "narrow",
+      "label": "Awesome splashscreen view"
     },
     {
-      "src": "./assets/screenshot02.png",
+      "src": "./assets/png/mobile.png",
       "type": "image/png",
-      "sizes": "1080x2131"
+      "sizes": "360x720",
+      "form_factor": "narrow",
+      "label": "Awesome mobile view"
+    },
+    {
+      "src": "./assets/png/tablet.png",
+      "type": "image/png",
+      "sizes": "768x1024",
+      "form_factor": "narrow",
+      "label": "Awesome tablet view"
+    },
+    {
+      "src": "./assets/png/laptop.png",
+      "type": "image/png",
+      "sizes": "1366x768",
+      "form_factor": "wide",
+      "label": "Awesome laptop view"
+    },
+    {
+      "src": "./assets/png/desktop.png",
+      "type": "image/png",
+      "sizes": "1920x1080",
+      "form_factor": "wide",
+      "label": "Awesome desktop view"
     }
   ],
+  "prefer_related_applications": true,
   "related_applications": [
     {
       "platform": "play",
-      "url": "https://play.google.com/store/apps/details?id=BuddhistMonk"
+      "id": "com.tipitaka.app",
+      "min_version": "2",
+      "fingerprints": [],
+      "url": "https://play.google.com/store/apps/details?id=com.tipitaka.app"
+    },
+    {
+      "platform": "windows",
+      "url": "https://apps.microsoft.com/store/detail/tipitaka/id123456789"
+    }
+  ],
+  "share_target": {
+    "action": "/file-collector",
+    "method": "POST",
+    "enctype": "multipart/form-data",
+    "params": {
+      "title": "name",
+      "text": "description",
+      "url": "link",
+      "files": [
+        {
+          "name": "lists",
+          "accept": ["text/csv", ".csv"]
+        },
+        {
+          "name": "photos",
+          "accept": ["image/svg+xml", ".svg"]
+        }
+      ]
+    }
+  },
+  "file_handlers": [
+    {
+      "action": "/handle-audio-file",
+      "accept": {
+        "audio/wav": [".wav"],
+        "audio/x-wav": [".wav"],
+        "audio/mpeg": [".mp3"],
+        "audio/mp4": [".mp4"],
+        "audio/aac": [".adts"],
+        "audio/ogg": [".ogg"],
+        "application/ogg": [".ogg"],
+        "audio/webm": [".webm"],
+        "audio/flac": [".flac"],
+        "audio/mid": [".rmi", ".mid"]
+      }
+    }
+  ],
+  "launch_handler": {
+    "client_mode": ["focus-existing, auto"]
+  },
+  "protocol_handlers": [
+    {
+      "protocol": "web+jngl",
+      "url": "/lookup?type=%s"
+    },
+    {
+      "protocol": "web+jnglstore",
+      "url": "/shop?for=%s"
     }
   ]
 }

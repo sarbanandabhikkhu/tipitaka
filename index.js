@@ -1,13 +1,32 @@
-import registerServiceWorker from "./registerServiceWorker.js";
+// import registerServiceWorker from "./registerServiceWorker.js";
 
 import filetree from "./lib/filetree.js";
 // import breadcrumbs from "./lib/breadcrumbs.js";
 import window from "./lib/window.js";
+import icons from "./utils/icons.js";
 
 // https://sarbanandabhikkhu.github.io/tipitaka-xml/lib/clickWord.js
 import dictionaries from "./lib/dictionaries.js";
 
 document.addEventListener("DOMContentLoaded", () => {
+  const markup = `
+    <section class="layout__container">
+      <header>
+        <div class="nav-opener">${icons.menu_burger}</div>
+        <div class="tab__buttons"></div>
+        <div class="nav-items">${icons.menu_dots}</div>
+      </header>
+      <nav class="navigation">
+        <div class="nav-closer"></div>
+        <div class="nav-header">Navigation</div>
+      </nav>
+      <main></main>
+      <footer></footer>
+    </section>
+  `;
+
+  document.body.innerHTML = markup;
+
   const navigation = document.querySelector(".navigation");
   const navOpener = document.querySelector(".nav-opener");
   const navCloser = document.querySelector(".nav-closer");
