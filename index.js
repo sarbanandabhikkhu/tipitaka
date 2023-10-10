@@ -23,6 +23,7 @@ document.addEventListener("DOMContentLoaded", () => {
       <main></main>
       <footer></footer>
     </section>
+    <script src="./index.js" type="module"></script>
   `;
 
   document.body.innerHTML = markup;
